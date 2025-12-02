@@ -17,3 +17,8 @@ Welcome. This site presents my ongoing Sanskrit–English translation of the *Ś
 - [Introduction](intro.md)
 - [Verses 1–10](verses-01-10.md)
 - (More sections coming soon)
+
+## Verses
+
+- [Verse 1](verses/verse-001.md)
+- (More coming soon)
