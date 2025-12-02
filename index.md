@@ -15,7 +15,6 @@ Welcome. This site presents my ongoing Sanskrit–English translation of the *Ś
 ## Sections
 
 - [Introduction](intro.md)
-- [Verses 1–10](verses-01-10.md)
 - (More sections coming soon)
 
 ## Verses
