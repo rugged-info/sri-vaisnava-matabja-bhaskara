@@ -1,0 +1,99 @@
+# ----------------------------
+# Python
+# ----------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python build artifacts
+build/
+dist/
+*.egg-info/
+
+# ----------------------------
+# OCR / Image intermediates
+# ----------------------------
+# Rendered PDF pages
+pages/
+**/pages_png/
+
+# Raw OCR output
+ocr_txt_raw/
+**/ocr_txt_raw/
+
+# Debug / intermediate images
+debug/
+**/debug/
+intermediate/
+**/intermediate/
+
+# Temporary OCR artifacts
+*_ocr.*
+*.hocr
+
+# ----------------------------
+# Large or generated text outputs
+# ----------------------------
+# Cleaned per-page text (regenerateable)
+ocr_txt_clean/
+**/pages/
+**/pages/ocr_txt_clean/
+
+# Translated per-page outputs (can be regenerated)
+translated_txt/
+**/translated_txt/
+
+translated_md/
+**/translated_md/
+
+# Combined / merged outputs
+merged_*.txt
+translation*.txt
+
+# Verse entries for site generation (regenerable)
+entries.jsonl
+
+# ----------------------------
+# PDFs & scans (usually large / source data)
+# ----------------------------
+*.pdf
+*.tif
+*.tiff
+*.png
+*.jpg
+*.jpeg
+*.nef
+
+# (Uncomment if you *want* to track PDFs)
+# !source_pdfs/*.pdf
+
+# ----------------------------
+# Jekyll / site build artifacts
+# ----------------------------
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# ----------------------------
+# OS / editor noise
+# ----------------------------
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor swap files
+*.swp
+*.swo
+*~
+
+# ----------------------------
+# Logs
+# ----------------------------
+*.log
