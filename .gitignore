@@ -1,67 +1,18 @@
-# ----------------------------
-# Python
-# ----------------------------
-__pycache__/
-*.py[cod]
-*.pyo
-*.pyd
-
-# Virtual environments
+# ==========================
+# Python / Virtual Env
+# ==========================
 .venv/
 venv/
 env/
 
-# Python build artifacts
-build/
-dist/
-*.egg-info/
+__pycache__/
+*.py[cod]
+*.pyo
 
-# ----------------------------
-# OCR / Image intermediates
-# ----------------------------
-# Rendered PDF pages
-pages/
-**/pages_png/
-
-# Raw OCR output
-ocr_txt_raw/
-**/ocr_txt_raw/
-
-# Debug / intermediate images
-debug/
-**/debug/
-intermediate/
-**/intermediate/
-
-# Temporary OCR artifacts
-*_ocr.*
-*.hocr
-
-# ----------------------------
-# Large or generated text outputs
-# ----------------------------
-# Cleaned per-page text (regenerateable)
-ocr_txt_clean/
-**/pages/
-**/pages/ocr_txt_clean/
-
-# Translated per-page outputs (can be regenerated)
-translated_txt/
-**/translated_txt/
-
-translated_md/
-**/translated_md/
-
-# Combined / merged outputs
-merged_*.txt
-translation*.txt
-
-# Verse entries for site generation (regenerable)
-entries.jsonl
-
-# ----------------------------
-# PDFs & scans (usually large / source data)
-# ----------------------------
+# ==========================
+# OCR / Image Artifacts
+# ==========================
+# Source scans (large, non-versioned)
 *.pdf
 *.tif
 *.tiff
@@ -70,30 +21,64 @@ entries.jsonl
 *.jpeg
 *.nef
 
-# (Uncomment if you *want* to track PDFs)
-# !source_pdfs/*.pdf
+# Scripts
+scripts/
 
-# ----------------------------
-# Jekyll / site build artifacts
-# ----------------------------
+# Rendered pages from PDF
+pages_png/
+**/pages_png/
+
+# OCR raw outputs
+ocr_txt_raw/
+**/ocr_txt_raw/
+
+# Cleaned but regenerable text
+ocr_txt_clean/
+**/ocr_txt_clean/
+
+# Debug / intermediate images
+debug/
+**/debug/
+intermediate/
+**/intermediate/
+
+*_ocr.*
+*.hocr
+
+# ==========================
+# Translation Outputs (regenerable)
+# ==========================
+translated_txt/
+**/translated_txt/
+
+translated_md/
+**/translated_md/
+
+merged_*.txt
+translation*.txt
+entries.jsonl
+
+# ==========================
+# Jekyll build artifacts
+# ==========================
 _site/
-.sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+.sass-cache/
 
-# ----------------------------
-# OS / editor noise
-# ----------------------------
+# ==========================
+# Logs / Temp
+# ==========================
+*.log
+*.tmp
+
+# ==========================
+# OS / Editor Noise
+# ==========================
 .DS_Store
 .AppleDouble
 .LSOverride
 
-# Editor swap files
 *.swp
 *.swo
 *~
-
-# ----------------------------
-# Logs
-# ----------------------------
-*.log

@@ -1,0 +1,29 @@
+title: Śrī Vaiṣṇava Matābja Bhāskara
+description: >
+  A digital scholarly edition of the Śrī Vaiṣṇava Matābja Bhāskara,
+  with Sanskrit text, translation, and structured commentary.
+
+theme: jekyll-theme-minimal
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+kramdown:
+  input: GFM
+  hard_wrap: false
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+
+# GitHub Pages
+baseurl: ""      # leave empty for user.github.io/repo
+url: ""          # GitHub Pages fills this
+
+# Exclusions
+exclude:
+  - scripts
+  - .venv
+  - README.md
+  - requirements.txt
+
+# Optional: show excerpts cleanly
+show_excerpts: false
