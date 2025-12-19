@@ -4,6 +4,7 @@ title: "Hymn in Praise of Śrī Rāma"
 section: 1
 subsection: 1
 text: "Śrī Vaiṣṇava Matābja Bhāskara"
+verse_range: "v000004"
 ---
 
 <nav>
@@ -15,5 +16,4 @@ text: "Śrī Vaiṣṇava Matābja Bhāskara"
 
 ## Hymn in Praise of Śrī Rāma
 
-_This section will be populated with translated text and commentary._
-
+- [Verse 1]({{ "/01/verses/v000004/" | relative_url }})
