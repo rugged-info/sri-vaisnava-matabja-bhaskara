@@ -17,15 +17,19 @@ source_pages:
 
 ## 1. Verse — मूलपाठः
 
+<--!
 ~~~sanskrit
 {{DEVANAGARI_VERSE}}
 ~~~
+-->
 
 ## 2. Interpretive explanation 
 
+<--!
 ~~~sanskrit
 {{DEVANAGARI_SAMVITKARA}}
 ~~~
+-->
 
 ~~~Interpretive explanation 
 
