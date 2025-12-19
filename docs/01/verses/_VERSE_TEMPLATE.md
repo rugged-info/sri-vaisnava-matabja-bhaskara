@@ -23,32 +23,28 @@ source_pages:
 
 ## 2. Interpretive explanation - संवित्करः 
 
-~~~Interpretive explanation 
-
+~~~
 {{SAMVITKARA_EXPLANATION}}
 ~~~
 
 ## 3. Word-by-word analysis - पदपरामर्शः
 
-~~~Word-by-word analysis
-
+~~~
 {{PADPARAMARSHA_ANALYSIS}}
 ~~~
 
 ## 5 Devanagari Source
 
-~~~sanskrit
+~~~ मूलपाठः
+
 {{DEVANAGARI_VERSE}}
 ~~~
 
-~~~sanskrit
+~~~ संवित्करः
+
 {{DEVANAGARI_SAMVITKARA}}
 
-~~~sanskrit
+~~~ पदपरामर्शः
+
 {{DEVANAGARI_PADPARAMARSHA}}
 ~~~
-
--- ~~~sanskrit
-{{DEVANAGARI_PADPARAMARSHA}}
-~~~
-
