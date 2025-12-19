@@ -17,33 +17,38 @@ source_pages:
 
 ## 1. Verse — मूलपाठः
 
-<--!
-~~~sanskrit
-{{DEVANAGARI_VERSE}}
 ~~~
--->
-
-## 2. Interpretive explanation 
-
-<--!
-~~~sanskrit
-{{DEVANAGARI_SAMVITKARA}}
+{{VERSE_TRANSLATION}}
 ~~~
--->
+
+## 2. Interpretive explanation - संवित्करः 
 
 ~~~Interpretive explanation 
 
 {{SAMVITKARA_EXPLANATION}}
 ~~~
 
-## 3. Word-by-word analysis
+## 3. Word-by-word analysis - पदपरामर्शः
+
+~~~Word-by-word analysis
+
+{{PADPARAMARSHA_ANALYSIS}}
+~~~
+
+## 5 Devanagari Source
+
+~~~sanskrit
+{{DEVANAGARI_VERSE}}
+~~~
+
+~~~sanskrit
+{{DEVANAGARI_SAMVITKARA}}
 
 ~~~sanskrit
 {{DEVANAGARI_PADPARAMARSHA}}
 ~~~
 
-~~~Word-by-word analysis
-
-{{PADPARAMARSHA_ANALYSIS}}
+-- ~~~sanskrit
+{{DEVANAGARI_PADPARAMARSHA}}
 ~~~
 
