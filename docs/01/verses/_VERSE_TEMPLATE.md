@@ -17,25 +17,29 @@ source_pages:
 
 ## 1. Verse — मूलपाठः
 
-```sanskrit
+~~~sanskrit
 {{DEVANAGARI_VERSE}}
+~~~
 
 ## 2. Interpretive explanation 
 
-```sanskrit
-{{SAMVITKARA_EXPLANATION}}
+~~~sanskrit
+{{DEVANAGARI_SAMVITKARA}}
+~~~
 
-```Interpretive explanation 
+~~~Interpretive explanation 
 
 {{SAMVITKARA_EXPLANATION}}
+~~~
 
 ## 3. Word-by-word analysis
 
-```sanskrit
+~~~sanskrit
 {{DEVANAGARI_PADPARAMARSHA}}
+~~~
 
-```Word-by-word analysis
+~~~Word-by-word analysis
 
 {{PADPARAMARSHA_ANALYSIS}}
-
+~~~
 
