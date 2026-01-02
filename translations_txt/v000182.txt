@@ -1,0 +1,37 @@
+SOURCE_PAGES: page_0254.txt
+
+=== मूलपाठः ===
+
+
+मार्गे ततः सोऽर्चिरुपैति मुक्तकस्तथाऽर्चिषोऽहो दिनतः सुरार्चितः ।
+आपूर्यमाणं विविधेस्तु वासरैः पक्षं प्रभूतोत्तमशर्मविज्वरः ।।१८२।।
+
+mārge tataḥ so’rcirupaiti muktakastathā’rciṣo’ho dinataḥ surārcitaḥ ।
+āpūryamāṇaṃ vividhestu vāsaraiḥ pakṣaṃ prabhūtottamaśarmavijvaraḥ ॥182॥
+
+मार्गे (mārge), मार्ग (mārga), masculine, locative singular
+ततः (tataḥ), तत् (tat), indeclinable (adverb)
+सः (saḥ), स (sa), pronoun, nominative singular, masculine
+अर्चि (arci), अर्चि (arci), masculine, accusative singular
+उपैति (upaiti), उप (upa), verb root उपै (upai), 3rd person singular, present, active indicative
+मुक्तक (muktaka), मुक्तक (muktaka), masculine, nominative singular
+तथा (tathā), indeclinable (adverb/conjunction)
+अर्चिषः (arciṣaḥ), अर्चि (arci), masculine, genitive singular
+ओऽ (o’ = ओ अ), vocative interjection ("O!")
+दिनतः (dinataḥ), दिन (dina), neuter, ablative singular
+सुरार्चितः (surārcitaḥ), सुरार्चित (surārcita), masculine, nominative singular, past passive participle
+आपूर्यमाणं (āpūryamāṇaṃ), आपूर्यमाण (āpūryamāṇa), neuter, accusative singular, present passive participle
+विविधेषु (vividheṣu), विविध (vividh), neuter, locative plural
+तु (tu), indeclinable (particle)
+वासरैः (vāsaraiḥ), वासर (vāsara), masculine, instrumental plural
+पक्षं (pakṣaṃ), पक्ष (pakṣa), masculine, accusative singular
+प्रभूत (prabhūta), प्रभूत (prabhūta), masculine, nominative singular, past passive participle
+उत्तमशर्मविज्वरः (uttamaśarmavijvaraḥ), उत्तमशर्मविज्वर (uttamaśarmavijvara), masculine, nominative singular, compound word (tatpuruṣa)
+
+On the path (mārge, loc. sg.) then (tataḥ) he (saḥ) approaches (upaiti) the fire (arci, acc. sg.) free (muktaka, subj.) thus (tathā) O (vocative) of the fire's (arciṣaḥ, gen. sg.) day (dina, abl. sg.) worshipped by gods (surārcitaḥ, nom. sg. past passive participle).  
+Filling (āpūryamāṇaṃ, acc. sg.) various (vividheṣu, loc. pl.) with days (vāsaraiḥ, inst. pl.) the wing (pakṣaṃ, acc. sg.) distinguished (prabhūt, nom. sg. past passive participle) uttamaśarmavijvaraḥ (name/compound).
+
+On the path then he, freed, approaches the fire, O, worshipped by gods from day to day.  
+Filling diversely with days, the wing, distinguished, is uttamaśarmavijvaraḥ.
+
+(Note: The last compound "उत्तमशर्मविज्वरः" is a proper name or epithet; "uttama-śarma-vijvara".)

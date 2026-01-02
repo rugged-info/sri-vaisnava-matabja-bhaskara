@@ -1,0 +1,38 @@
+SOURCE_PAGES: page_0076.txt
+
+=== मूलपाठः ===
+
+
+पितापुत्रत्वसम्बन्धी जगत्कारणवाचिना ।
+रक्ष्यरक्षक भावश्च रेण रक्षक वाचिना ।।१४।।
+शोषशेषित्वसम्बन्धश्चतुर्ध्या लुप्तयोच्यते ।
+भार्याभर्तृत्वसम्बन्धी ऽप्यनर्व्याहत्ववाचिना।।१५।।
+
+
+pitāputratvasambandhī jagatkāraṇavācinā ।
+rakṣyarakṣaka bhāvaśca reṇa rakṣaka vācinā ।।14।।
+śoṣaśeṣitvasambandhaścaturdhyā luptayocyate ।
+bhāryābhartṛtvasambandhī ʼpyanarvyāhatvavācinā।।15।।
+
+पितापुत्रत्वसम्बन्धी (pitāputratvasambandhī), पितापुत्रत्व (pitāputratva) [पिता (pitā) - father (nom. m. sing.), पुत्र (putra) - son (nom. m. sing.), त्व (tva) - suffix forming abstract noun: ‘father-son-hood’], सम्बन्धी (sambandhī) - (adj., nom. m./f. sing.) related to; compound type: tatpuruṣa  
+जगत्कारणवाचिना (jagatkāraṇavācinā), जगत् (jagat) - world (instr. sing.), कारण (kāraṇa) - cause (compound stem), वाचिना (vācinā) - by the one who says (instr. sing., from verb root वच् (vac) - to speak); compound type: bahuvrīhi  
+रक्ष्यरक्षक (rakṣyarakṣaka), रक्ष्य (rakṣya) - to be protected (future passive participle), रक्षक (rakṣaka) - protector (nom. m. sing.); compound type: dvandva  
+भावश्च (bhāvaśca), भाव (bhāva) - state, emotion (nom. m. sing.), च (ca) - and (indeclinable conjunction)  
+रेण (reṇa), रेणु (reṇu) - dust, pollen; here instr. sing. with metaphorical meaning, likely instrumental form  
+रक्षक (rakṣaka), as above, protector (nom. m. sing.)  
+वाचिना (vācinā), as above, by the speaker (instr. sing.)  
+शोषशेषित्वसम्बन्धश्चतुर्ध्या (śoṣaśeṣitvasambandhaścaturdhyā), शोष (śoṣa) - drying up (nom. m. sing.), शेषित्व (śeṣitva) - remaining-ness (nom. m. sing.), सम्बन्ध (sambandha) - relation (nom. m. sing.), च (ca) - and (indeclinable conjunction), चतुर्ध्या (caturdhyā) - in four ways, instr. sing. feminine (from चaturdha, adv.)  
+लुप्तयोच्यते (luptayocyate), लुप्त (lupta) - lost (past participle), योग्यते (yogyate) - is said, here causative form; verb, 3rd person singular, present passive or middle voice  
+भार्याभर्तृत्वसम्बन्धी (bhāryābhartṛtvasambandhī), भार्या (bhāryā) - wife (nom. f. sing.), अर्थृत्व (abhartṛtva) - wifely/breadwinning state (nom. m. sing.), सम्बन्धी (sambandhī) - related to (adj., nom. m./f. sing.)  
+ऽपि (ʼpi), अपि - also, even (indeclinable particle)  
+अनर्व्याहत्ववाचिना (anarvyāhatvavācinā), अनर्व्याहत्व (anarvyāhatva) - absence of interruption (nom. m. sing.), वाचिना (vācinā) - by the speaker (instr. sing.)  
+
+Literally:  
+(Related to father-sonhood), (by the speaker who speaks of the cause of the world),  
+(The state of protector and protected too), (by the protector, as said by dust). (14)  
+(Related to the state of drying up and remaining-ness, in four ways), (is said to be lost).  
+(Related to the wifely/breadwinning state), (also, by the speaker of absence of interruption). (15)  
+
+Smooth:  
+(14) Related to the father-son relationship, by the speaker who explains the cause of the world, there is also the relation of protector and protected, as said by the protector through dust.  
+(15) The relation concerning the state of drying up and what remains is explained in four ways as lost, and similarly the relation connected to the wifely and breadwinning roles is described by the speaker as involving absence of interruption.

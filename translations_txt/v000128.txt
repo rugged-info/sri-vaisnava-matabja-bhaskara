@@ -1,0 +1,30 @@
+SOURCE_PAGES: page_0198.txt
+
+=== मूलपाठः ===
+
+
+विरक्तैवैष्णवैस्तस्मादारूढपतितो न हि व्यवहारेषु
+योक्तव्यः तत्संसर्गोऽपि पापकृत् ।।१२८॥।।
+
+viraktaivaaiṣṇavaistasmādārūḍhapatito na hi vyavahāreṣu
+yoktavyaḥ tatsaṁsargo'pi pāpakṛt ।।128।।
+
+विरक्तः (viraktaḥ), विरक्ति (noun, masculine, nominative, singular) + एव (eva), अव्यय (indeclinable)  
+ऐष्णवैः (aiṣṇavaiḥ), ऐष्णव (adjective, masculine, instrumental, plural)  
+तस्मात् (tasmāt), तस्मात् (pronoun, ablative, singular, neuter)  
+आरूढः (ārūḍhaḥ), आरूढ (participle, masculine, nominative, singular, perfect passive participle)  
+पतितः (patitaḥ), पतित (participle, masculine, nominative, singular, perfect passive participle)  
+न (na), न (negation particle)  
+हि (hi), हि (emphatic particle / indeclinable)  
+व्यवहारेषु (vyavahāreṣu), व्यवहार (noun, masculine, locative, plural)  
+योक्तव्यः (yoktavyaḥ), युक्तव्य (gerundive, masculine, nominative, singular)  
+तत् (tat), तत् (pronoun, nominative, singular, neuter)  
+संसर्ग़ः (saṁsargaḥ), संशर्ग (noun, masculine, nominative, singular)  
+अपि (api), अपि (indeclinable, particle meaning "also")  
+पापकृत् (pāpakṛt), पापकृत (compound bahuvrīhi: पाप + कृत, meaning "sin-maker", adjective, masculine, nominative, singular)  
+
+Detached from devotees (viraktaḥ eva aiṣṇavaiḥ) from them (tasmāt) upward (ārūḍhaḥ) and fallen (patitaḥ) not indeed (na hi) in dealings (vyavahāreṣu), must be joined (yoktavyaḥ) that connection (tat saṁsargaḥ) also (api) by the sinner (pāpakṛt).
+
+One who is detached even from devotees, whether exalted or fallen, indeed must not be associated in dealings; that connection must be avoided even by the sinner.
+
+One who is truly detached from devotees, whether ascended or fallen, indeed should not engage in worldly dealings; even the sinful must avoid such association.

@@ -1,0 +1,77 @@
+SOURCE_PAGES: page_0254.txt
+
+=== मूलपाठः ===
+
+
+मार्गे ततः सोऽर्चिरुपैति मुक्तकस्तथाऽर्चिषोऽहो दिनतः सुरार्चितः ।
+आपूर्यमाणं विविधेस्तु वासरैः पक्षं प्रभूतोत्तमशर्मविज्वरः ।।१८२।।
+पक्षादुदङ्मासमथी षडात्मकं तेभ्यश्च सम्वत्सरमब्दतो रविम् ।
+चन्द्रं ततश्चन्द्रमसोऽथ विद्युतं स तत्र तत्राखिलदेवपूजितः ।।१८३।।
+परं पदं सोऽयमुपेत्य नित्यममानवं ब्रह्मपथेन तेन ।
+सायुज्यमेव प्रतिलभ्य तत्र प्राप्यस्य सन्रन्दति तेन साकम् ।।१८४।।
+
+mārge tataḥ so'rcirupaiti muktakastathārciṣo'ho dinataḥ surārcitaḥ ।
+āpūryamāṇaṃ vividhestu vāsaraiḥ pakṣaṃ prabhūto'ttamaśarmavijvaraḥ ॥182॥
+pakṣādudaṅmāsamathī ṣaḍātmakaṃ tebhyaśca samvatsaramabdato ravim ।
+candraṃ tataścandramaso'tha vidyutaṃ sa tatra tatrākhiladevapūjitaḥ ॥183॥
+paraṃ padaṃ so'yamupetya nityamamānavaṃ brahmapathena tena ।
+sāyujyameva pratilabhya tatra prāpyasya sanrandati tena sākam ॥184॥
+
+मार्गे (mārge), मार्गः (mārgaḥ), masculine, singular, locative (in/on the path)
+ततः (tataḥ), ततः (tataḥ), indeclinable (adverb) meaning "then, thereafter"
+सोऽर्चिः (so'rcir), सो-अर्चिः (so-archiḥ), masculine, singular, nominative (he, the light)
+उपैति (upaiti), उप + आगम् (upa + āgam), verb, third person singular present indicative active (comes near)
+मुक्तकः (muktakaḥ), मुक्तकः (muktakaḥ), masculine, singular, nominative (liberated one)
+तथा (tathā), indeclinable (thus, so)
+अर्चिषः (arciṣaḥ), अर्चिः (arciḥ), masculine, singular, nominative (light/radiance)
+अहो (aho), अहः (ahaḥ), masculine, singular, nominative (day)
+दिनतः (dinataḥ), दिनतः (dinataḥ), masculine, singular, nominative or instrumental (from day)
+सुरा-अर्चितः (surārcitaḥ), compound Bahuvrīhi (surā + arcitaḥ), adjective meaning "adored by gods"
+आपूर्यमाणं (āpūryamāṇaṃ), आपूर्यमान (āpūryamāṇa), present passive participle, neuter singular accusative (being filled)
+विविधे (vividhe), विविध (vividh), masculine/neuter singular locative (in various)
+तु (tu), indeclinable ("but, however")
+वासरैः (vāsaraiḥ), वासरः (vāsaraḥ), masculine plural instrumental (by days)
+पक्षम् (pakṣam), पक्ष (pakṣa), masculine singular accusative (waning/bright fortnight)
+प्रभूतः (prabhūtaḥ), प्रभूत (prabhūta), masculine singular nominative (powerful, abundant)
+उत्तम-शर्म-विज्वरः (uttama-śarma-vijvaraḥ), compound Tatpuruṣa, masculine singular nominative (uttama + śarma + vijvara) (best guardian vijvara)
+
+पक्षाद् (pakṣād), पक्ष (pakṣa), masculine singular ablative (from the fortnight)
+उदङ्मास-मथी (udaṅmāsa-mathī), compound Tatpuruṣa, feminine singular nominative (uda + māsa + mathī) (moon of the full month)
+षडात्मकं (ṣaḍ-ātmakam), compound Tatpuruṣa, neuter singular accusative (consisting of six parts)
+तेभ्यः (tebhyaḥ), pronoun, third person plural dative/instrumental (to them)
+च (ca), indeclinable (and)
+संवत्सरम् (samvatsaram), masculine singular accusative/nominative (year)
+अब्दतः (abdataḥ), masculine singular ablative (from the month)
+रविम् (ravim), masculine singular accusative (sun)
+चन्द्रम् (candram), masculine singular accusative (moon)
+ततः (tataḥ), indeclinable (thereafter)
+चन्द्र-मसः (candramasaḥ), masculine singular genitive (of the moon)
+अथ (atha), indeclinable (then)
+विद्युतम् (vidyutam), masculine singular accusative (lightning)
+स (sa), pronoun masculine singular nominative (he)
+तत्र (tatra), indeclinable (there)
+तत्र (tatra), indeclinable (there)
+अखिल-देव-पूजितः (akhila-deva-pūjitaḥ), compound Bahuvrīhi/Tatpuruṣa, masculine singular nominative (worshipped by all gods)
+
+परम् (param), adjective/indeclinable, neuter singular accusative (supreme)
+पदम् (padam), neuter singular accusative (foot/position)
+सः (saḥ), pronoun masculine singular nominative (he)
+अयम् (ayam), pronoun masculine singular nominative (this)
+उपेत्य (upetya), gerund (after having reached)
+नित्यम् (nityam), indeclinable (always)
+अमानवम् (amānavaṃ), adjective accusative singular neuter (non-human)
+ब्रह्म-पथेन (brahma-pathena), compound Tatpuruṣa, masculine singular instrumental (by the path of Brahman)
+तेन (tena), pronoun masculine singular instrumental (by him)
+सायुज्यं (sāyujyaṃ), neuter singular accusative (union, merging)
+एव (eva), indeclinable (only, indeed)
+प्रतिलभ्य (pratilabhya), gerund (having received)
+तत्र (tatra), indeclinable (there)
+प्राप्य (prāpya), gerund (having obtained)
+अस्य (asya), pronoun masculine singular genitive (of him)
+सन्रन्दति (sanrandati), verb third person singular present indicative (shudders/quivers)
+तेन (tena), pronoun masculine singular instrumental (by him)
+साकम् (sākam), indeclinable (together, along with)
+
+(He, the liberated light, then approaches on the path; thus the light of the day adored by gods. Being filled with various days, the fortnight is dominantly guarded by the best protector "vijvara." From the fortnight, the moon of the full months, consisting of six parts, and from them also, the year from the month, the sun, the moon, and then the lightning; he is worshipped everywhere by all gods. Having reached the supreme position, always non-human, by the path of Brahman, he obtains the union; having attained it, he trembles together with him.)
+
+On the path, then the liberated light approaches; thus the daylight adored by the gods. The fortnight is filled with many days and is dominantly guarded by the greatest protector, Vijvara. From the fortnight comes the moon of full months consisting of six parts; from them comes the year from the months, the sun, the moon, and then the lightning; he is worshipped throughout by all gods. Having attained the supreme position, always beyond the human, by the path of Brahman, he obtains union; having achieved this, he rejoices in it together with him.

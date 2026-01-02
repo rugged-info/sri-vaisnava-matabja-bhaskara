@@ -1,0 +1,26 @@
+SOURCE_PAGES: page_0197.txt
+
+=== मूलपाठः ===
+
+
+प्रच्युतो नैष्ठिकाद्धर्मादात्महापि प्रकीर्तितः मठाध्यक्षत्वदीक्षादौ बहिष्कार्यः स यत्रतः ।।१२६।।
+
+pracyuto naiṣṭhikāddharmādātmahāpi prakīrtitaḥ maṭhādhyakṣatvadīkṣādau bahiṣkāryaḥ sa yatrataḥ
+
+प्रच्युतः (pracyutaḥ), प्रच्युत, adj. (past participle), nominative singular masculine  
+नैष्ठिकाद् (naiṣṭhikād), नैष्ठिक, noun, ablative singular masculine  
+धर्मात् (dharmāt), धर्म, noun, ablative singular masculine  
+आत्मह (ātmaha), आत्म (self) + ह (ah, from हन् to kill), noun compound (tatpuruṣa), nominative singular masculine  
+अपि (api), indeclinable (particle)  
+प्रकीर्तितः (prakīrtitaḥ), प्रकीर्तित (past participle of प्रकीर्त्), nominative singular masculine  
+मठाध्यक्षत्व (maṭhādhyakṣatva), compound noun (maṭha + adhyakṣa + tva), nominative singular neuter  
+दीक्षादौ (dīkṣādau), दीक्षा, noun, dual locative  
+बहिष्कार्यः (bahiṣkāryaḥ), बहिष्कार्य, adjective, nominative singular masculine  
+स (sa), pronoun, nominative singular masculine  
+यत्रतः (yatrataḥ), यत्र (where) + तः (from), adverb
+
+pra-cyutaḥ (fallen down, overthrown), naiṣṭhika-āt dharmāt (from the established duty), ātmā (self) + api (also), prakīrtitaḥ (is declared), maṭhādhyakṣatva (being head of the monastery), dīkṣādau (at the time of initiation and the like), bahiṣkāryaḥ (to be rejected, excluded), sa (he), yatrataḥ (from all sides, everywhere).
+
+Overthrown from the steadfast duty (naiṣṭhika-dharma) of the self as well, he who is declared the head of the monastery, at the times of initiation and such, is to be excluded everywhere.
+
+He, having fallen away even from the steadfast duty of the self, who is proclaimed as head of the monastery at initiations and so forth, must be excluded from everywhere.

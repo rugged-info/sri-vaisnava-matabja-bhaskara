@@ -1,0 +1,40 @@
+SOURCE_PAGES: page_0150.txt
+
+=== मूलपाठः ===
+
+
+कृतार्थयितुं जात इति भावः  
+तामष्टमीवेधयुतां विहाय व्रतोत्सवं तत्र करोतु भक्तः ।  
+असङ्ख्यसूर्यग्रहतोऽधिका वे या केवला सा नवमीत्युपोष्या ।।८८।।  
+
+kṛtārthayituṃ jāta iti bhāvaḥ  
+tāmaṣṭamīvedhayutāṃ vihāya vratotsavaṃ tatra karotu bhaktaḥ |  
+asaṅkhyasūryagrahato'dhikā ve yā kevalā sā navamītyupoṣyā ||88||  
+
+कृतार्थयितुं (kṛtārthayituṃ), कृतार्थयितुम् (infinitive form of the verb कृतार्थयति - causative of कृ meaning 'to make accomplished or satisfied'), कृतार्थ (verbal root), infinitive  
+जात (jāta), जात (past participle of √जन् 'to be born' or 'to arise'), perfect passive participle, masculine singular nominative  
+इति (iti), इति (indeclinable, particle meaning 'thus' or 'so')  
+भावः (bhāvaḥ), भाव (masculine singular nominative), noun meaning 'feeling, sense, intention'  
+
+तामष्टमीवेधयुतां (tāmaṣṭamīvedhayutāṃ), तम् (demonstrative pronoun, accusative singular feminine) + अष्टमी (aṣṭamī, feminine noun, nominative/accusative singular meaning 'eighth lunar day') + वेध (veda: 'penetrate, pierce' or 'marking' here probably part of compound) + युतां (yutāṃ, past participle, feminine singular accusative of युत - 'joined, united'), compound tatpuruṣa or bahuvrīhi (need context)  
+विहाय (vihāya), verb from √वि-हृ (separating), gerund, ablative absolute participle meaning 'having abandoned'  
+व्रतोत्सवं (vratotsavaṃ), व्रत (vrata), masculine noun, accusative singular + उत्सव (utsava), masculine noun, accusative singular; compound tatpuruṣa meaning 'vow festival'  
+तत्र (tatra), indeclinable adverb meaning 'there'  
+करोतु (karotu), कृ verb, imperative mood, 3rd person singular, active voice meaning 'let him do'  
+भक्तः (bhaktaḥ), भक्त (masculine singular nominative), noun meaning 'devotee, servant'  
+
+असङ्ख्यसूर्यग्रहतोऽधिका (asaṅkhyasūryagrahato'dhikā), असङ्ख्य (asaṅkhya), adjective, feminine singular nominative meaning 'innumerable' + सूर्यग्रहण (sūryagrahaṇa), masculine noun, singular ablative meaning 'solar eclipse' + अधिका (adhikā), feminine singular nominative adjective meaning 'more' or 'abundant' compound bahuvrīhi meaning 'more than innumerable solar eclipses'  
+वे (ve), indeclinable particle, vocative or emphatic particle  
+या (yā), relative pronoun, feminine singular nominative meaning 'who'  
+केवला (kevalā), adjective, feminine singular nominative meaning 'alone, only, mere'  
+सा (sā), pronoun, feminine singular nominative 'she, that'  
+नवमीत्युपोष्या (navamītyupoṣyā), नवमी (navamī) feminine noun, nominative singular meaning 'ninth lunar day' + इति (iti) indeclinable particle + उपोष्या (upoṣyā) future participle, feminine singular nominative of उपोष् 'to fast' = 'to be fasted on the ninth'  
+
+Literal translation:  
+(The) feeling (bhāvaḥ) that (iti) the born (jāta) is to make accomplished (kṛtārthayituṃ) —  
+Having abandoned (vihāya) that (tām) joined with the eighth lunar day (aṣṭamīvedhayutām) vow festival (vratotsavaṃ), there (tatra) may the devotee (bhaktaḥ) perform (karotu).  
+More abundant than (adhikā) innumerable (asaṅkhya) solar eclipses (sūryagrahaṇa), who (yā) is that mere (kevalā) one (sā) who is to fast on the ninth lunar day (navamītyupoṣyā).  
+
+Smooth English translation:  
+The feeling arises that the vow festival joined with the eighth lunar day having been abandoned, the devotee should perform the vow festival there.  
+That fast kept on the ninth lunar day is more meritorious than countless solar eclipses, so the one who fasts on the ninth alone is the supreme devotee.

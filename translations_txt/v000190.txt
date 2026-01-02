@@ -1,0 +1,28 @@
+SOURCE_PAGES: page_0264.txt
+
+=== मूलपाठः ===
+
+
+तथा बदर्याभिध आश्रमे वरे सुरर्षिराजर्षिमहर्षिसेविते ।
+नारायणं लोकनमस्कृताङ्प्रिकं मुनीशसेव्ये त्वथ नैमिषे हरिम् ।।१९०।।  
+
+tathā badaryābhidha āśrame vare surarṣirājaṛṣimaharṣisevite  
+nā­rāyaṇaṃ lokanamaskṛtāṅprikaṃ munīśasevye tvatha naimiṣe harim  
+
+तथा (tathā), indeclinable, adverb;  
+बदर्याभिध (badaryābhidha), noun, masculine, singular, nominative, tatpuruṣa compound; base: बदर्याभिध (name of an ashram);  
+आश्रमे (āśrame), noun, masculine, singular, locative; base: आश्रम (ashram);  
+वरे (vare), noun, masculine, singular, locative; base: वर (best, excellent);  
+सुरर्षिराजर्षिमहर्षिसेविते (surarṣirājaṛṣimaharṣisevite), compound word, locative singular feminine (participle-like), from सुरर्षि, राजर्षि, महर्षि, सेवित (served by); tatpuruṣa or bahuvrīhi compound of multiple elements (gods-rishis-kings-rishis-maharshis served);  
+नारायणं (nārāyaṇaṃ), noun, masculine, singular, accusative; base: नारायण (Narayana);  
+लोकनमस्कृताङ्प्रिकं (lokanamaskṛtāṅprikaṃ), compound adjective, accusative singular neuter, tatpuruṣa or bahuvrīhi; base: लोक (world), नमस्कृत (respected), आङ्प्रिक (probably a compound element or a sandhi compound from प्रिक or प्रिय - meaning 'beloved' or 'dear');  
+मुनीशसेव्ये (munīśasevye), compound, locative singular feminine or masculine, present passive participle; meaning 'served by the Lord of the sages' (मुनि-ईश-सेव्य);  
+त्वथ (tvatha), indeclinable, adverb;  
+नैमिषे (naimiṣe), noun, locative singular neuter; base: नैमिष (Naimisha, a sacred forest or time);   
+हरिम् (harim), noun, masculine, singular, accusative; base: हरि (Hari - Lord Vishnu).  
+
+Thus, in literal order and case:  
+"Thus in the excellent Badarya-named ashram served by gods, sages, kings of sages, and great sages,  
+Narayana, adored by the people, beloved among them, served by the lord of sages, indeed in Naimisha, Hari."  
+
+Thus the revered Narayana was worshipped in the excellent Badarya Ashram, served by gods and great sages, beloved and respected by the world, and worshipped by the lord of sages at Naimisha.

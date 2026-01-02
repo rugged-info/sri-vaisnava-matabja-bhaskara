@@ -1,0 +1,60 @@
+SOURCE_PAGES: page_0157.txt
+
+=== मूलपाठः ===
+
+
+स्पृशत्येकादशीं स्पृष्टा द्वादशी श्रवणेन चेत् ।
+विष्णुश्शृङ्खलयोगोऽयं भाद्रे शुक्ले प्रकीर्तितः ।।९९।।
+श्रवणद्वादशी होषा पुनरावृत्तिनाशिनी ।
+तस्मादुपवसेदत्र यततो मतिमान्नरः ।।१००।।
+
+spṛśatyekādaśīṃ spṛṣṭā dvādaśī śravaṇena cet ।
+viṣṇuśśṛṅkhalayogo’yaṃ bhādre śukle prakīrtitaḥ ॥99॥
+śravaṇadvādaśī hoṣā punarāvṛttināśinī ।
+tasmādupavedatra yatato matimānnaraḥ ॥100॥
+
+स्पृशति (spṛśati), √स्पृश् (to touch), verb, 3rd person singular, present indicative active  
+एकादशीं (ekādaśīṃ), ekādaśī, feminine, accusative singular  
+स्पृष्टा (spṛṣṭā), √स्पृश् (past passive participle), feminine nominative singular  
+द्वादशी (dvādaśī), dvādaśī, feminine nominative singular  
+श्रवणेन (śravaṇena), śravaṇa, masculine/neuter, instrumental singular  
+चेत् (cet), indeclinable, conjunction  
+
+विष्णुश् (viṣṇuṣ), विष्णु (Viṣṇu), masculine, nominative singular, tatpuruṣa compound (viṣṇu + śṛṅkhalā)  
+शृङ्खलयोगः (śṛṅkhalayogaḥ), śṛṅkhalā (chain) + yogaḥ (union), masculine, nominative singular, tatpuruṣa compound  
+अयम् (ayam), demonstrative pronoun, masculine, nominative singular  
+भाद्रे (bhādre), bhādra, adjective (good/auspicious), locative singular  
+शुक्ले (śukle), śukla, adjective (bright/white [half of lunar month], adjective), locative singular  
+प्रकीर्तितः (prakīrtitaḥ), √कीर्त् (to proclaim), past passive participle, masculine nominative singular  
+
+श्रवणद्वादशी (śravaṇadvādaśī), śravaṇa + dvādaśī, feminine nominative singular, bahuvrīhi compound  
+होषा (hoṣā), hoṣa (name of lunar day), feminine nominative singular  
+पुनरावृत्तिनाशिनी (punarāvṛttināśinī), punar-āvṛtti + nāśinī, feminine nominative singular, bahuvrīhi compound  
+तस्मात् (tasmāt), indeclinable, ablative singular  
+उपवसेत् (upavaset), √उपवस् (to fast), verb, 3rd person singular, optative mood, active voice  
+अत्र (atra), indeclinable, locative  
+यतः (yataḥ), yat (restrained/dedicated), masculine nominative singular, adjective  
+मतिमान् (matimān), matiman (intelligent), masculine nominative singular, adjective  
+नरः (naraḥ), nara (man), masculine nominative singular  
+
+"स्पृशत्येकादशीं स्पृष्टा द्वादशी श्रवणेन चेत्"  
+(One who touches) (the ekādaśī) (touched) (the dvādaśī) (by hearing) (if) — ("if dvādaśī is touched by the hearing of ekādaśī")  
+
+"विष्णुश्शृङ्खलयोगोऽयं भाद्रे शुक्ले प्रकीर्तितः"  
+(This union of Viṣṇu’s chain) (in the auspicious bright half) (is proclaimed)  
+
+"श्रवणद्वादशी होषा पुनरावृत्तिनाशिनी"  
+(Śravaṇa dvādaśī) (Hoṣā) (destroyer of repetition)  
+
+"तस्मादुपवसेदत्र यततो मतिमान्नरः"  
+(Therefore should fast here) (one dedicated) (intelligent man)  
+
+If the dvādaśī (the twelfth lunar day) is touched (made holy) by hearing ( śravaṇa ) of the ekādaśī (the eleventh lunar day),  
+Then this Viṣṇu chain-yoga in the auspicious bright half is declared (prakiirtitaḥ).  
+Śravaṇa-dvādaśī, Hoṣā, is the destroyer of repetition (punarāvṛtti-nāśinī).  
+Therefore, an intelligent man, dedicated (to restraint), should fast here.  
+
+If the Dvādaśī is sanctified by hearing the Ekādaśī,  
+Then this Viṣṇu chain yoga is proclaimed on the bright auspicious half.  
+The Śravaṇa Dvādaśī, called Hoṣā, destroys the cycle of repetition.  
+Therefore, the wise and devoted man should fast on this day.

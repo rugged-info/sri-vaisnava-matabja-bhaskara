@@ -1,0 +1,48 @@
+SOURCE_PAGES: page_0236.txt
+
+=== मूलपाठः ===
+
+
+प्रातर्मध्याहसायं कृतशुचिकृतिभिः राममभ्यर्च्य सम्यक्  
+श्रीमद्रामायणेन प्रतिदिनमखिलैभरितेन प्रपत्रैः ।  
+शक्तैरानन्दभाष्यैरथ च॒ शुभतमाचार्यदिव्यप्रबन्धेः  
+कालक्षेपो विधेयः सुविजितकरणैः स्वाकृतेर्यावदन्तम् ।।१६८ ।।
+
+prātarmadhyāhasāyaṃ kṛtaśucikṛtibhiḥ rāmamabhyarcya samyak  
+śrīmadrāmāyaṇena pratidinamakhilaibharitena prapatraiḥ ।  
+śaktairānandabhāṣyai ratha câ śubhatamācāryadivyaprabandheḥ  
+kālākṣepo vidheyaḥ suvijitakaraṇaiḥ svākṛteryāvadantam ।।168 ।।
+
+प्रातर्मध्याहसायम् (prātarmadhyāhasāyam), प्रातः मध्याह्नसाय (prātaḥ madhyāhna-sāya), accusative singular neuter,  
+कृतशुचिकृतिभिः (kṛtaśucikṛtibhiḥ), कृतशुचिकृत (kṛta-śuci-kṛta), instrumental plural masculine, tatpuruṣa compound,  
+रामम् (rāmam), राम (rāma), accusative singular masculine,  
+अभ्यर्च्य (abhyarcya), अभ्यर्च् (abhyarc), gerundive (absolutive participle),  
+सम्यक् (samyak), सम्यक् (samyak), indeclinable adverb,  
+श्रीमद्रामायणेन (śrīmadrāmāyaṇena), श्रीमत् रामायण (śrīmat rāma-āyaṇa), instrumental singular masculine, bahuvrīhi compound,  
+प्रतिदिनम् (pratidinam), प्रति-दिन (prati-dina), accusative singular neuter,  
+अखिलैभरितेन (akhilaibharitena), अखिलाभरित (akhilā-bharita), instrumental singular masculine, bahuvrīhi compound,  
+प्रपत्रैः (prapatraiḥ), प्रपत्र (prapatra), instrumental plural neuter,  
+शक्तैः (śaktaiḥ), शक्ति (śakti), instrumental plural feminine,  
+आनन्दभाष्यैः (ānandabhāṣyaiḥ), आनन्दभाष्य (ānanda-bhāṣya), instrumental plural neuter, tatpuruṣa compound,  
+अथ (atha), अथ (atha), indeclinable conjunction,  
+च (ca), च (ca), indeclinable conjunction,  
+शुभतमाचार्यदिव्यप्रबन्धेः (śubhatamācāryadivyaprabandheḥ), शुभतम-आचार्य-दिव्य-प्रबन्ध (śubhatama-ācārya-divya-prabandha), genitive singular masculine, bahuvrīhi compound,  
+कालक्षेपः (kālākṣepaḥ), काल-क्षेप (kāla-kṣepa), nominative singular masculine, tatpuruṣa compound,  
+विधेयः (vidheyaḥ), विधेय (vidheya), nominative singular masculine,  
+सुविजितकरणैः (suvijitakaraṇaiḥ), सुस्विजित-करण (su-vijita-karaṇa), instrumental plural neuter, bahuvrīhi compound,  
+स्वाकृते (svākṛte), स्व-आकृत (sva-ākṛta), locative singular neuter, bahuvrīhi compound,  
+यावदन्तम् (yāvadantam), यावत् अन्त (yāvat anta), accusative singular neuter, tatpuruṣa compound.
+
+"प्रातर्मध्याहसायम् कृतशुचिकृतिभिः रामम् अभ्यर्च्य सम्यक्"  
+(At dawn, noon, and evening, with actions performed with purity,)  
+"श्रीमद्रामायणेन प्रतिदिनम् अखिलैभरितेन प्रपत्रैः"  
+"(by the glorious Ramayana daily, with words filled with completeness via the leaves)"  
+"शक्तैः आनन्दभाष्यैः अथ च शुभतमाचार्यदिव्यप्रबन्धेः"  
+"(with powerful commentaries of bliss, and also the most excellent divine treatise by the teacher)"  
+"कालक्षेपः विधेयः सुविजितकरणैः स्वाकृतेर् यावदन्तम्"  
+"(the passing of time is to be observed, with well-conquered instruments, according to one's own nature, up to the end)."
+
+At dawn, noon, and evening, having worshiped Rama with pure and accomplished rites,  
+daily reading the entire sacred Ramayana on leaves filled with it,  
+with powerful and blissful commentaries, and also the most excellent divine treatise of the teacher,  
+the passing of time is to be devoted, using well-mastered implements, according to one's own nature, until the very end.

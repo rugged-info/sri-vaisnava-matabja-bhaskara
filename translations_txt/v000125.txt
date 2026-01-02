@@ -1,0 +1,40 @@
+SOURCE_PAGES: page_0196.txt
+
+=== मूलपाठः ===
+
+
+न परिगृह्णीयादिति |
+विवाहे तु कृते स स्यादारूढपतितो ध्रुवम् ।
+आरूढपतितस्यार्थे प्रायश्चित्तं न विद्यते ।। १२५।।
+
+na parigṛhṇīyād iti |
+vivāhe tu kṛte sa syād ārūḍhapatito dhruvam ।
+ārūḍhapatitasyārthe prāyaścittaṃ na vidyate ।। 125।।
+
+na (na) - indeclinable, negation  
+parigṛhṇīyāt (parigṛhṇīyāt) - verbal root √gṛh, verb form ātmanepada, optative, 3rd singular, 'should be taken' (negative here)  
+iti (iti) - indeclinable, particle, quotation marker  
+vivāhe (vivāha, m.) - locative singular, "in marriage"  
+tu (tu) - indeclinable, conjunction, "but"  
+kṛte (kṛta, adj.) - locative singular, "done" or "made"  
+sa (sa, pron.) - nominative singular masculine, "he"  
+syāt (as, verb root √as) - optative, 3rd singular, "may be"  
+ārūḍhapatitaḥ (ārūḍha-patita) - compound (tatpuruṣa), nominative singular masculine  
+ārūḍha (ārūḍha, adj.) - past participle, "ascended"  
+patita (patita, adj.) - past participle, "fallen"  
+dhruvam (dhruva, adj.) - accusative singular neuter, "certainly" or "surely"  
+ārūḍhapatitasya (ārūḍhapatita, comp.) - genitive singular masculine, "of one who has ascended and fallen"  
+arthe (artha, m.) - locative singular, "for the purpose"  
+prāyaścittam (prāyaścitta, n.) - nominative singular, "atonement"  
+na (na) - indeclinable, negation  
+vidyate (vidyate) - present indicative, 3rd singular, passive voice, "is found" or "exists"
+
+Literal translation:  
+"(He) should not be taken (na parigṛhṇīyāt iti).  
+But in the case of marriage having been done (vivāhe tu kṛte), he (sa) may be (syāt) certainly (dhruvam) an Ārūḍhapatita (ascended-fallen one).  
+For the purpose of Ārūḍhapatita, atonement (prāyaścittam) is not found (na vidyate)."
+
+Smooth English translation:  
+"(It is said) he should not be accepted.  
+But if marriage has been performed, he may certainly be considered an 'ascended-fallen' person.  
+For such an 'ascended-fallen' one, there is no prescribed atonement."

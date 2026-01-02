@@ -1,0 +1,87 @@
+SOURCE_PAGES: page_0056.txt
+
+=== मूलपाठः ===
+
+
+तत्त्वं किं किञ्च जप्यं परमिह विबुधेरवेष्णवेर्ध्यानमिषं मुक्तेः किं साधनं सत्सुमतिमतिमतो  
+धर्म एकोऽस्ति कश्च । धर्माणां वैष्णवास्ते गुरुवर! कतिधा लक्षणं किञ्च तेषां कालक्षेपः  
+किमाप्यं कथमुरुशुभदं कुत्र कार्यो निवासः ।।४।।
+
+tattvaṃ kiṃ kiñca japyaṃ paramiha vibudheraveṣṇaverdhyānamiṣaṃ mukteḥ kiṃ sādhanaṃ satsumatimatimato  
+dharma eko'sti kaśca । dharmāṇāṃ vaiṣṇavāste guruvara! katidhā lakṣaṇaṃ kiñca teṣāṃ kālakṣepaḥ  
+kimāpyaṃ kathamuruśubhadaṃ kutra kāryo nivāsaḥ ।।4।।
+
+तत्त्वं (tattvaṃ), तत्त्व (tattva), neuter singular accusative;  
+किं (kiṃ), किं (kiṃ), interrogative indeclinable;  
+किञ्च (kiñca), किञ्च (kiñca), indeclinable conjunction;  
+जप्यं (japyaṃ), जप्यम् (japyam), neuter singular accusative, verbal adjective from जप् (jap) root, participle passive gerundive;  
+परमिह (paramiha), परम् (param) + इह (iha), compound adv. (tatpuruṣa), meaning "here beyond";  
+विबुधेः (vibudheḥ), बुद् (bud) [but here बिध meaning wise], masculine singular genitive;  
+अवेष्णवे (aveṣṇave), अवेष्णव (aveṣṇava), masculine singular dative or locative, "seeker/one who desires";  
+अध्यानमिषं (adhyānamiṣaṃ), ध्यानमिष (adhyānamiṣa), neuter singular accusative, compound noun: meditation-food, "meditation as nourishment";  
+मुक्तेः (mukteḥ), मुक्त (mukta) masculine/neuter singular genitive, "of liberation";  
+किं (kiṃ), किं (kiṃ), interrogative indeclinable;  
+साधनं (sādhanaṃ), सिधान (sādhana) neuter singular accusative, noun, "means, instrument";  
+सत्सुमतिमतिमतो (satsumatimatimato), compound bahuvrīhi tatpuruṣa, from सत् (sat) + सुमति (sumati) +मतिमत (matimata), masculine singular nominative, descriptive adjective meaning "coming from/to the truly intelligent" or "by a truly wise mind";
+
+धर्म (dharma), धर्म (dharma), masculine singular nominative, noun;  
+एकः (ekaḥ), एक (eka), masculine singular nominative numeral, "one";  
+अस्ति (asti), अस् (as) verb root, 3rd person singular present indicative active, "is";  
+कश्च (kaśca), कश्च (kaśca), masculine singular nominative, relative pronoun, "someone";  
+धर्माणाम् (dharmāṇām), धर्म (dharma), masculine plural genitive;  
+वैष्णवास्ते (vaiṣṇavāste), वैष्णव (vaiṣṇava) masculine plural dative/locative, "to Vaishnavas";  
+गुरुवर (guruvara), गुरु (guru) + वर (vara), masculine singular vocative, "the best among gurus";  
+कतिधा (katidhā), interrogative adv., "in what manner";  
+लक्षणं (lakṣaṇaṃ), लक्षण (lakṣaṇa), neuter singular accusative, "characteristic, mark";  
+किञ्च (kiñca), indeclinable conjunction, "some, any";  
+तेषां (teṣāṃ), तेष (teṣa), masculine/neuter plural genitive pronoun, "their";  
+कालक्षेपः (kālākṣepaḥ), कालक्षेप (kālākṣepa), masculine singular nominative, "time-spending, pastime";
+
+किम् (kim), किं (kiṃ), interrogative indeclinable, "what";  
+अप्य् (apy), अपि (api) indeclinable, "even";  
+अयं (ayaṃ), अय (aya) masculine singular nominative pronoun "this";  
+कथम् (katham), interrogative adv., "how";  
+उरुशुभदम् (uruśubhadam), compound adjective maybe bahuvrīhi, from ऊरु (ūru) "wide/large" + शुभद (śubhada) "auspicious, giving good", neuter singular accusative;  
+कुत्र (kutra), interrogative adv., "where";  
+कार्यः (kāryaḥ), कार्य (kārya), masculine singular nominative, "to be done, duty";  
+निवासः (nivāsaḥ), निवास (nivāsa), masculine singular nominative, "abode, residence".
+
+"tattvaṃ" (acc. of tattva) "the truth, essence"  
+"kiṃ kiñca" "what, something" (question particle + conjunctive)  
+"japyaṃ" "to be recited" (gerundive participle pass.)  
+"paramiha" "here beyond" (compound)  
+"vibudheḥ" (gen. sg.) "of the wise one"  
+"aveṣṇave" (dat./loc.) "to the seeker"  
+"adhyānamiṣaṃ" (acc. sg.) "meditation (as) nourishment"  
+"mukteḥ" (gen. sg.) "of liberation"  
+"kiṃ" "what"  
+"sādhanaṃ" (acc. sg.) "means, instrument"  
+"satsumatimatimato" (nom. sg. m.) "of the truly wise mind" (compound adjective)
+
+"Dharma eko'sti kaśca." - "There is one Dharma, and someone (exists)."  
+"Dharmāṇām" (gen. pl.) "of dharmas"  
+"Vaiṣṇavāste" (loc./dat.) "to Vaishnavas"  
+"Guruvara" (voc.) "O best of gurus!"  
+"Katidhā" "in what manner"  
+"Lakṣaṇaṃ" (acc.) "characteristic"  
+"Kiñca" "something"  
+"Teṣāṃ" (gen. pl.) "of them"  
+"Kālākṣepaḥ" (nom.) "pastime/spending of time"
+
+"Kim apyam katham" "what even how"  
+"Uruśubhadam" (acc.) "greatly auspicious"  
+"Kutra" "where"  
+"Kāryaḥ" (nom.) "to be done"  
+"Nivāsaḥ" (nom.) "residence/place"
+
+The essence, what indeed is to be recited here by the wise seeker, is meditation as nourishment; what is the means of liberation according to the truly wise?  
+There is one Dharma, and someone exists. O best of gurus, what is somewhat the characteristic of these Dharmas for Vaishnavas, and how is their pastime of time?  
+What indeed, how, and where is this great auspicious work or abode to be done?
+
+What exactly is to be recited here by the wise seeker as meditation nourishment? What is the means of liberation according to the truly wise?  
+There is one Dharma, and someone exists. O best of gurus! What is by some means the characteristic of these Dharmas for Vaishnavas? How is their passage of time?  
+What is this greatly auspicious thing, how, and where is the task or dwelling?
+
+What precisely should be recited here by the wise seeker as meditation nourishment? What is the means to liberation according to the truly wise?  
+There is one Dharma, and someone exists. O best of gurus! What, in some way, is the characteristic of these Dharmas for Vaishnavas? How do they spend their time?  
+What is this greatly auspicious task? How and where is the residence?

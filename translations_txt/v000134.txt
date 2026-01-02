@@ -1,0 +1,46 @@
+SOURCE_PAGES: page_0202.txt
+
+=== मूलपाठः ===
+
+
+जगत्पते श्रीश जगत्रिवास प्रभी जगत्कारण रामचन्द्र ।
+नमो नमः कारुणिकाय तुभ्यं पादाब्जयुग्मे तव भक्तिरस्तु ।।१३४।
+
+jagatpate śrīśa jagatrivāsa prabhī jagatkāraṇa rāmacandra |
+namo namaḥ kāruṇikāya tubhyaṃ pādābjayugme tava bhaktirastu ||134||
+
+जगत्पते (jagatpate), जगतः (jagataḥ), पुल्लिङ्ग, एकवचन, पितृवचन (अतिशयोक्ति), सम्बोधन  
+श्रीश (śrīśa), श्री (śrī), पुल्लिङ्ग, एकवचन, नाम-रूप  
+जगत्रिवास (jagatrivāsa), जगत् (jagat) + रिवास (rivāsa, 'resident'), तत्पुरुष समास  
+प्रभी (prabhī), प्रभु (prabhu), पुल्लिङ्ग, एकवचन, नाम-रूप  
+जगत्कारण (jagatkāraṇa), जगत् (jagat) + कारण (kāraṇa), तत्पुरुष समास  
+रामचन्द्र (rāmacandra), राम (rāma) + चन्द्र (candra), तत्पुरुष समास, पुरुषनाम
+
+नमो (namo), नमः (namah), निपात (indeclinable, indeclinable particle)  
+नमः (namaḥ), नमः (namah), निपात  
+कारुणिकाय (kāruṇikāya), कारुणिक (kāruṇika, 'compassionate'), पुल्लिङ्ग, एकवचन, पुरुषवचन, पुरुषेण संबोधनार्थे दत्त्वा (dative case)  
+तुभ्यं (tubhyaṃ), तुमि (tumi - 2nd person pronoun), पुरुषवचन, द्विवचन, संभोधन, दातृवचन  
+पादाब्जयुग्मे (pādābjayugme), पादाब्ज (pādābja, 'lotus feet') + युग्म (yugma, 'pair'), पुंल्लिङ्ग, एकवचन, सप्तमी (locative)  
+तव (tava), तत् (tat) + व (va), सर्वनाम, द्वितीया व्यक्तिवाचक सर्वनाम, पुंल्लिङ्ग, एकवचन  
+भक्तिरस्तु (bhaktirastu), भक्ति (bhakti, 'devotion'), स्त्रीलिङ्ग, एकवचन, विषयवाच्य, "अस्तु" (astu - इच्छार्पणवाचक, optative/imperative) 
+
+"jagatpate" - O Lord of the world (vocative case)  
+"śrīśa" - O Śrī (honorific), vocative  
+"jagatrivāsa" - resident of the world (compound, vocative)  
+"prabhī" - O Lord (vocative)  
+"jagatkāraṇa" - cause of the world (compound, vocative)  
+"rāmacandra" - Rāmacandra (proper name, vocative)  
+
+"namo" "namaḥ" - salutations, repeated (indeclinables, expression of respect)  
+"kāruṇikāya" - to the compassionate one (dative case)  
+"tubhyaṃ" - to you (dative case, singular)  
+"pādābjayugme" - on the pair of lotus feet (locative singular)  
+"tava" - your (possessive pronoun)  
+"bhaktirastu" - may (there be) devotion (optative/imperative particle "astu") 
+
+O Lord of the world, O Śrī, O resident of the world, O Lord, O cause of the world, O Rāmacandra,  
+Salutations, salutations, to you, compassionate one,  
+May there be devotion of yours at the pair of your lotus feet.
+
+O Lord of the world, O Śrī, O world-resident, O Lord, O cause of the world, O Rāmacandra,  
+Repeated salutations to you, the compassionate one; may your devotees’ devotion abide at the pair of your lotus feet.

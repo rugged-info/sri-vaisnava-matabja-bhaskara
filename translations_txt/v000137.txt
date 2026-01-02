@@ -1,0 +1,38 @@
+SOURCE_PAGES: page_0206.txt
+
+=== मूलपाठः ===
+
+
+बाह च पादौ च प्रसार्य साञ्जलिः स्तवैः स्तुवन् यश्च नमेद्रघूत्तमम् ।
+शतैः क्रतूनां तु सुदुर्लभां गतिं स चाप्रुयाद्रामपरायणो जनः ।।१३७।।
+
+bāha ca pādau ca prasārya sāñjaliḥ stavaiḥ stuvan yaś ca namedraghūttamam ।
+śataiḥ kratūnāṃ tu sudurlabhāṃ gatiṃ sa cāpruyādrāmaparāyaṇo janaḥ ।।137।।
+
+bāha (bāhu), noun masculine, nominative dual (two arms)  
+ca, indeclinable, conjunction (and)  
+pādau (pāda), noun masculine, nominative dual (two feet)  
+ca, indeclinable, conjunction (and)  
+prasārya (prasārayati), verbal root, gerund (absolutive) (stretching forth)  
+sāñjaliḥ (sañjaliḥ), noun masculine, nominative singular (salute, reverence)  
+stavaiḥ (stvṛ), noun masculine, instr. plural (praises)  
+stuvan (stu, to praise), present active participle, nominative singular (praising)  
+yaḥ (ya), relative pronoun masculine nominative singular (who)  
+ca, indeclinable, conjunction (and)  
+namedra (nāmendra), noun masculine, accusative singular (to Nemedra, a proper name, leader or chief)  
+ghūttamam (ghūttama), adjective, accusative singular masculine (most excellent)  
+śataiḥ (śata), noun neuter, instrumental plural (hundreds)  
+kratūnāṃ (kratu), noun masculine, genitive plural (of sacrifices)  
+tu, indeclinable, particle (but, indeed)  
+sudurlabhām (sudurlabha), adjective accusative singular feminine (very rare)  
+gatiṃ (gati), noun feminine, accusative singular (attainment, path)  
+saḥ (sa), pronoun masculine nominative singular (he)  
+ca, indeclinable, conjunction (and)  
+apruyāt (a-pruyāt), negative optative, 3rd person singular (should not attain)  
+rāmaparāyaṇaḥ (rāmaparāyaṇa), adjective masculine nominative singular (devoted to Rāma)  
+janaḥ (jana), noun masculine nominative singular (person)  
+
+With arms and feet stretched forth, (showing) reverence, praising with hymns he who also worships Nemedra, the best.  
+(Although hundreds of sacrifices) are indeed very hard to attain (the) rare path, this person devoted to Rāma should not attain it.  
+
+Stretching forth both arms and feet, reverently praising with hymns the best Nemedra, that person—though the rare path of hundreds of sacrifices is very difficult to attain—should not attain it, being devoted to Rāma.

@@ -1,0 +1,97 @@
+SOURCE_PAGES: page_0094.txt
+
+=== मूलपाठः ===
+
+
+सन्मनुष्यमनो यथा" इति (१.२.५) श्रीरामायणोक्तेः।
+श्रीरामद्रयमन्त्रमदुभुततमं वाक्यद्वयं षट्पदं
+बाणाक्षिप्रमिताक्षरन्तु खलु विद्धि त्वं दशार्थाव्वितम् ।
+युक्तं तत्तिपदैस्तु तत्र सुमते पूर्व शुभस्यास्पदं
+* संवित्करः *
+वाक्यं पञ्चदशाक्षरं तदनु दिग्वर्णाव्मकं तृत्तरम् ।।३५।।
+
+sanmanuṣyamano yathā" iti (1.2.5) śrīrāmāyaṇokteḥ।  
+śrīrāmadrayam-antramad-ubhutatamam vākyadvayaṃ ṣaṭpadaṃ  
+bāṇākṣipramitākṣarantu khalu viddhi tvaṃ daśārthāvvitam।  
+yuktaṃ tattipadaistu tatra sumate pūrva śubhasyāspadaṃ  
+* saṃvitkaraḥ *  
+vākyam pañcadaśākṣaraṃ tadanu digvarṇāv-makaṃ tṛttaram ।।35।।
+
+sanmanuṣyamano (san-manuṣya-mano), san (indeclinable, prefix, intensive) + manuṣya (noun, masc. sg. nom., "human") + mano (noun, masc. sg. nom., "mind") - tatpuruṣa compound meaning "good/honest human mind"  
+yathā (indeclinable, particle, "as", "like")  
+iti (indeclinable, particle, "thus", "so")  
+(1.2.5) (reference note, not parsed)  
+śrīrāmāyaṇokteḥ (śrīrāmāyaṇa + ukteḥ), śrīrāmāyaṇa (noun, masc. sg. loc. "in the Rāmāyaṇa") + ukteḥ (participle, masc. sg. loc. of √vad "said", literally "said in") - tatpuruṣa compound "in the Rāmāyaṇa said"  
+śrīrāmadrayam-antrā-mad-ubhutatamam (compound: śrīrāma + adrayam + antram + ad + ubhutatamam)  
+- śrīrāma (noun, masc., name of Rāma)  
+- adrayam (noun, neut. sg. acc., "jewel")  
+- antram (noun, neut. sg. acc., "mantra")  
+- ad (prefix intensifier)  
+- ubhutatamam (superlative adjective, neut. sg. acc., "most wonderful")  
+Combined as tatpuruṣa and bahuvrīhi compound, meaning "the most wonderful mantra jewel of Śrī Rāma"  
+vākyadvayaṃ (vākyadvaya) vākyam (noun, neut. sg. acc. "sentence") + dvayaṃ (noun, neut. sg. acc., "pair") - bahuvrīhi compound, "a pair of sentences"  
+ṣaṭpadaṃ (ṣaṭ + padaṃ), ṣaṭ (numeral "six") + padaṃ (noun, neut. sg. acc., "foot", "line")  
+bāṇākṣipramitākṣarantu  
+- bāṇa (noun, masc. nom. pl. "arrows")  
+- akṣipra (adjective "swift")  
+- mitākṣara (noun, masc. nom. pl., "letters")  
+- anta (suffix, verbal or nominal end)  
+- tu (indeclinable, conjunction "but")  
+Possibly compound or phrase meaning "Let the swift arrows, the measured letters"  
+khalu (indeclinable, particle "indeed", "really")  
+viddhi (verb imperative 2nd sg. of √vid "know")  
+tvaṃ (pronoun 2nd sg. nom. "you")  
+daśārthāvvitam (daśa + artha + avvitam)  
+- daśa (numeral "ten")  
+- artha (noun, masc. sg. acc. "meaning")  
+- avvitam (adjective "full", "completely endowed")  
+Meaning "full of ten meanings"  
+yuktaṃ (adjective, neut. sg. acc., "proper", "appropriate")  
+tattipadaistu (tat + tipadai + tu)  
+- tat (pronoun, neut. sg. nom. "that")  
+- tipadaiḥ (noun, masc. pl. instr., "three feet", i.e., tripāda)  
+- tu (indeclinable "but")  
+Meaning "but that with three feet"  
+tatra (indeclinable, adv. "there")  
+sumate (su + mate)  
+- su (prefix "good")  
+- mate (noun, masc. sg. loc. "mind")  
+Meaning "in the good mind", "according to the wise"  
+pūrva (adjective, neut. sg. acc., "former", "previous", "east")  
+śubhasyāspadaṃ  
+- śubha (adjective, masc. sg. gen. "auspicious")  
+- aspadam (noun, neut. sg. acc. "foot", "step")  
+Meaning "auspicious foot/step"  
+* saṃvitkaraḥ * (saṃvit + karaḥ)  
+- saṃvit (noun, fem./masc. nom. sg. "consciousness", "understanding")  
+- karaḥ (noun masc., "doer")  
+Compound meaning "consciousness-doer", possibly author/editor signature  
+vākyam (noun, neut. sg. acc. "sentence")  
+pañcadaśākṣaraṃ (pañcadaśa + akṣaraṃ)  
+- pañcadaśa (numeral, "fifteen")  
+- akṣaraṃ (noun neut. sg. acc. "letter")  
+Meaning "fifteen-lettered"  
+tadanv (tat + anu) misspelled as tadan + anu  
+tadanu - tat + anu (compound particle "thereafter")  
+digvarṇāv-makaṃ  
+- digvarṇa (noun, masc. pl. gen. "directional letters")  
+- āmakaṃ (unclear) possibly a suffix or miswritten  
+tṛttaram (numeral "third")
+
+Literal translation (with grammatical notes in parentheses):
+
+"Like the good human mind" (sanmanuṣyamano yathā) "thus" (iti), "in the Rāmāyaṇa said" (śrīrāmāyaṇokteḥ),  
+"A most wonderful mantra jewel of Śrī Rāma, a pair of sentences consisting of six feet,  
+let the swift arrows, the measured letters (bāṇākṣipramitākṣarantu) indeed (khalu) you know (imperative) full of ten meanings (daśārthāvvitam).  
+That (tat) with three feet (tipadaiḥ), however (tu), there (tatra) for the good mind (sumate), the former auspicious step (pūrva śubhasyāspadam) is appropriate (yuktaṃ).  
+* Consciousness-doer *  
+Sentence (vākyam) fifteen-lettered (pañcadaśākṣaraṃ), thereafter (tadanv) with directional letters, the third (tṛttaram)."
+
+Smooth English translation:
+
+"As the good human mind is, thus it is said in the Rāmāyaṇa:  
+A most wonderful mantra jewel of Śrī Rāma, a pair of sentences of six feet,  
+Let the swift arrows, the measured letters be known by you, indeed full of ten meanings.  
+That which has three feet is appropriate there, for the wise, as the former auspicious step.  
+* Consciousness-doer *  
+The sentence has fifteen letters; thereafter the third with directional letters."

@@ -1,0 +1,25 @@
+SOURCE_PAGES: page_0252.txt
+
+=== मूलपाठः ===
+
+
+हार्दोत्तमानुग्रहलन्धमध्यसनत्राडीशुभद्रारवबहिर्विनिर्गतः ।।१८१॥
+
+hārdo'ttamānugrahalandhamadhyasanatrāḍīśubhradāravabahirvinirgataḥ ।।181॥
+
+हार्दः (hārdaḥ), हार्द (hārda), nominative singular masculine  
+उत्तम (uttama), उत्तम, indeclinable (prefix/adjective used as prefix)  
+अनुग्रह (anugraha), अनुग्रह, tatpuruṣa compound component  
+लन्ध (landha), लन्ध, tatpuruṣa compound component  
+मध्यसन (madhyasana), मध्य + असन, tatpuruṣa compound (middle + seat)  
+त्राडी (trāḍī), त्राडी, bahuvrīhi compound component  
+शुभद्र (śubhadra), शुभद्र, bahuvrīhi compound component  
+अरव (arava), अरव, bahuvrīhi compound component  
+बहिः (bahih), बहिः, indeclinable (adverb)  
+विनिर्गतः (vinirgataḥ), विनिर्गतः, nominative singular masculine past passive participle
+
+hārdaḥ (hart/meaning: hard/difficult) + uttama (best/superlative prefix) + anugraha (favor/grace) + landha (obstruction/block) + madhyasana (middle seat) + trāḍī (cruel/malignant) + śubhadra (auspicious + violent, compound) + arava (noise/sound) + bahih (outside) + vinirgataḥ (gone out/left)
+
+"The difficult, best, favor-obstruction middle seat cruel-auspicious-noise outside gone out."
+
+"The one who has gone out from the outside of the difficult, supreme, favor-obstructing, middle seat, the cruel, auspicious, noisy (place)."

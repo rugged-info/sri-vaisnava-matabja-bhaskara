@@ -1,0 +1,68 @@
+SOURCE_PAGES: page_0130.txt
+
+=== मूलपाठः ===
+
+
+महदतिक्रमश्चात्र हेयताबीजम्।
+हीनाङ्घो ह्यधिकाङ्घश्च कपटी कृष्णदन्तवान् ।
+नेत्ररोगी च कुष्ठी च वावद्रूकश्च वामनः ।।६५।।
+व्यसनी बहुनिद्रश्च कुनखो बहुभोजनः 1
+नेशो देशिको योग्यो मुमुक्षीर्मुक्तिसाधने ।। ६६ ।।
+
+mahadatikramaścātra heyatābījam।
+hīnāṅgho hyadhikāṅghaśca kapaṭī kṛṣṇadantavān ।
+netrarogī ca kuṣṭhī ca vāvadrūkśca vāmanaḥ ॥65॥
+vyasanī bahunidraśca kunakho bahubhojanaḥ 1
+neśo deśiko yogyo mumuṣīrmuktisādhane ॥ 66 ॥
+
+महद् (mahad) - महत् (adj. neuter singular nominative/accusative: great, large)  
+अतिक्रमः (atikramaḥ) - अतिक्रम (masculine singular nominative: transgression, exceeding)  
+च (ca) - च (indeclinable conjunction: and)  
+अत्र (ātra) - अत्र (indeclinable adverb: here)  
+हेय (heya) - हेय (indeclinable adjective: to be abandoned, to be rejected)  
+ताबीजम् (tābījam) - ताबीज (neuter singular nominative/accusative: seed, cause)  
+
+हीनाङ्घः (hīnāṅghaḥ) - हीनाङ्घ (masculine singular nominative: defective person missing limb)  
+ह्य् (hy) - हि (indeclinable particle: surely, indeed)  
+अधिकाङ्घः (adhikāṅghaḥ) - अधिकाङ्घ (masculine singular nominative: person with excess limbs)  
+च (ca) - च (and)  
+कपटी (kapaṭī) - कपटी (masculine singular nominative: deceiver, hypocrite)  
+कृष्ण-दन्तवान् (kṛṣṇa-dantavān) - कृष्ण-दन्तवान् (masculine singular nominative: having black teeth)  
+
+नेत्र-रोगी (netrarogī) - नेत्र-रोगी (masculine singular nominative: one afflicted with eye disease)  
+च (ca) - च (and)  
+कुष्ठी (kuṣṭhī) - कुष्ठी (masculine singular nominative: one afflicted with leprosy)  
+च (ca) - च (and)  
+वावद्रूकः (vāvadrūkaḥ) - वावद्रूक (masculine singular nominative: one affected with scabies)  
+च (ca) - च (and)  
+वामनः (vāmanaḥ) - वामन (masculine singular nominative: a dwarf)  
+
+व्यसनी (vyasanī) - व्यसनी (masculine singular nominative: addicted)  
+बहुनिद्रः (bahunidraḥ) - बहुनिद्रा (masculine singular nominative: one who sleeps much)  
+च (ca) - च (and)  
+कुनखः (kunakhaḥ) - कुनख (masculine singular nominative: one afflicted with leprosy)  
+बहु-भोजनः (bahubhojanaḥ) - बहुभोजन (masculine singular nominative: one who eats much)  
+
+नेशः (neśaḥ) - नेश (masculine singular nominative: lord, ruler)  
+देशिकः (deśikaḥ) - देशिक (masculine singular nominative: teacher)  
+योग्यः (yogyaḥ) - योग्य (masculine singular nominative: fit, proper)  
+मुमुक्षीः (mumuṣīḥ) - मुमुक्षी (masculine singular nominative: aspirant for liberation)  
+मुक्ति-साधने (mukti-sādhane) - मुक्ति-साधन (masculine singular locative singular: for liberation attainment)
+
+Great transgressions here are seeds to be abandoned (हेयताबीजम्);  
+A defective person, indeed an excessive person, and a deceitful one with black teeth;  
+One afflicted with eye disease, one with leprosy, one with scabies, and a dwarf;  
+Addicted ones, heavy sleepers, lepers, and gluttons;  
+The lord, the teacher—who is worthy, an aspirant for liberation in the attainment of liberation.
+
+Here, great transgressions are seeds to be rejected;  
+The defective, the excessive, the deceitful black-toothed one;  
+The eye patient, the leper, the scabbed, and the dwarf;  
+The addicted, the heavy sleeper, the leper, and the glutton;  
+The lord, the teacher, the worthy one, the aspirant engaged in liberation.
+
+Here, great transgressions are seeds to be abandoned.  
+Those who are defective, excessive, deceitful, black-toothed,  
+Those suffering from eye diseases, leprosy, scabies, or dwarfism,  
+Addicts, heavy sleepers, lepers, and gluttons—  
+Only the lord, the teacher, the worthy aspirant can engage in the attainment of liberation.

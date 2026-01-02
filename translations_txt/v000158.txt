@@ -1,0 +1,75 @@
+SOURCE_PAGES: page_0221.txt
+
+=== मूलपाठः ===
+
+
+भागवताः केवलाश्च कादाचित्का अपि द्विधा ।
+तत्र भागवता बोध्या ये तेषु भगवत्पराः ।।१५५।।
+भगवद्धोग्यभूत्यादिसाक्षात्कारसुखाश्रयाः ।
+श्रीराममानसा नित्यं तदनुध्यानतत्पराः ।।१५६।।
+केचिद् गुणानुसन्धानपराः कैडकर्यतत्पराः ।
+इत्थं महर्षिभिः प्रोक्ता द्विविधा भगवत्पराः ।।१५७।।
+द्विविधा केवला बोध्या दुःखभावैकतत्पराः ।
+आत्सानुभूतिपरमा इति चोक्ता महर्षिभिः ।।१५८।।
+
+bhāgavatāḥ kevalāśca kādācitkā api dvidhā |
+tatra bhāgavatā bodhyā ye teṣhu bhagavatparāḥ ||155||
+bhagavaddhogyabhūtyādisākṣātkārasukhāśrayāḥ |
+śrīrāmamāsanā nityaṃ tadanudhyānatatparāḥ ||156||
+kechid guṇānusandhānaparāḥ kaiḍakaryatatparāḥ |
+itthaṃ maharṣibhiḥ proktā dvidhā bhagavatparāḥ ||157||
+dvidhā kevalā bodhyā duḥkhabhāvaikatatatparāḥ |
+ātsānubhūtiparamā iti coktā maharṣibhiḥ ||158||
+
+bhāgavatāḥ (bhāgavata, masc. pl. nom.): devotees, devotees of Bhagavān  
+kevalāḥ (kevala, masc. pl. nom.): only, alone; here adjectival  
+ca (ca, indecl.): and  
+kādācitkā (kādācit + kā, indecl.): at some time; kādācit = at some time, particle  
+api (api, indecl.): also, even  
+dvidhā (dvidhā, fem. sg. nom.): in two ways  
+
+tatra (tatra, indecl.): there  
+bhāgavatā (bhāgavata, masc. pl. abl.): by devotees  
+bodhyā (bodhya, fem. pl. nom. or fem. pl. voc. or neut. pl. nom/acc/voc. gerundive, part.): to be known, to be understood (gerundive, fem. pl. nom., agreeing with ye)  
+ye (ye, pron. masc. pl. nom.): who  
+teṣhu (teṣu, pron. masc. pl. loc.): in them  
+bhagavatparāḥ (bhagavatpara, masc. pl. nom.): devoted to Bhagavān (bhagavat + para = devoted, compound tatpuruṣa)  
+
+bhagavatdhhogya-bhūtyādi-sākṣāt-kāra-sukhā-śrayāḥ (compound tatpuruṣa and bahuvrīhi): those who rely on immediate enjoyment (sākṣātkāra - immediate perception, sukhāśraya - shelter of happiness, bhūti - prosperities, dhogya - (probably a compound, here meaning 'objects of enjoyment'))  
+śrīrāma-mānasa-nityaṃ (compound tatpuruṣa): with mind devoted constantly to Śrī Rāma  
+tad-anudhyāna-tatparāḥ (tad + anudhyāna + tatparāḥ): devoted to constant meditation on that  
+
+kechid (kecid, indecl.): some  
+guṇa-anusandhāna-parāḥ (compound tatpuruṣa): devoted to investigation of qualities  
+kaiḍa-karya-tatparāḥ = kaiḍakarya-tatparāḥ (kaiḍa-karya uncertain; possibly kaiḍa-karya = 'hard tasks' or 'difficult actions' tatparāḥ = devoted to)  
+ittham (ittham, indecl.): thus  
+maharṣibhiḥ (maharṣi, masc. pl. inst.): by great sages  
+proktā (prokta, fem. pl. nom.): spoken  
+dvidhā (dvidhā, fem. sg. nom.): twofold  
+bhagavatparāḥ (bhagavatpara, masc. pl. nom.): devoted to Bhagavān  
+
+dvidhā (dvidhā, fem. sg. nom.): twofold  
+kevalā (kevala, fem. sg. nom.): only  
+bodhyā (bodhya, fem. sg. nom. gerundive): to be understood, knowable  
+duḥkhabhāva-eka-tatparāḥ: devoted to only the feeling of sorrow (compound tatpuruṣa)  
+ātsānubhūti-paramā (ātsānubhūti + paramā, fem. sg. nom. superlative): supreme in self-experience  
+iti (iti, indecl.): thus  
+coktā (cokta, fem. sg. nom.): spoken  
+maharṣibhiḥ (maharṣi, masc. pl. inst.): by great sages  
+
+Devotees are either solely (kevalaḥ) or sometimes (kādācit) twofold (dvidhā).  
+There, those to be understood by devotees, who among them are devoted to Bhagavān.  
+Dependent on immediate perceptions of enjoyments, prosperities, etc.,  
+Constantly with mind devoted to Śrī Rāma, devoted to meditation on that:  
+Some are devoted to investigation of qualities, some devoted to difficult actions.  
+Thus have the great sages spoken: twofold are the Bhagavat-paras.  
+Twofold, only (kevala) to be known: those devoted solely to the state of sorrow.  
+The supreme one in self-experience. Thus spoken by the great sages.
+
+Devotees are of two kinds, either solely or sometimes in two ways.  
+Among them, some are devoted to immediate pleasures and worldly prosperity,  
+While others are constantly absorbed in meditation on Śrī Rāma with their mind.  
+Some are devoted to studying qualities; others to arduous tasks.  
+Thus, the great sages declare, there are two kinds of devotees.  
+The two kinds to be understood are those devoted only to sorrow,  
+And those supreme in self-realization. Thus have the great sages said.

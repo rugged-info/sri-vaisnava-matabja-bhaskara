@@ -1,0 +1,34 @@
+SOURCE_PAGES: page_0095.txt
+
+=== मूलपाठः ===
+
+
+सर्वाधीशेश्वरस्याप्तेहतुरत्राभिधीयते ।
+सीता पुरुषकारार्था श्रीत्यनेन पदेन तु ।। ३६ ॥।
+
+sarvādhīśeśvarasyāptehaturatrābhidhīyate ।
+sītā puruṣakārārthā śrītyanena padena tu ॥ 36 ॥  
+
+सर्वाधीशेश्वरस्य (sarvādhīśeśvarasya) – 
+  सर्वाधीशेश्वर (sarvādhīśeśvara), genitive singular masculine; 
+  compound: tatpuruṣa  
+आप्तेहतुः (āptehatuḥ) – 
+  आप्त (āpta, adjective), हेतुः (hetuḥ, masculine noun, nominative singular); 
+  tatpuruṣa compound; "apt cause" or "appropriate cause"  
+त्रात् (trāt) – indeclinable; here used as an indeclinable particle or instrumental case of the noun त्रातः (trātaḥ) meaning "protector"  
+अभिधीयते (abhidhīyate) – verb; root: धी (dhī), present middle/passive indicative, third singular  
+सीता (sītā) – noun, nominative singular feminine; name "Sītā"  
+पुरुष (puruṣa) – noun, nominative singular masculine; "man"  
+कार (kāra) – noun, masculine; nominative singular (here as part of a compound or meaning "cause" or "purpose")  
+अर्था (arthā) – noun feminine nominative plural (if plural) or singular; meaning "for the purpose" or "meaning"  
+श्री (śrī) – noun feminine nominative singular; "prosperity," "fortune"  
+इति (iti) – indeclinable; quotative particle  
+अनेन (anena) – pronoun; instrumental singular masculine/neuter; "by this"  
+पदेन (padena) – noun, instrumental singular neuter; "by word" or "by term"  
+तु (tu) – indeclinable; "but", "indeed"
+
+Literal translation:  
+"Of the supreme lord of all (sarvādhīśeśvara) the appropriate cause (āptehatuḥ) is here designated (abhidhīyate). Sītā, for the purpose of the man (puruṣa), is called (śrī iti) by this word (anena padena) indeed (tu)."  
+
+Smooth English translation:  
+"The appropriate cause of the supreme lord of all is here designated. Sītā, for the sake of man’s welfare, is indeed called 'Śrī' by this word."

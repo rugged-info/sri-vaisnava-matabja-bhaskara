@@ -1,0 +1,62 @@
+SOURCE_PAGES: page_0118.txt
+
+=== मूलपाठः ===
+
+
+इति।
+परार्ध्वहाराङ्गदचारुनूपुरं सुपदाकिञ्चल्कपिशङ्वाससम् ।
+लसद्घनश्यामतनुं गुणाकरं कृपार्णवं सद्धदयाम्बुजासनम् ।। ५८ ।।
+
+iti।
+parārdhvahārāṅgadacārunūpuraṁ supadākiñcalkapiśaṅvāsasam ।
+lasadghanaśyāmatanuṁ guṇākaraṁ kṛpārṇavaṁ saddhayyāmbujāsanam ।। 58 ।।
+
+iti (इति), iti, indeclinable (particle, quotation)
+parārdhva-hāra-aṅgada-cāru-nūpuraṁ (परार्ध्वहाराङ्गदचारुनूपुरं), 
+   parārdhva (परार्ध्व), base noun, masculine, indeclinable compounding in tatpuruṣa, 
+   hāra (हारा), base noun, masculine, tatpuruṣa 
+   aṅgada (अङ्गद), base noun, masculine, tatpuruṣa 
+   cāru (चारु), adjective, masculine nominative 
+   nūpuraṁ (नूपुरं), noun, neuter singular accusative;
+supadā-kiñcala-kapi-śaṅva-āsa-sam (सुपदाकिञ्चल्कपिशङ्वाससम्), 
+   supadā (सुपदा), nominal compound element, feminine nominative
+   kiñcala (किञ्चल), adjective
+   kapi (कपि), noun (monkey), masculine nominative
+   śaṅva (शङ्व), noun (tail), masculine nominative
+   āsa (आस), noun (clothing or covering), masculine nominative
+   sam (सम्), indeclinable particle ('with', 'together with')
+lasad-ghana-śyāma-tanuṁ (लसद्घनश्यामतनुं),
+   lasad (लसद), adjective ('light', 'shining')
+   ghana (घन), adjective ('dense')
+   śyāma (श्याम), adjective ('dark', 'blue-black')
+   tanuṁ (तनुं), noun, masculine singular accusative ('body')
+guṇā-karaṁ (गुणाकरं),
+   guṇa (गुण), noun masculine base 'quality' or 'virtue'
+   akaraṁ (करं), verbal noun ('maker'); here combined to mean 'bestower of qualities'
+kṛpā-rṇavaṁ (कृपार्णवं),
+   kṛpā (कृपा), noun feminine ('mercy')
+   ṛṇavaṁ (र्णव), noun neuter singular, 'ocean', 'sea'
+saddhaya-ambuja-āsanam (सद्धदयाम्बुजासनम्),
+   sad+daya (सद्धय), adjective ('good-hearted')
+   ambuja (अम्बुज), noun masculine, 'lotus'
+   āsanam (आसनम्), noun neuter singular, 'seat'
+
+Literal translation:
+
+Thus.
+(parārdhva-hāra-aṅgada-cāru-nūpuraṁ) the beautiful anklet with the armlet on the upper half of the arm,
+(supadā-kiñcala-kapi-śaṅva-āsa-sam) with good feet, delicate, with the coat of monkey's tail,
+(lasad-ghana-śyāma-tanuṁ) a shining dense dark-blue body,
+(guṇākaraṁ) a bestower of virtues,
+(kṛpārṇavaṁ) an ocean of mercy,
+(saddhay-āmbuj-āsanam) a seat for the good-hearted lotus.
+
+Smooth English translation:
+
+Thus,
+the beautiful anklet on the upper arm,
+with soft feet, delicate, covered with monkey's tail,
+with a shining, dense, dark-blue body,
+bestower of virtues,
+an ocean of mercy,
+and a seat for the lotus of good hearts.

@@ -1,0 +1,43 @@
+SOURCE_PAGES: page_0161.txt
+
+=== मूलपाठः ===
+
+
+ते. २.१.१) इति श्रुतेः।  
+भवन्त्युपायान्तरमेव सर्वे स्वातन्तर्यतो मुक्तिपदप्रदास्ते ।  
+सुकर्मसंवेदनभक्तियोगाः प्रपत्तिनिठैः समनुष्टितास्तु ।।१०४।।  
+
+te. 2.1.1) iti śruteḥ।  
+bhvantiupāyāntarameva sarve svātantryato muktipadapradāste ।  
+sukarmasaṃvedanabhaktiyogāḥ prapattiniṭhaiḥ samanuṣṭitāstu ।।104।।  
+
+(ते) (te), तैः (taḥ) pronoun, nominative plural masculine;  
+(इति) (iti), इति indeclinable (quotation particle);  
+(श्रुतेः) (śruteḥ), श्रुति (śruti), feminine singular locative;  
+(भवन्ति) (bhvanti), भव (bhū), verb root, present tense, indicative, active, third person plural;  
+(उपायान्तरम्) (upāyāntaram), उपायान्तर (upāyāntara), neuter singular nominative;  
+(इव) (iva), इव indeclinable (simile/like);  
+(सर्वे) (sarve), सर्व (sarva), adjective, nominative plural masculine;  
+(स्वातन्त्र्यतः) (svātantryataḥ), स्वतंत्र (svātantrya), neuter singular ablative;  
+(मुक्तिपद) (muktipada), मुक्तिपद (muktipada), neuter singular nominative;  
+(प्रदाः) (pradāḥ), प्रदान (pradā), adjective, nominative plural masculine (acting as a verb participle or verbal adjective derived from root दा giving ‘givers’); [here functioning as a verbal root participle]  
+(ते) (te), तैः (taḥ) pronoun, nominative plural masculine;  
+(सुकर्म) (sukarma), सु (su) + कर्म (karma), compound tatpuruṣa, neuter plural nominative;  
+(संवेदन) (saṃvedana), संवेदन (saṃvedana), neuter plural nominative;  
+(भक्ति) (bhakti), भक्ति (bhakti), feminine plural nominative;  
+(योगाः) (yogāḥ), योग (yoga), masculine plural nominative;  
+(प्रपत्तिनिठैः) (prapattiniṭhaiḥ), प्रपत्तिनिठ (prapattiniṭha), masculine plural instrumental;  
+(समनुष्टिताः) (samanuṣṭitāḥ), समनुष्ट (samanuṣṭa), adjective or past participle, nominative plural masculine;  
+(तु) (tu), तु indeclinable (emphatic particle);  
+
+"ते (they) इति (thus, according to) श्रुतेः (in the śruti / scripture)."  
+"भवन्ति (are) उपायान्तरम् (alternative means) एव (indeed) सर्वे (all) स्वातन्त्र्यतः (from freedom) मुक्तिपदप्रदास्ते (givers/dispensers of the path to liberation)."  
+"सुकर्म-संवेदन-भक्ति-योगाः (good-deeds sensing devotion paths) प्रपत्तिनिठैः (by the firmly devoted to surrender) समनुष्टितास्तु (indeed prescribed/established)."  
+
+Thus:  
+They (are) thus stated in the śruti.  
+All (those) alternative means (to liberation), indeed, (are) dispensers of the path of liberation arising from independence.  
+The yoga paths of good deeds, perception, and devotion are indeed practiced by those firmly devoted to surrender.  
+
+They are thus declared in the śruti: all alternative means are indeed dispensers of the path of liberation born of freedom.  
+The yogas of good actions, perception, and devotion are indeed practiced by those firmly dedicated to surrender.

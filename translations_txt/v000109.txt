@@ -1,0 +1,33 @@
+SOURCE_PAGES: page_0171.txt
+
+=== मूलपाठः ===
+
+
+स्वीयप्रवृत्तेस्तु निवृत्तिरिष्टो न्यासोऽथ वेद्योऽपि बुधैः सदैव ।
+एेकान्तिकैस्तत्त्वविचारदक्षैः परात्मनिष्ैः परमास्तिकैस्तैः ।।१०९।।
+
+svīyapravṛttestu nivṛttiriṣṭo nyāso'tha vedyo'pi budhaiḥ sadaiva |
+ekāntikaistattvavicāradakṣaiḥ parātmaniṣaiḥ paramāstikaistaiḥ ||109||
+
+स्वीयप्रवृत्तेः (svīyapravṛtteḥ), स्वरूपप्रवृत्ति (svārūpapravṛtti), Fem., Gen., Sing., Tatpuruṣa bahuvrīhi compound;  
+तु (tu), Indecl., Particle;  
+निवृत्ति (nivṛtti), Fem., Nom., Sing., Subject;  
+इष्टः (iṣṭaḥ), Adj., Masc., Nom., Sing., Predicate adjective;  
+न्यासः (nyāsaḥ), Masc., Nom., Sing., Subject;  
+अथ (atha), Indecl., Particle;  
+वेद्यः (vedyaḥ), Adj., Masc., Nom., Sing., Predicate adjective;  
+अपि (api), Indecl., Particle;  
+बुधैः (budhaiḥ), Budha, Masc., Instr., Plur., Instrumental plural;  
+सदैव (sadaiva), Indecl., Adverb;  
+एकान्तकैः (ekāntakaiḥ), Adj., Masc., Instr., Plur., Qualifies बुद्धैः, Tatpuruṣa compound;  
+तत्त्वविचारदक्षैः (tattvavicāradakṣaiḥ), Adj., Masc., Instr., Plur., Compound of तत्त्व (truth), विचारे (inquiry), दक्ष (skillful);  
+परात्मनिर्षैः (parātmaniṣaiḥ), Adj., Masc., Instr., Plur., Compound, Parātman + īṣa, 'ones desiring the supreme self';  
+परमास्तिकैस्तैः (paramāstikaistaiḥ), Adj., Masc., Instr., Plur., Compound, supreme + astika (believer).
+
+Literal translation (with grammatical notes):
+
+"But for one's own natural inclination (स्वीयप्रवृत्तेः, genitive singular) indeed (तु), cessation (निवृत्ति, nominative singular) is desired (इष्टः, predicate adjective agreeing with निवृत्ति), the laying down (न्यासः, nominative singular) also (अथ) is to be known (वेद्यः, predicate adjective), indeed (अपि) always (सदैव) by wise (बुधैः, instrumental plural) who are exclusively (एकान्तकैः), discerning in truth-inquiry (तत्त्वविचारदक्षैः), desiring the supreme self (परात्मनिषैः), and foremost believers (परमास्तिकैस्तैः)."
+
+Smooth English translation:
+
+"But cessation is desired for one's own natural inclination; laying down [this principle] too must always be known by the wise who are exclusively discerning in truth, desirous of the supreme self, and foremost believers."

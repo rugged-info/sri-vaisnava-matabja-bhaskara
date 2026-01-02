@@ -1,0 +1,45 @@
+SOURCE_PAGES: page_0251.txt
+
+=== मूलपाठः ===
+
+
+तथाविधं प्राप्यमथी सुवैषणवः सुचिन्तयत्नित्यमनुरक्षणं प्रिय ।
+सदा सदाचाररतं गुरु वरं ज्ञातं भजेताखिलसंशयच्छिदम् ।।१७९ ।।
+
+tathāvidhaṃ prāpyamathī suvaiṣṇavaḥ sucintayatnityamanuraṣṭanaṃ priya ।
+sadā sadācārarataṃ guru varaṃ jñātaṃ bhajetākhilasaṃśayacchidam ।।179।।
+
+तथाविधं (tathāvidhaṃ), तत् (tat, pronoun), + विध (vidha, noun, neuter, accusative singular), indeclinable compound (tatpuruṣa);
+प्राप्यमथी (prāpyamathī), प्राप्य (prāpya, verbal noun, neuter, accusative singular), अथी (athī, noun, masculine/feminine unclear, vocative or nominative singular — possibly a compound or participle — unclear here, probably a sandhi or corruption of अथ + ई?);
+सुवैष्णवः (suvaiṣṇavaḥ), सु (su, prefix), वैष्णवः (vaiṣṇavaḥ, noun, masculine, nominative singular), bahuvrīhi compound;
+सुचिन्तयत्नित्यम् (sucintayatnityam), सुचिन्तयत् + इत्यम्, a compound, possibly a compound adjective (compound type complex), nominative/accusative singular neuter;
+अनुरक्षणं (anuraṣaṇaṃ), अनुरक्षणं (noun, neuter, accusative singular);
+प्रिय (priya), adjective, neuter singular nominative/accusative;
+सदा (sadā), adverb;
+सदाचाररतं (sadācārarataṃ), sadācāra + rataṃ, adjective, neuter, accusative singular;
+गुरु (guru), noun, masculine, nominative singular;
+वरं (varaṃ), noun, masculine, accusative singular;
+ज्ञातं (jñātaṃ), adjective/participle, neuter, accusative singular;
+भजेत् (bhajet), verb, root √bhaj, 3rd person singular optative mood active voice;
+अखिलसंशयच्छिदम् (akhilasaṃśayacchidam), अखिल + संशय + छिदम्, bahuvrīhi compound adjective, neuter, accusative singular.
+
+tathāvidhaṃ — thus manner (accusative singular neuter)
+prāpyamathī — prāpyam (having been obtained, verbal noun, acc. sing. neuter) + athī (unclear, possibly 'now' or secondary), possibly 'having obtained now'
+suvaiṣṇavaḥ — good Vaiṣṇava (nominative singular masculine)
+sucintayatnityam — well-thought-out, constant effort (compound adjective, neuter singular)
+anuraṣaṇaṃ — protection, maintenance (accusative singular neuter)
+priya — dear, beloved (neuter singular)
+sadā — always
+sadācārarataṃ — devoted to proper conduct (accusative singular neuter)
+guru — teacher (nominative singular masculine)
+varaṃ — excellent, best (accusative singular masculine)
+jñātaṃ — known (accusative singular neuter)
+bhajet — should worship (optative, 3rd person singular)
+akhilasaṃśayacchidam — removing all doubts (compound adjective, acc. sing. neuter)
+
+Thus manner (tathāvidhaṃ) having been obtained (prāpyam) now (possibly athī), good Vaiṣṇavas (suvaiṣṇavaḥ) should cherish (priya) the well considered, constant effort of protection (anuraṣaṇaṃ).
+Always devoted to proper conduct (sadācārarataṃ), one should worship (bhajet) the teacher (guru) who is the best (varaṃ), the known (jñātaṃ) remover of all doubts (akhilasaṃśayacchidam).
+
+In this proper manner, having attained it, good Vaiṣṇavas should cherish the careful, constant effort of protection (of the teachings). Always devoted to right conduct, one should worship the teacher, the best, well known remover of all doubts.
+
+In this way, once attained, good Vaiṣṇavas should cherish the careful and constant effort of preservation. Always devoted to good conduct, one should worship the teacher, the supreme guide, the known remover of all doubts.

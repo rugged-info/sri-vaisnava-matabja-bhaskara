@@ -1,0 +1,18 @@
+SOURCE_PAGES: page_0102.txt
+
+=== मूलपाठः ===
+
+
+वाक्यार्था मन्तरलस्य त्वथ निर्णीयते बुधः ।।४२।।
+
+vākyārthā mantaralasya tvatha nirṇīyate budhaḥ ।।42।।
+
+वाक्यार्था (vākārthā), vākyārtha, nominative/vocative singular masculine, tatpuruṣa compound  
+मन्तरलस्य (mantaralasya), mantarala, genitive singular masculine, tatpuruṣa compound  
+त्वथ (tvatha), indeclinable (particle)  
+निर्णीयते (nirṇīyate), nirṇī (root nirṇī-), present passive/mediopassive indicative 3rd person singular  
+बुधः (budhaḥ), budha, nominative singular masculine, subject
+
+"The meaning of the speech of the mantra, thus, is determined by the wise (man)."
+
+"Thus the wise determine the meaning of the mantra's speech."

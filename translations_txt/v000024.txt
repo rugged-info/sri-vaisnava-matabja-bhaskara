@@ -1,0 +1,29 @@
+SOURCE_PAGES: page_0087.txt
+
+=== मूलपाठः ===
+
+
+बन्धुत्वप्रतिपत्तिश्च भासमाना विचारतः ।।२४।।
+
+bandhutvapratipattiśca bhāsamānā vicārataḥ ।।24।।
+
+बन्धुत्वप्रतिपत्तिश्च (bandhutvapratipattiśca):  
+- bandhutva, bandhutva (noun, neuter, nominative singular, compound base meaning "brotherhood")  
+- pratipatti, pratipatti (noun, feminine, nominative singular, compound base meaning "comprehension, understanding")  
+- ca (indeclinable, conjunction, "and")  
+compound type: tatpuruṣa (bandhutva-pratipatti) + ca (particle)
+
+भासमाना (bhāsamānā):  
+- bhāsamāna (participle, present active participle of the root bhāṣ, verb class 1, masc./neut./fem. nominative singular)  
+grammatical note: here nominative singular feminine agreeing with vicārataḥ (or vocative root to be clarified)
+
+विचारतः (vicārataḥ):  
+- vicāra, √vicṛ (to think, reflect)  
+- vicārataḥ (present active participle, nominative singular masculine or neuter)  
+grammatical note: masculine/neuter nominative singular present active participle
+
+Literal translation:  
+"Brotherhood-comprehension-and shining thinking." (Here, "bandhutva-pratipattiḥ ca" = "and the comprehension of brotherhood," "bhāsamānāḥ vicārataḥ" = "shining while thinking")
+
+Smooth English translation:  
+"And the understanding of brotherhood shines forth in reasoning."

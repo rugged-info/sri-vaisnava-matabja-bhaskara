@@ -1,0 +1,39 @@
+SOURCE_PAGES: page_0218.txt
+
+=== मूलपाठः ===
+
+
+प्रपन्नश्चापि दृप्तः स तथा चार्तं इति द्विधा ।
+शरीरस्थितिपर्य्यन्तमाद्योऽत्रैव यथीचितम् ।।१४८।। 
+
+prapannaś cāpi dṛptaḥ sa tathā cārtaṃ iti dvidhā ।
+śarīrasthitiparyyantamādyo'traiva yathīcitam ॥148॥
+
+प्रपन्नः (prapannaḥ), प्रपन्नः (participle adjective, nominative singular masculine)  
+च (ca), च (indeclinable conjunction)  
+अपि (api), अपि (indeclinable particle)  
+दृप्तः (dṛptaḥ), द्रिप् (root; past passive participle, nominative singular masculine)  
+स (sa), स (pronoun, nominative singular masculine)  
+तथा (tathā), तथा (indeclinable adverb)  
+चार्तम् (cārtaṃ), चार्त (noun, accusative singular masculine)  
+इति (iti), इति (particle, quotative)  
+द्विधा (dvidhā), द्विधा (adverb)  
+
+शरीरस्थितिपर्यन्तम् (śarīrasthitiparyyantam), शरीर (noun, nominative/accusative singular neuter) + स्थित (participle), पर्यन्तम् (up to, indeclinable or adjective) compound (tatpuruṣa composite)  
+आद्यः (ādyaḥ), आद्यः (adjective, nominative singular masculine)  
+अत्र (atra), अत्र (adverb)  
+एव (eva), एव (indeclinable particle)  
+यथीचितम् (yathīcitam), यथा (indeclinable adverb) + उचितम् (adjective, accusative singular neuter) compound (tatpuruṣa or bahuvrīhi, as a single adverbial term)
+
+"प्रपन्नश्चापि दृप्तः स तथा चार्तं इति द्विधा"  
+prapannaḥ ca api dṛptaḥ sa tathā cārtaṃ iti dvidhā  
+"Having surrendered and having also been satiated, thus (he) [becomes] distressed, thus it (is) in two ways."  
+(Here, 'प्रपन्न' = surrendered, 'दृप्त' = satiated, 'च' = and, 'अपि' = also, 'स' = he, 'तथा' = thus, 'चार्तं' = distressed, accusative singular, 'इति' = so/thus, 'द्विधा' = in two ways)
+
+"शरीरस्थितिपर्य्यन्तमाद्योऽत्रैव यथीचितम्"  
+śarīrasthitiparyyantam ādyaḥ atra eva yathīcitam  
+"The first (period) (is) exactly from the body's staying until the end, here itself, as appropriate."  
+(शरीरस्थितिपर्यन्तम् = body (शरीर) + situated (स्थित) + up to (पर्यन्तम्), आद्यः = first, अत्र = here, एव = indeed, यथीचितम् = as appropriate/proper)
+
+Surrendered and also satiated, he is thus distressed in two ways.  
+The first is here itself, exactly from the body's staying until the end, as appropriate.

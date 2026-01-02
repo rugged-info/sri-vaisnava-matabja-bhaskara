@@ -1,0 +1,27 @@
+SOURCE_PAGES: page_0156.txt
+
+=== मूलपाठः ===
+
+
+विद्धाथ वेद्याग्नियुता हि रोहिणी  
+ज्ञेया तु शुद्धा यदि सा परान्विता ।।९७।।
+
+viddhātha vedyāgniyutā hi rohiṇī  
+jñeyā tu śuddhā yadi sā parānvitā ॥97॥
+
+विद्धाथ (viddhātha), विद्धा, fem. nom. sg., a past passive participle meaning “to be known” / “to be understood”  
+वेद्याग्नियुता (vedyāgniyutā), वेद्य (vedya, “to be known”) + अग्नि (agni, “fire”) + संयुक्त (saṃyukta, “joined with”) → compound tatpuruṣa, fem. nom. sg., meaning “joined with the sacrificial fire to be known”  
+हि (hi), indeclinable particle, emphasizing the preceding word  
+रोहिणी (rohiṇī), रोहिणी, fem. nom. sg., proper noun, name of a lunar mansion (nakṣatra)  
+ज्ञेया (jñeyā), jñeya, fem. nom. sg., gerundive (to be known)  
+तु (tu), indeclinable particle, “but” / “indeed”  
+शुद्धा (śuddhā), शुद्ध (śuddha, “pure”), fem. nom. sg.  
+यदि (yadi), indeclinable, conditional particle “if”  
+सा (sā), सा, fem. nom. sg. pronoun, “she” / “that”  
+परान्विता (parānvitā), पर (para, “others”) + अन्विता (anvitā, “joined with”), fem. nom. sg., past passive participle, “joined with others” / “accompanied”
+
+(if) the Rohiṇī, firmly joined with the sacrificial fire, is to be known  
+(but) (she) is pure (and) if (she) is joined with others
+
+If Rohiṇī, joined with the sacred fire, is indeed to be known,  
+then she should be taken as “Viddhā” (to be known). If she is pure and joined with others, (she is) to be known as pure.

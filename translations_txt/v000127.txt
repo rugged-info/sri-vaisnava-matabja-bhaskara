@@ -1,0 +1,26 @@
+SOURCE_PAGES: page_0197.txt
+
+=== मूलपाठः ===
+
+
+व्यासेन ब्रह्मविद्यातो बहिष्कारोऽस्य सूचितः ।
+शिष्टा यज्ञादिकार्येषु वर्जयन्ति तथाविधम् ।।१२७॥
+
+vyāsena brahmavidyāto bahiṣkāro'sya sūcitaḥ ।
+śiṣṭā yajñādikāryeṣu varjayanti tathāvidham ।।127॥
+
+व्यासेन (vyāsena), व्यास (Vyāsa), व्यपा (proper noun, instrumental singular)  
+ब्रह्मविद्यातो (brahmavidyāto), ब्रह्मविद्या (brahma-vidyā), तत्पुरुष (compound of ब्रह्म + विद्या, instrumental singular)  
+बहिष्कारः (bahiṣkāraḥ), बहिष्कार (noun masculine, nominative singular)  
+अस्य (asya), अस् (pronoun, genitive singular)  
+सूचितः (sūcitaḥ), सूच (verb root सूच्, past passive participle masculine nominative singular)  
+शिष्टाः (śiṣṭāḥ), शिष्ट (adjective masculine nominative plural)  
+यज्ञादिकार्येषु (yajñādikāryeṣu), यज्ञादि (tatpuruṣa compound यज्ञ + आदि + कार्येषु), कार्येषु (noun neuter, locative plural),  
+वर्जयन्ति (varjayanti), वर्ज् (verb root), 3rd person plural present active indicative  
+तथाविधम् (tathāvidham), तत् (indeclinable), विधम् (indeclinable)  
+
+By Vyāsa, through the knowledge of Brahman, the exclusion of this (is) indicated.  
+The learned exclude in sacrificial and related duties thus.  
+
+By Vyāsa, indicated is the exclusion of this through the knowledge of Brahman.  
+The learned exclude it in sacrificial and related duties accordingly.

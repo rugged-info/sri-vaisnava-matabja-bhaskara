@@ -1,0 +1,44 @@
+SOURCE_PAGES: page_0244.txt
+
+=== मूलपाठः ===
+
+
+ताराकनिल-चनद्रमोबहु-महस्सौदामिनी-भासको-
+जय्यो वीरसपतरशस्तनिचयैर्जता च तेषां मुहुः ।।१७७।।
+
+tārākanila-candramobahu-mahassaudāminī-bhāskō-
+jayyō vīrasapatarashastanicayairjatā ca teṣāṃ muhuḥ ।।177।।
+
+ताराकनिल-चनद्र-ओबहु-महस्-सौदामिनी-भासकः (tārākanila-candra-obahu-mahas-saudāminī-bhāsakaḥ): 
+  ताराकनिल-चनद्र- (tārākanila-candra-), tatpuruṣa compound (composed of ताराः (tārāḥ) 'stars' [pl. nom. m.] + अनिल (anila) 'wind' + चन्द्र (candra) 'moon')
+  ओबहु (obahu), base 'bahu' with prefix 'o' (or sandhi form, unclear, possibly a compound or connector),
+  महस् (mahas), base 'mahaḥ' (great, masculine nominative singular),
+  सौदामिनी (saudāminī), base 'saudāminī' (feminine nominative singular, 'the wife of king Sudāman'),
+  भासकः (bhāsakaḥ), base 'bhāsaka' (masculine nominative singular, 'shining, radiant')
+
+जय्यः (jayyaḥ) base 'jaya' noun masc. nominative singular 'victory'
+
+वीरसपत-रशस्-तनि-चयैः (vīrasapatarashastanicayaiḥ): 
+  वीर (vīra) noun masc. nominative singular 'hero'
+  सप्त (sapta) 'seven'
+  रशस् (raśas) 'rays' masc. instr. plural
+  तनि (tani), possibly 'body' or 'possessing' (this may be an ambiguous or compound form)
+  चयैः (cayaiḥ) instr. plural of चय 'collection' or 'assemblage'
+
+जता (jatā) past participle feminine nominative singular of √जन् (jan) 'born'
+
+च (ca) indeclinable 'and'
+
+तेषाम् (teṣām) pronoun genitive plural 'of them'
+
+मुहुः (muhuḥ) indeclinable 'again and again, repeatedly'
+
+Literal translation (grammatical notes in parentheses):
+
+The star-wind-moon-many-great-Sudāminī-shining (bhāsakaḥ) (masc. nom. sg.)—victory (jayyah) (masc. nom. sg.)—brave-seven-rays-collection (instr. pl.) born and of them repeatedly.
+
+The verse is complex but roughly means:
+
+Smooth English translation:
+
+Victorious is the radiant one, the great one shining like the stars, wind, and moon; born from the assembly of seven heroic rays, and repeatedly among them.

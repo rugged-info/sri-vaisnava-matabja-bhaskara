@@ -1,0 +1,55 @@
+SOURCE_PAGES: page_0103.txt
+
+=== मूलपाठः ===
+
+
+प्रोक्ता वत्सक! मन्तरत्रविवृतिः सन्मानसाभीष्टदं  
+सद्वेद्यं सकृदित्यवेहि चरमं निर्णीतवाक्यार्थकम् ।  
+रामीयं हि तदीयमन्तरनिरतैरुद्वोधनीयं परं  
+द्ात्रिंशत्प्रमिताक्षरं मनुपदं द्रयरद्धं जगद्विश्रुतम् ।।४५।।
+
+proktā vatsaka! mantaratravivṛtiḥ sanmānasābhīṣṭadaṁ  
+sadvedyaṁ sakṛdityavehi caramaṁ nirṇītavākyārthakam ।  
+rāmīyaṁ hi tadīyamantaraniratairudvodhanīyaṁ paraṁ  
+dātriṁśatpramitākṣaraṁ manupadaṁ drayaraddhaṁ jagadviśrutam ॥45॥
+
+proktā (proktā) — past participle, nominative singular, masculine; "spoken/declared"  
+vatsaka (vatsaka) — vocative singular, masculine; "O dear one"  
+mantaratra (mantaratra) — compound tatpuruṣa (mantra + atra), masculine nominative singular; "here of mantra" / "in the mantra"  
+vivṛtiḥ (vivṛtiḥ) — nominative singular, feminine; "explanation, elucidation"  
+sanmānasā (sanmānasa) — compound tatpuruṣa (san + mānasa), instrumental singular neuter; "with good mind" / "with respectful mind"  
+abhīṣṭa (abhīṣṭa) — past participle, nominative singular neuter; "desired, wished"  
+daṁ (daṁ) — accusative singular neuter; "gift, giving"  
+sadvedyam (sadvedya) — nominative singular neuter; "to be honored, venerable"  
+sakṛd (sakṛt) — indeclinable adverb; "once, some time"  
+ity (iti) — indeclinable particle; "thus"  
+avehi (a + vehi) — imperative singular (of √vah), "bring, carry"  
+caramam (caramam) — accusative singular neuter; "supreme, final"  
+nirṇīta (nirṇīta) — past participle, nominative singular neuter; "decided, determined"  
+vākya (vākya) — nominative singular neuter; "sentence, statement"  
+artha (artha) — stem compounded as tatpuruṣa with vākya, adjective qualifying vākyārthakam, neuter nominative singular; "meaning"  
+-ākam (suffix) — nominalizer  
+rāmīyam (rāmīyam) — nominative singular neuter; "pleasing, delightful"  
+hi (hi) — indeclinable particle; "indeed, surely"  
+tadīyam (tadīyam) — nominative singular neuter pronoun adjective; "that" / "its"  
+antara (antara) — compound tatpuruṣa (anta + ra) nominal adjective; "internal, within"  
+nirataiḥ (nirataiḥ) — instrumental plural masculine; "engaged, absorbed in"  
+udvodhanīyam (udvodhanīyam) — nominative singular neuter; "inspiring, arousing"  
+param (param) — accusative singular neuter; "supreme, highest"  
+dātriṁśat (dātriṁśat) — compound numeral adjective, nominative singular neuter; "thirty" (30)  
+pramita (pramita) — past participle, nominative singular neuter; "measured"  
+ākṣaraṁ (ākṣara) — accusative singular neuter; "letter, syllable"  
+manupadam (manupadam) — accusative singular neuter; "phrase, expression"  
+draya-raddham (draya-raddham) — compound bahuvrīhi (draya + raddham), accusative singular neuter; "money-binding, valuable"  
+jagadviśrutam (jagad-viśrutam) — compound tatpuruṣa (jagat + viśrutam), nominative singular neuter; "world-famous"
+
+Literal translation:  
+"O dear one, the explanation here of the mantra spoken, (which is) a gift desired with respectful mind,  
+(is) venerable, once thus bring the supreme decided meaning of sentence.  
+Indeed, delightful is that internal inspiring one engaged in it, the supreme  
+thirty-measured syllable expression, valuable, world-famous."
+
+Smooth English translation:  
+"O dear one, bring forth once more the revered explanation here of the spoken mantra, a gift desired with respect—  
+the supreme, determined meaning of the statement.  
+Indeed, that delightful and inspiring internal engagement, the supreme expression of thirty measured syllables, valuable and world-renowned."

@@ -1,0 +1,24 @@
+SOURCE_PAGES: page_0076.txt
+
+=== मूलपाठः ===
+
+
+पितापुत्रत्वसम्बन्धी जगत्कारणवाचिना ।
+रक्ष्यरक्षक भावश्च रेण रक्षक वाचिना ।।१४।।
+
+pitāputratvasambandhī jagat-kāraṇavācinā |
+rakṣyarakṣaka bhāvaśca reṇa rakṣaka vācinā ||14||
+
+पितापुत्रत्वसम्बन्धी (pitāputratvasambandhī), पितृ (pitṛ, father) + पुत्र (putra, son) + तत्त्व (tattva, essence) + सम्बन्धी (sambandhī, related to), tatpuruṣa, adj., nominative singular masculine  
+जगत्कारणवाचिना (jagat-kāraṇavācinā), जगत् (jagat, world) + कारण (kāraṇa, cause) + वाचिना (vācinā, by speech), bahuvrīhi, instrumental singular masculine  
+रक्ष्यरक्षक (rakṣyarakṣaka), रक्ष्य (rakṣya, to be protected, gerundive) + रक्षक (rakṣaka, protector), dvandva compound, nominative singular masculine  
+भावश्च (bhāvaśca), भाव (bhāva, feeling, state) + च (ca, and), nominative singular masculine  
+रेण (reṇa), रेणु (reṇu, particle, particle/dust), nominative singular masculine  
+रक्षक (rakṣaka), रक्षक (rakṣaka, protector), nominative singular masculine  
+वाचिना (vācinā), वाचि (vāc, speech) + णा (instrumental singular), indeclinable compound (abbreviation: by speech)
+
+Literal translation (close, with grammatical notes in parentheses):  
+"(He) who is related by father-son essence (nominative singular masculine) (pitāputratvasambandhī) to the world (instrumental singular masculine) as cause by speech (jagat-kāraṇavācinā); protector and protected (dvandva compound) (rakṣyarakṣaka), and (ca) the feeling/state (bhāva) (nominative singular masculine) indeed (reṇa) protector (rakṣaka) by speech (instrumental singular) (vācinā)."
+
+Smooth English translation:  
+"He who is related by the father-son essence, called the cause of the world by speech; the protector and the protected, and also the feeling itself, is called protector by speech."

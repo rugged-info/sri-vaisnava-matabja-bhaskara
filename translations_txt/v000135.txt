@@ -1,0 +1,55 @@
+SOURCE_PAGES: page_0203.txt
+
+=== मूलपाठः ===
+
+
+मनोमिलिन्दस्तव पादपङ्कजे रमार्चिते संरमतां भवे भवे ।
+यशः श्रुतौ ते मम कर्णयुग्मकं त्वद्धक्तसङ्गोऽस्तु सदा मम प्रभो ।। १३५।। 
+
+manomilindastava pādapañkaje ramārcite saṃramatāṃ bhave bhave ।
+yaśaḥ śrutau te mama karṇayugmakaṃ tvaddhaktasaṅgo'stu sadā mama prabho ।। 135 ।।
+
+मनोमिलिन् (manomilin), मनोमिलिन् (compound, bahuvrīhi)
+स्तव (stava), स्तव (indecinable particle)
+तव (tava), त्व (pronoun, 2nd person singular, possessive)
+पादपङ्कजे (pādapaṅkaje), पदपङ्कज (pādapaṅkaja, masculine, locative singular)
+रामर्चिते (ramārcite), रामर्चित (ramārcita, masculine/neuter, locative singular, past participle)
+संरमतां (saṃramatāṃ), संरमता (saṃramatā, feminine, accusative singular, abstract noun)
+भवे (bhave), भव (bhava), masculine/neuter, locative singular, vocative singular (indeclinable particle in repetition)
+भवे (bhave), same as above, repetition for emphasis
+यशः (yaśaḥ), यशस् (yaśas), masculine, nominative singular
+श्रुतौ (śrutau), श्रुत (śruta), masculine/neuter, dual, locative
+ते (te), pronoun, 2nd person singular, possessive
+मम (mama), pronoun, 1st person singular, possessive
+कर्णयुग्मकम् (karṇayugmakam), कर्णयुग्म (karṇayugma), neuter, accusative singular, compound (tatpuruṣa - "ear-pair")
+त्वद्धक्तसङ्गः (tvaddhaktasaṅgaḥ), तव् (tva), 2nd person singular possessive + अधक्त (adhakta, indeclinable, "unattached") + सङ्ग (saṅga), masculine, nominative singular, compound (bahuvrīhi)
+अस्तु (astu), indeclinable, imperative mood, 3rd person singular, "may it be"
+सदा (sadā), indeclinable adverb "always"
+मम (mama), pronoun, 1st person singular, possessive
+प्रभो (prabho), प्रभु (prabhu), masculine vocative singular
+
+"manomilin tava pādapañkaje ramārcite saṃramatāṃ bhave bhave"
+- मनोमिलिन् (manomilin): "mind-joining" (a bahuvrīhi compound describing the subject, possibly the speaker or an addressed person)
+- तव (tava): your (2nd person singular possessive)
+- पादपङ्कजे (pādapañkaje): in the lotus of the feet (locative singular)
+- रामर्चिते (ramārcite): worshipped by Rāma (locative singular past participle)
+- संरमतां (saṃramatāṃ): desire, longing, supplication (accusative singular)
+- भवे भवे (bhave bhave): O existence, O being (vocative repeated for emphasis)
+
+"yaśaḥ śrutau te mama karṇayugmakam tvaddhaktasaṅgo'stu sadā mama prabho"
+- यशः (yaśaḥ): fame (nominative singular)
+- श्रुतौ (śrutau): in the heard scriptures (locative dual)
+- ते (te): your (2nd person singular possessive)
+- मम (mama): my (1st person singular possessive)
+- कर्णयुग्मकम् (karṇayugmakam): pair of ears (accusative singular)
+- त्वद्धक्तसङ्गः (tvaddhaktasaṅgaḥ): with no association, detached from you (nominative singular bahuvrīhi compound)
+- अस्तु (astu): let it be (imperative, 3rd singular)
+- सदा (sadā): always
+- मम (mama): my (1st person singular possessive)
+- प्रभो (prabho): O Lord (vocative singular)
+
+"O mind-joining one, in your lotus feet, worshipped by Rama, may there be desire (or pleasure, devotion) in every existence.
+May the fame about you, in the scriptures heard, my pair of ears, may my detachment (from you) never be—always, O my Lord."
+
+O mind-joining one, in your lotus feet, worshipped by Rama, may devotion arise in every existence.  
+May your fame in the scriptures reach my ears; may I never be separated from you, always, my Lord.

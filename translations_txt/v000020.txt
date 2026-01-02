@@ -1,0 +1,32 @@
+SOURCE_PAGES: page_0085.txt
+
+=== मूलपाठः ===
+
+
+मवाच्योऽहं रवाच्याय शेषभूतोऽस्मि सर्वदा ।
+इतीत्थमेव बोध्यो ज्ञेवक्यार्थस्तद्विवित्सया ।।२०।।
+
+mavācyo'haṃ ravācyāya śeṣabhūto'smi sarvadā |
+itītham eva bodhyo jñevakyārthastadvivitsayā ||20||
+
+मवाच्यः (mavācyaḥ), म्-आ-इ-च्-य-ः, (tatpuruṣa compound ‘mama + ācyā’?), nominative singular masculine, ‘to be spoken by me’
+अहम् (aham), अहम्, nominative singular first person pronoun, ‘I’
+रवाच्याय (ravācyāya), रवाच्याय, dative singular masculine, tatpuruṣa compound ‘rava + ācyāya’, ‘to be spoken by Rava’
+शेषभूता (śeṣabhūtā), शेषभूत-आ, nominative singular feminine, bahuvrīhi/karma tatpuruṣa?, ‘remaining being’
+अस्मि (asmi), अस्मि, first person singular present indicative active verb ‘to be’, ‘I am’
+सर्वदा (sarvadā), सर्वदा, indeclinable adverb, ‘always’
+
+इति (iti), इति, particle, ‘thus’
+इदम् (idam), इदम् (implied), demonstrative pronoun neuter singular, ‘this’
+इदम् converted to ‘इति’ as quotation marker, treating as indeclinable particle here
+अमेव (ameva), (actually इव) parsed as इव (iva) indeclinable particle ‘like, indeed’
+बोध्यो (bodhyo), बोध्य-उ, nominative singular masculine, gerundive, ‘to be known/understood’
+ज्ञेवक्यार्थ (jñevakyārtha), ज्ञ + इव + अर्थ, compound indicating ‘meaning to be known’
+तत् (tat), तत्, nominative singular neuter, demonstrative pronoun ‘that’
+विवित्सया (tadvivitsayā), तत् + वित्सा (vivitsā), instrumental singular feminine, tatpuruṣa or bahuvrīhi, ‘by the one who understands/distinguishes that’
+
+Literal translation:
+"I (अहम्) am (अस्मि) remaining being (शेषभूता) to be spoken by me (मवाच्यः) and to be spoken to Rava (रवाच्याय), always (सर्वदा). Thus (इति), indeed (इव) this (तद्) meaning to be known (ज्ञेवक्यार्थः) is to be understood (बोध्यो) by the distinguisher of that (विवित्सया)."
+
+Smooth English translation:
+"I am the remaining being to be spoken by me and to be spoken to Rava, always. Thus, this meaning to be known is to be understood by the one who discerns that."

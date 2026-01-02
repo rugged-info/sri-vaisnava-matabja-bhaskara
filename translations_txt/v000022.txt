@@ -1,0 +1,98 @@
+SOURCE_PAGES: page_0086.txt
+
+=== मूलपाठः ===
+
+
+चेतनः प्राणी तद्यतिरेकेणाचेतनो जडः, ज्ञानाश्रयचेतनरमणस्य सग्वेऽचेतनरमणं कथ युज्यते। तत्रोच्यते- मोदते भगवान् भूतेर्बालः क्रीडनकेरिव' (हरि पु.२.१०२.३७) इत्यत्रेव चेतनाचेतनोभयवाचकभ्रूतशब्दप्रयोगवदत्रापि चेतनाचेतनपर्द युक्तम्। सद्वेषदर्थे नजचेतनतिर्यग्जातीयानां खगमृगादीनां विरहलीलायां स्थावरादिभ्यः स्वसंश्लेषदानेन च रमणं युज्यते। यद्रा चेतनः स्यात्सहदय इति कोषात्ससहदयानां भक्तिद्रुतचेतसामसहदयानामचेतनानां निसर्गक्रूरमनर्सा राक्षसानामपि स्वाभिरामगुणैः रमण इति। अतो 'रामः कमलपत्राक्षः सर्वसत्वमनोहरः' इति (२.६६.८) वात्मीकीयरामायणपद्ये बहुसतत्वमनोहर इत्यनुत्क्त्वा सर्वसततवमनोहर इत्युक्तम्। इत्थं भगवतो रामस्य स्वाधीनलीलोपकरणत्वमनितरचेतनप्रर्यत्वं च रमणे लभ्यते। स सर्वविधबन्धुत्वं सर्वप्राप्यत्वमेव च । सर्वप्रापकता तेन तथा चोभयलिङ्खता ।।२२।।
+
+cetanaḥ prāṇī tadyatirekeṇācetano jaḍaḥ, jñānāśrayacetanaramaṇasya sagve'cetunaramaṇaṃ katha yujyate। tatrocyate- modate bhagavān bhūterbālaḥ krīḍanakèriva' (hari pu.2.102.37) ityatreva cetanācetanobhayavācakabhrūtaśabdaprayogavadatrapi cetanācetanaparda yuktam। sadveṣadarthe najacetanatiryagjātīyānāṃ khagamṛgādīnāṃ virahalīlāyāṃ sthāvarādibhyḥ svasansleṣadānena ca ramaṇaṃ yujyate। yadrā cetanaḥ syātsahadaya iti koṣātsasahadayānāṃ bhaktidrutacetasāmasahadayanāmacetānāṃ nisargakrūramanarsā rākṣasānāmpi svābhi rāmag uṇaiḥ ramaṇa iti। ato 'rāmaḥ kamalapatrākṣaḥ sarvasatvam anoharaḥ' iti (2.66.8) vātamīkīyarāmāyaṇapadye bahusatvam anohara ityanutktvā sarvasatatvamanohara ityuktam। itthaṃ bhagavato rāmasya svādhīnalīlopakaraṇatvamanitaracetanaprar yatvaṃ ca ramaṇe labhyate। sa sarvavidhabandh utvaṃ sarvap rāpyatvameva ca । sarvap rāpakatā tena tathā cobhaya liṅkhatā ।।22।।
+
+चेतनः (cetanaḥ), चेतन (adj.), nominative singular masculine  
+प्राणी (prāṇī), प्राणी (noun), nominative singular masculine  
+तद् (tad), demonstrative pronoun, nominative singular neuter  
+अतिरिक्तेन (atirekeṇa), अतिरिक्त (adj.) + instrumental singular masculine  
+अचेतनः (acetanaḥ), अचेतन (adj.), nominative singular masculine  
+जडः (jaḍaḥ), जड (adj.), nominative singular masculine  
+ज्ञानाश्रयचेतनरमणस्य (jñānāśrayacetanaramaṇasya), compound tatpuruṣa or bahuvrīhi, genitive singular masculine  
+सग्वे (sagve), sa + ave (compound?), possibly 'सग्वे' as in 'सर्वे' misspelling or reading error; context suggests 'सर्वे' (sarve, all) genitive plural masculine or accusative plural?  
+अचेतनरमणं (acetanaramaṇaṃ), accusative singular masculine, compound tatpuruṣa  
+कथ (katha), interrogative adverb / indeclinable  
+युज्यते (yujyate), verb, present middle/passive, 3rd person singular  
+तत्र (tatra), pronoun, locative singular neuter  
+उच्यते (ucyate), verb, present passive, 3rd person singular  
+मोदते (modate), verb, present middle/passive, 3rd person singular  
+भगवान् (bhagavān), noun, nominative singular masculine  
+भूतेः (bhūteḥ), noun, genitive singular masculine or locative singular masculine/neuter  
+बालः (bālaḥ), noun/adjective, nominative singular masculine  
+क्रीडनकेरिव (krīḍanakeriva), compound; क्रीडनकर (krīḍanakara) - play maker + इव (iva) - like/as (particle)  
+इति (iti), indeclinable, particle  
+अत्र (atra), indeclinable adverb  
+एव (eva), indeclinable particle  
+चेतनाचेतनोभयवाचकभ्रूतशब्दप्रयोगवदत्रापि (cetanācetanobhayavācakabhrūtaśabdaprayogavadatrapi), compound word, comprising multiple components: चैतन (cetana) - conscious, अचेतन (acetana) - unconscious, अभयवाचक (abhayavācaka) - denoting both, भ्रूत (bhrūta) - used, शब्द (śabda) - words, प्रयोग (prayoga) - usage, वद (vada) - as, अपि (api) - also  
+चेतनाचेतनपर्द (cetanācetanaparda), compound  
+युक्तम् (yuktam), adjective, nominative singular neuter/masculine  
+सद्वेषदर्थे (sadveṣadarthe), sad + veṣa + arthe (dative singular masculine)  
+नजचेतनतिर्यग्जातीयानां (najacetanatiryagjātīyānāṃ), compound, genitive plural; नज (naja) - aquatic, चेतन (cetana), तिर्यग् (tiryaṅg) - quadruped, जातीय (jātīya) - born of same class/species  
+खगमृगादीनां (khagamṛgādīnāṃ), compound, genitive plural; खग (khaga) - bird, मृग (mṛga) - animal + आदि (ādi) - etc.  
+विरहलीलायां (virahalīlāyāṃ), dative singular feminine; विरह (viraha) - separation, लीला (līlā) - play  
+स्थावरादिभ्यः (sthāvarādibhyḥ), instrumental plural masculine/neuter; स्थावर (sthāvara) - immobile beings, आदि (ādi) - etc.  
+स्वसंश्लेषदानेन (svasansleṣadānena), instrumental singular; स्व (sva) - own, संश्लेष (saṃsleṣa) - union/attachment, दान (dāna) - giving  
+च (ca), indeclinable conjunction  
+रमणं (ramaṇaṃ), accusative singular masculine; रमण (ramaṇa) - enjoyment, delight, company  
+युज्यते (yujyate), verb, present middle/passive, 3rd person singular  
+यद् (yad), relative pronoun neuter singular or particle  
+रा (rā), root verb or particle? uncertain, context says यदि चेतनः स्यात् - perhaps 'यद्रा' is यद + रा typo or contraction  
+चेतनः (cetanaḥ), adjective/noun, nominative singular masculine  
+स्यात् (syāt), verb, optative or present subjunctive, 3rd person singular  
+सहदय (sahadaya), adjective, nominative singular masculine; 'kind-hearted'  
+इति (iti), particle  
+कोषात् (koṣāt), noun, ablative singular masculine; treasury  
+सहदयानां (sahadayānāṃ), adjective/noun, genitive plural masculine/feminine; kind-hearted  
+भक्तिद्रुतचेतसामसहदयानामचेतनानां (bhaktidrutacetasāmasahadayanāmacetānām), compound, genitive plural; भक्तिद्रुत (bhaktidruta) - devotion quick, चेतसाम् (cetasām) - mind, सहदयानाम् (sahadayanām) - kind-hearted, अचेतानाम् (acetānām) - un-conscious  
+निसर्गक्रूरमनर्सा (nisargakṛūramanarsā), compound; निसर्ग (nisarga) - nature, क्रूर (kṛūra) - cruel, अनरस् (anarsa) - ungraceful, cruel  
+राक्षसानाम् (rākṣasānām), noun, genitive plural masculine; demons  
+अपि (api), indeclinable particle; also  
+स्वाभिरामगुणैः (svābhirāmag uṇaiḥ), instrumental plural; स्व (sva) - own, अभिराम (abhirāma) - pleasing, गुण (guṇa) - qualities  
+रमण (ramaṇa), nominative singular masculine; enjoyment, delight  
+इति (iti), particle  
+अतो (ato), adverb/conjunction; therefore  
+रामः (rāmaḥ), noun, nominative singular masculine; Rama  
+कमलपत्राक्षः (kamalapatrākṣaḥ), compound bahuvrīhi; lotus-leaf-eyed  
+सर्वसत्वमनोहरः (sarvasatvamanoharaḥ), compound bahuvrīhi; attractive to all beings  
+इति (iti), particle  
+वात्मीकीयरामायणपद्ये (vātamīkīyarāmāyaṇapadye), locative singular; in the verse of Vālmīki's Rāmāyaṇa  
+बहुसतत्वमनोहर (bahusatvamanohara), adjective, nominative singular masculine; attractive to many beings  
+इत्यनुत्क्त्वा (ityanutktvā), indeclinable; having said thus  
+सर्वसततवमनोहर (sarvasatatvamanohara), adjective, nominative singular masculine; attractive to all beings at all times  
+इत्युक्तम् (ityuktam), indeclinable; thus said  
+इत्थं (itthaṃ), indeclinable; thus  
+भगवतो (bhagavato), noun/adj; genitive singular masculine; of the Lord  
+रामस्य (rāmasya), genitive singular masculine; Rama's  
+स्वाधीनलीलोपकरणत्वम् (svādhīnalīlopakaraṇatvam), noun neuter singular; independence + play + equipment + suffix for abstractness  
+अनितरचेतनप्रर्यत्वं (anitaracetanaprar yatvaṃ), noun neuter singular; non-other + conscious + leading? Probably अनितरचेतनप्रत्यत्वम् or प्रर्यत्वं typo, meaning 'leading or movement of unconscious'  
+च (ca), conjunction  
+रमणे (ramaṇe), locative singular masculine; in enjoyment  
+लभ्यते (labhyate), verb, present passive, 3rd person singular; is obtained  
+स (sa), pronoun, nominative singular masculine; he, that  
+सर्वविधबन्धुत्वं (sarvavidhabandhutvaṃ), noun neuter singular; all kinds + relationship/kinship + abstract noun suffix  
+सर्वप्राप्यत्वमेव (sarvap rāpyatvameva), noun neuter singular + suffix; all attainment + only  
+च (ca), conjunction  
+सर्वप्रापकता (sarvap rāpakatā), noun feminine singular; all attaining quality  
+तेन (tena), pronoun instrumental singular masculine/neuter; by him  
+तथा (tathā), indeclinable; thus  
+च (ca), conjunction  
+उभयलिङ्खता (ubhayaliṅkhatā), noun feminine singular; both + characteristic/marking  
+।।२२।।, verse number 22  
+
+The conscious living being is different; unconscious is something else. (cetanaḥ prāṇī tadyatirekeṇā acetanaḥ jaḍaḥ)  
+How can the conscious enjoyer resting upon knowledge be connected with the unconscious enjoyer? (jñānāśrayacetanaramaṇasya sagve'cetunaramaṇaṃ katha yujyate)  
+Here it is said: “The Lord delights in creatures like a child playing” (tatrocyate- modate bhagavān bhūterbālaḥ krīḍanakèr iva) (Hari Purāṇa 2.102.37)  
+Here too, as in the use of words indicating both conscious and unconscious, the union of conscious and unconscious is appropriate.  
+For the purpose of both good and hatred, among aquatic, terrestrial, and quadruped creatures, birds and animals, in the play of separation and union from immobile beings and others, the union is suitable.  
+Because if the conscious is kind-hearted, then from the treasury of the kind-hearted, devotees with quick minds and kind hearts among the unconscious also, and even among the cruel and ungraceful demons, the play with self-pleasing qualities is suitable.  
+Therefore, “Rama, lotus-eyed, charming all living beings,” (2.66.8) is said in the Vālmīki Rāmāyaṇa verse; having said “charming many beings,” it is also said “charming to all beings.”  
+Thus, the independent play of the Lord Rama, and the leading of the non-other conscious and unconscious is found in the delight.  
+He is the embodiment of all relationships and the possessor of all achievements.  
+By him is all attainment, and also the sign or mark of both. (verse 22)  
+
+The conscious living being is one; the unconscious another. How is the conscious enjoyer resting on knowledge joined with the unconscious enjoyer? Here it is said: "The Blessed Lord delights in creatures like a child at play" (Hari Purāṇa 2.102.37). In this context, even the usage of words denoting both conscious and unconscious is appropriate. For the sake of both love and hate, the play of separation among aquatic, terrestrial, and quadruped creatures, birds, animals, and others, and the union by the immobile beings and others is suitable. If the conscious is kind-hearted, then from the treasury of the kind-hearted—devotees, the quick-minded, the kind-hearted among the unconscious, even among the cruel and ungraceful demons—the delightful union with pleasing qualities is proper. Hence, "Rama, lotus-eyed, beloved of all beings" (2.66.8) is uttered in the verses of Vālmīki's Rāmāyaṇa; having declared "beloved of many beings," it is also expressed as "beloved of all beings." Thus the independent play of Lord Rama and the function of the conscious and unconscious are found in this delight. He encompasses all kinships and is indeed the possessor of all attainments. By him is all attainment and the characteristic of both. (Verse 22)

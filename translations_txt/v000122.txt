@@ -1,0 +1,36 @@
+SOURCE_PAGES: page_0192.txt
+
+=== मूलपाठः ===
+
+
+श्रयन्ति धर्मस्तु तया पृथक् स्थितान्सुवक्रगाः सिन्धुमिवापि निस्रगाः।
+काष्टस्थवलेरिव घातको हरेश्चराचरस्थस्य च जन्तु्हिंसकः ।।१२२।।
+
+śrayanti dharmastu tayā pṛthak sthitān suvakragāḥ sindhum iv āpi nisragāḥ।
+kāṣṭasthavaleriva ghātako hareścarācarasthasya ca jantuhimsakaḥ।।122।।
+
+श्रयन्ति (śrayanti), √śri (verb root), 3rd person plural present indicative active  
+धर्मः (dharmaḥ), धर्म (dharma), masculine singular nominative  
+तु (tu), indeclinable (particle)  
+तया (tayā), तद् (tat), instrumental singular feminine (pronoun)  
+पृथक् (pṛthak), indeclinable (adverb)  
+स्थितान् (sthitān), √sthā (verb root - past participle), masculine plural accusative  
+सुवक्रगाः (suvakragāḥ), सुभ्र (su-) + वक्र (vakra) + ग (ga), masculine plural nominative (compound: bahuvrīhi)  
+सिन्धुम् (sindhum), सिन्धु (sindhu), masculine singular accusative  
+इव (iva), indeclinable (particle, simile)  
+अपि (api), indeclinable (particle, also)  
+निस्रगाः (nisragāḥ), निस्र = nis + रागा = ragā (ones who have gone out), masculine plural nominative (compound: tatpuruṣa)  
+काष्टस्थवलेरिव (kāṣṭasthavaleriva), काष्ठ (kāṣṭha) + स्थ (stha) + वल (vala) + एर् (er) + इव (iva), masculine singular nominative (compound: tatpuruṣa + particle)  
+घातकः (ghātakaḥ), √ghā (verb root) + क (suffix), masculine singular nominative (noun)  
+हरे (hare), हर (Hara, Shiva), masculine singular genitive  
+अचराचरस्थस्य (acarācarasthasya), अचर (acara) + अचर (acara) + स्थ (stha), masculine singular genitive (compound: dvandva)  
+च (ca), indeclinable (particle, and)  
+जन्तु (jantu), जन्तु (jantu), masculine singular genitive  
+हिंसकः (hiṁsakaḥ), √hims (verb root) + क (suffix), masculine singular nominative (adjective)
+
+"Dharma (righteousness) indeed shelters by that (feminine singular instrumental pronoun) separately (adverb) the ones situated (past participle) who have noble crooked limbs (suvakragāḥ), just as the rivers also flow into the ocean."
+
+"The killer on the wooden ground, O Hara! who kills the moving and immoving beings."
+
+Righteousness indeed shelters separately those with noble crooked limbs by her, just as rivers also flow into the ocean.  
+O Hara, the killer who kills the moving and immoving beings on the wooden ground.

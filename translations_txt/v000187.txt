@@ -1,0 +1,30 @@
+SOURCE_PAGES: page_0260.txt
+
+=== मूलपाठः ===
+
+
+अशेषतीर्थषु वसेत्प्रपूजयन् स यत्र यत्राविरभूद्यथा यथा ।
+तथा तथा तत्र रघूत्तमं जगत्पतिं चतुर्व्गफलप्रदं हरिम् ।।१८७।।
+
+aśeṣatīrthaṣu vasetprapūjayan sa yatra yatrāvirabhūdyathā yathā ।
+tathā tathā tatra raghūttamaṃ jagatpatiṃ caturvgaphalapradaṃ harim ॥187॥
+
+अशेषतीर्थषु (aśeṣatīrthaṣu): aśeṣa - adjective, nominative/locative plural neuter; tirtha - noun, locative plural neuter; suffix -ṣu (locative plural), "in all the sacred places"
+वसेत्प्रपूजयन् (vaset-prapūjayan): vaset - verb, 3rd singular optative active imperfect ("may reside"); prapūjayan - present participle, nominative singular masculine, from prapūj (to worship fully/adorate); compounded as bahuvrīhi compound "one who may reside worshipping fully"
+स (sa): pronoun, nominative singular masculine, "he"
+यत्र (yatra): indeclinable, "where"
+यत्राविरभूद्यथा (yatrāvirabhūdyathā): yatra - indeclinable, "where"; avirabhūdy - verb root + prefix avirabhū (to appear/arise); yathā - indeclinable, particle, "just as"
+यथा (yathā): indeclinable particle, "just as"
+तथा (tathā): indeclinable particle, "so/thus"
+तथा (tathā): indeclinable particle, "so/thus"
+तत्र (tatra): indeclinable, "there"
+रघूत्तमं (raghūttamaṃ): raghūttama - compound adjective, accusative singular masculine, "best of the Raghu family"
+जगत्पतिं (jagatpatiṃ): jagatpati - compound noun (tatpuruṣa), accusative singular masculine, "lord of the world"
+चतुर्व्गफलप्रदं (caturv-gaphala-pradaṃ): compound adjective (bahuvrīhi), accusative singular masculine; catur - four; v - connective; gaphala - fruit; prada - giver; "giver of four kinds of fruits"
+हरिम् (harim): hari - noun, accusative singular masculine, "Hari" (Vishnu)
+
+Literal translation (with grammatical notes):
+In all sacred places (locative plural neuter), he (nominative singular masculine), residing and worshipping fully (present participle), wherever (indec.) wherever arising just as (indec.) just as, so so there (indec.), the best of Raghu (accusative singular masculine), lord of the world (accusative singular masculine), giver of fourfold fruits (accusative singular masculine), Hari (accusative singular masculine).
+
+Smooth English translation:
+In all sacred places, he who dwells worshipping fully, wherever and whenever he appears just so—there is the best of the Raghu family, the lord of the world, Hari who grants the fruits of the four Vedas.

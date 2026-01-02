@@ -1,0 +1,28 @@
+SOURCE_PAGES: page_0257.txt
+
+=== मूलपाठः ===
+
+
+सीमान्तसिन्ध्वाप्लुत एव धन्यो गत्वा परब्रह्मसुवीक्षितोऽथ ।
+प्राप्यं महानन्दमहाब्धिमग्रो नावर्तते जातु ततः पुनः सः ।।१८५।।
+
+sīmāntasindhvāpluta eva dhanyo gatvā parabrahmasuvīkṣito ’tha |
+prāpyaṁ mahānandamahābdhimagro nāvartate jātu tataḥ punaḥ saḥ ||185||
+
+सीमान्तसिन्ध्वाप्लुत (sīmāntasindhvāpluta) — sīmānta-sindhu-apluta; tatpuruṣa compound; nominative singular masculine
+एव (eva) — eva; indeclinable; particle
+धन्यो (dhanyo) — dhanya; nominative singular masculine; adjective
+गत्वा (gatvā) — √gam; verbal participle, instrumental singular; past active participle (gerund)
+परब्रह्मसुवीक्षितः (parabrahmasuvīkṣitaḥ) — parabrahma-suvīkṣita; tatpuruṣa compound; nominative singular masculine; past passive participle
+अथ (atha) — ath; indeclinable; conjunction
+प्राप्यं (prāpyaṁ) — prāpya; accusative singular neuter; gerundive (gerund)
+महानन्दमहाब्धिमग्रा (mahānandamahābdhimagrā) — mahānanda-mahābdhi-magṛ; bahuvrihi compound; accusative singular feminine
+नावर्तते (nāvartate) — √vart; present middle/passive indicative, 3rd singular
+जातु (jātu) — jātu; indeclinable; adverb
+तातः (tataḥ) — tataḥ; indeclinable; adverb
+पुनः (punaḥ) — punaḥ; indeclinable; adverb
+सः (saḥ) — sa; nominative singular masculine; pronoun
+
+"Having been washed (apluta) by the border ocean (sīmānta-sindhu) himself (eva), fortunate (dhanya), having gone (gatvā), then (atha) with seeing (uvīkṣitaḥ) the supreme Brahman (parabrahma), having obtained (prāpyaṁ) the great ocean of great bliss (mahānanda-mahābdhimagrā), he (saḥ) never (jātu) turns back (nāvartate) thereafter (tataḥ), again (punaḥ)."
+
+Having been washed by the border ocean, endowed with good fortune, having proceeded and then realized the supreme Brahman, having attained the great ocean of supreme bliss, he indeed never returns thereafter again.

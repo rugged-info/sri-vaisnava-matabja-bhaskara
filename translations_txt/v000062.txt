@@ -1,0 +1,41 @@
+SOURCE_PAGES: page_0125.txt
+
+=== मूलपाठः ===
+
+
+८८ श्रीवैष्णवमतान्नभास्करः  
+तप्तेन मूले पुजयोः समड्कनं शरेण चापेन तथीर्ध्वपुण्ड्कम् ।  
+श्रुतिश्रुतं नाम च मन्तरमालिके संस्कारभेदाः परमार्थहेतवः ।। ६२ ॥।
+
+88 śrīvaiṣṇavamatānnabhāskaraḥ  
+taptena mūle pujayoḥ samaḍkanaṃ śareṇa cāpena tathīrdhvapuṇḍkam ।  
+śrutiśrutaṃ nāma ca mantrmālike saṃskārabhedāḥ paramārthhetavaḥ । 62 ।
+
+८८ — aṣṭottara (numeral)  
+श्रीवैष्णवमतान्नभास्करः (śrīvaiṣṇavamatānnabhāskaraḥ) — 
+  श्री (śrī), prefix denoting respect/honorific; वैष्णव (vaiṣṇava), adjective: relating to Viṣṇu; मत (mata), neuter noun (singular, nominative): doctrine/view; अन्न (anna), noun (neuter, singular, nominative): food/grain; भास्करः (bhāskaraḥ), noun (masculine, singular, nominative): sun — compound: tatpuruṣa (compositional compound: "śrī-vaiṣṇava-mata-anna-bhāskara" = "resplendent sun of the food of the Vaishnava doctrine")
+
+तप्तेन (taptena) — root verb तप् (tap) past participle ablative singular masculine/neuter — "heated by"  
+मूले (mūle) — noun मूल (mūla), neuter, singular, locative — "at the root/base"  
+पुजयोः (pujayoḥ) — noun पूजा (pujā), feminine, dual, genitive/dative — "of the two worships" / "to the two worships"  
+समड्कनं (samaḍkanaṃ) — noun समड्कन (samaḍkana), neuter, singular, accusative — likely a ritual object or substance (uncertain)  
+शरेण (śareṇa) — noun शर (śara), masculine, singular, instrumental — "with an arrow"  
+चापेन (cāpena) — noun चाप (cāpa), masculine, singular, instrumental — "with a bow"  
+तथीर्ध्वपुण्ड्कम् (tathīrdhvapuṇḍkam) — compound word; त्वथ (tatha), adverb: "thus" + ईर्ध्व (īrdhva) directional prefix: "upwards" + पुण्ड (puṇḍ), possibly related to "lump" or specific ritual term; neuter noun, accusative singular — exact meaning unclear, likely a ritual object or place
+
+श्रुतिश्रुतं (śrutiśrutaṃ) — compound of श्रुति (śruti) and श्रुत (śruta), neuter, singular, accusative — "heard and re-heard" (strongly established by hearing)  
+नाम (nāma) — indeclinable — "namely" / "called"  
+च (ca) — indeclinable — "and"  
+मन्तरमालिके (mantramālike) — noun मंत्रमालिका (mantramālikā), feminine, singular, locative — "in the garland of mantras"  
+संस्कारभेदाः (saṃskārabhedāḥ) — noun संस्कारभेद (saṃskārabheda), masculine, plural, nominative — "differences in rites/ceremonies"  
+परमार्थहेतवः (paramārthhetavaḥ) — compound of परम (parama), अर्थ (artha), हेतुव (hetu) plus masculine plural nominative ending; "causal/essential reasons of the ultimate meaning"
+
+Literal translation:  
+"88. The resplendent sun of the food of the Vaishnava doctrine,  
+heated at the base, [related to] the two worships’ samaḍkana, with arrow and bow, likewise the tathīrdhva puṇḍka.  
+The heard and re-heard, namely in the garland of mantras, the differences in rites are the causes of the ultimate meaning."
+
+Smooth English translation:  
+"88. The radiant source of the food of the Vaishnava doctrine,  
+heated at its root, associated with the two worships’ ritual offerings, with arrow and bow, likewise the tathīrdhva puṇḍka.  
+The teachings repeatedly heard—namely, in the garland of mantras—these differing rites are the causes of the ultimate truth."

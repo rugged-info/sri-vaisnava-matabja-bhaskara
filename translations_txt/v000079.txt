@@ -1,0 +1,168 @@
+SOURCE_PAGES: page_0145.txt
+
+=== मूलपाठः ===
+
+
+पदपरामर्शः  
+अरुणोदयकालत्वेन घटीचतुष्टयात्मको यः कालो नियतस्तत्रैव चत्वारो वेधा भवन्तीति  
+बोधयितुमाह - घटीचतुष्कमिति । चतसृणां घटीनां समुदायो घटीचतुष्कम्। कालविमर्शे  
+प्रामाण्यं दर्शयितुं महर्षिभिरिव्युक्तम्, न हि तथाविधा मुधाऽचरन्ति। कालगतविशेषन्ते  
+्रक्षितुर्महन्ति ऋ तम्भरप्रज्ञात्वात्। तादृशैः प्रातर्घदीचतुष्कमरुणोदयनामा समयो निर्धारितस्तत्र  
+विपश्चितो वेधप्रभृतेर्विवेकतश्चतुरो विभागान् प्राहुरित्यन्वयः। विपश्चितः कालरहस्यविदः।  
+विवेकतो विवेकेनेति तृतीयायां सार्वविभक्तिकस्तसिः।  
+घटीत्रयं सार्दधमथारुणोदये वेधीऽतिवेधः कथितो घटीद्रयम् ।  
+रविप्रभासस्य तथोदितेऽर्द्धके सूर्ये महावेध इतीर्यते बुधैः ।।७९।।  
+
+padaparāmarśaḥ  
+aruṇodayakālatvena ghaṭīcatuṣṭayātmako yaḥ kālo niyatastatraiva catvāro vedhā bhavantīti  
+bodhayitumāha - ghaṭīcatuṣkamiti । catasṛṇāṃ ghaṭīnāṃ samudāyo ghaṭīcatuṣkam। kālavimarśe  
+prāmāṇyaṃ darśayituṃ maharṣibhirivyuktam, na hi tathāvidhā mudhā'caranti। kālagataviśeṣante  
+rakṣiturmahanti ṛ tambharaprajñātvāt। tādṛśaiḥ prātarghadīcatuṣkamaruṇodayanāmā samayo nirdhṛṣṭastastra  
+vipaścito vedhaprabhṛtervivekataścaturō vibhāgān prāhurityanvayaḥ। vipaścitaḥ kālarahasyavidaḥ।  
+vivekato vivekeneti tṛtīyāyāṃ sārvavibhaktikastasih।  
+ghaṭītrayaṃ sārdadhamathāruṇodaye vedhī'tivedhaḥ kathito ghaṭīdaryam ।  
+raviprabhasasya tathodite'rddhake sūrye mahāvedha itīryate budhaiḥ ।।79।।  
+
+पदपरामर्शः (padaparāmarśaḥ): पद (padam) - base noun, masculine, singular, nominative; परामर्शः (parāmarśaḥ) - noun, masculine, singular, nominative; meaning "consultation on words" or "discussion of terms"
+
+अरुणोदयकालत्वेन (aruṇodayakālatvena): अरुणोदय (aruṇodaya) - compound tatpuruṣa "sunrise", कालत्व (kālatva) - noun, neuter, singular, instrumental "the state of time", and तेन (tena) - indeclinable instrumental singular; together indicate "by the time of sunrise"; instrumental case, singular
+
+घटीचतुष्टयात्मको (ghaṭīcatuṣṭayātmako): घट (ghaṭa) - "measure", इतचतुष्टय (catuṣṭaya) - "set of four", आत्मक (ātmak) - adjectival suffix, masculine singular nominative; compound tatpuruṣa meaning "consisting of four measures"
+
+यः (yaḥ): relative pronoun, masculine singular nominative "who"
+
+कालो (kālo): noun, masculine singular nominative, "time"
+
+नियतः (niyataḥ): adjective, masculine singular nominative "fixed"
+
+तत्र (tatra): adverb "there"
+
+एव (eva): particle "indeed"
+
+चत्वारः (catvāraḥ): numeral adjective masculine plural nominative "four"
+
+वेधाः (vedhāḥ): noun masculine plural nominative "piercings" or "divisions" (technical term)
+
+भवन्ति (bhavanti): verb, 3rd person, plural, present indicative active "are" or "exist"
+
+इति (iti): particle indicating quotation
+
+बोधयितुम् (bodhayitum): verbal noun (infinitive), "to make known"
+
+आह (āha): verb, past tense, 3rd person singular, "said"
+
+- (dash): punctuation mark here
+
+घटीचतुष्कमिति (ghaṭīcatuṣkamiti): compound word; reference to name "ghaṭīcatuṣkam" = the fourfold measure system
+
+चतसृणाम् (catasṛṇām): numeral adjective masculine/feminine plural genitive "of the four"
+
+घटीनाम् (ghaṭīnām): noun feminine plural genitive "of measures"
+
+समुदायः (samudāyaḥ): noun masculine singular nominative "community" or "collection"
+
+घटीचतुष्कम् (ghaṭīcatuṣkam): noun neuter singular nominative, the name of the set of four measures
+
+कालविमर्शे (kālavimarśe): compound tatpuruṣa masculine singular locative; "in time consideration"
+
+प्रामाण्यं (prāmāṇyaṃ): noun neuter singular accusative "validity", "authenticity"
+
+दर्शयितुम् (darśayitum): infinitive "to show"
+
+महर्षिभिः (maharṣibhiḥ): noun masculine plural instrumental "by great sages"
+
+इव्युक्तम् (ivyuktam): verbal adjective past passive participle neuter singular nominative or accusative "expressed" or "uttered"
+
+न (na): indeclinable "not"
+
+हि (hi): particle "indeed"
+
+तथाविधा (tathāvidhā): adjective, feminine singular nominative "in such manner"
+
+मुधाऽचरन्ति (mudhā'caranti): verb present indicative active, 3rd person plural "foolish ones act"
+
+कालगतविशेषान्ते (kālagataviśeṣānte): compound masculine singular locative "at the end of time-specific matters"
+
+रक्षितुर्महन्ति (rakṣiturmahanti): verbal form, infinitive + verb 3rd person plural present active "to protect" and "preserve"
+
+ऋतम्भरप्रज्ञात्वात् (ṛtambharaprajñātvāt): compound noun / ablative "due to possessing truthful wisdom"
+
+तादृशैः (tādṛśaiḥ): pronoun instrumental plural "by such"
+
+प्रातर् (prātar): adverb "in morning"
+
+घदीचतुष्कमरुणोदयनाम (ghadīcatuṣkamaruṇodayanāma): compound adjective "named the morning fourfold measure of sunrise"
+
+समयः (samayaḥ): noun masculine singular nominative "time, period"
+
+निर्धारितः (nirdhṛtaḥ): adjective masculine singular nominative "determined"
+
+तत्र (tatra): "there"
+
+विपश्चितः (vipaścitaḥ): adjective masculine singular nominative "wise"
+
+वेधप्रभृतेः (vedhaprabhṛter): compound tatpuruṣa (compound form in genitive) "led by divisions or piercings"
+
+विवेकतः (vivekataḥ): noun masculine singular instrumental "by discrimination"
+
+चतुर्गः (caturaga): appears as चतुरो (caturah): adjective masculine singular nominative "four"
+
+विभागान् (vibhāgān): noun masculine plural accusative "divisions"
+
+प्राहुः (prāhuḥ): verb 3rd person plural past perfect or present "said"
+
+इति (iti): particle "thus"
+
+अन्वयः (anvayaḥ): noun masculine singular nominative "logical connection"
+
+विपश्चितः (vipaścitaḥ): adjective masculine singular nominative "wise"
+
+कालरहस्यविदः (kālarahasyavidaḥ): compound masculine singular nominative "knower of the secret of time"
+
+विवेकतः (vivekataḥ): noun masculine singular instrumental "by discrimination"
+
+विवेकेन (vivekena): noun masculine singular instrumental "by discrimination"
+
+इति (iti): particle "thus"
+
+तृतीयायाम् (tṛtīyāyām): adjective feminine singular locative "in the third"
+
+सार्वविभक्तिकः (sārvavibhaktikaḥ): adjective masculine singular nominative "applying to all cases" (grammatical term)
+
+तसिः (tasiḥ): noun feminine singular nominative "shaft of the sun" (the Sun deity)
+
+घटीत्रयं (ghaṭītrayaṃ): noun neuter singular nominative "three measures"
+
+सार्दधम् (sārdadham): noun neuter singular accusative "sum total"
+
+अथ (atha): indeclinable "then, now"
+
+अरुणोदये (aruṇodaye): noun masculine singular locative "at sunrise"
+
+वेधी (vedhī): noun masculine singular nominative "piercer"
+
+अतिवेधः (ativedhaḥ): noun masculine singular nominative "great piercer"
+
+कथितः (kathitaḥ): adjective masculine singular nominative "called"
+
+घटीद्रयम् (ghaṭīdaryam): noun neuter singular accusative, "the three measures"
+
+रविप्रभासस्य (raviprabhasasya): compound masculine singular genitive "of the sun's light"
+
+तथोदिते (tathodite): compound past passive participle masculine singular locative "as stated above"
+
+अर्द्धके (arddhake): adjective masculine singular locative "half"
+
+सूर्ये (sūrye): noun masculine singular locative "in the sun"
+
+महावेध (mahāvedha): noun masculine singular nominative "great piercing" (solar eclipse)
+
+इतीर्यते (itīryate): verb passive present 3rd singular "is called"
+
+बुधैः (budhaiḥ): noun masculine plural instrumental "by the wise".
+
+Literal translation:  
+"Consultation on terms: By the state of sunrise time, the measure consisting of four parts, which time is fixed there, exactly four divisions arise. To explain it, he said - it is called 'ghaṭīcatuṣka'. The community of the four measures is ghaṭīcatuṣkam. To show the validity in time discussion, it is stated by great sages; indeed, fools do not act thus. At the end of time-specific matters, great ones protect and preserve due to possessing truthful wisdom. By such, the morning fourfold measure named 'aruṇodaya' time is determined there. The wise, led by the divisions, by discrimination, said these four parts; thus is the logical connection. The wise are the knowers of the secret of time. By discrimination, it is called 'viveka' in the third (case) of the universal declension of the sun (shaft). The three measures altogether at sunrise, the piercer (solar entity) 'ativedha' is said to be the set of measures. Of the sun's light, in the half sun as stated above, the great piercing (eclipse) is called by the wise."  
+
+Smooth English translation:  
+"Consultation on terminology: By the time of sunrise, there is a fourfold measure called ‘ghaṭīcatuṣka,’ consisting of four parts fixed in time. This community of four measures, ghaṭīcatuṣkam, is authenticated in discussions of time by great sages, while fools do not act thus. At the end of specific time intervals, the wise preserve truthfulness. Such is the morning fourfold measure named after sunrise, the ‘aruṇodaya’ time, which is precisely determined. The wise, guided by these divisions and discrimination, assert these four parts, forming a logical connection. They are the knowers of the secrets of time. The term ‘viveka’ (discrimination) applies especially in the third case of the universal declension of the sun. The three measures combined at sunrise are called ‘ativedha’—the great piercer or solar eclipse. Regarding the sun’s light, in the half sun as previously stated, the wise call this the great eclipse."

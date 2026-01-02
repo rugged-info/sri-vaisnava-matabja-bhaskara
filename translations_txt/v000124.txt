@@ -1,0 +1,30 @@
+SOURCE_PAGES: page_0195.txt
+
+=== मूलपाठः ===
+
+
+वर्षलक्षकम्' इति।  
+न स्तियं परिगृह्णीयाद्विरक्तो वैष्णवः कचित् ।  
+मन्वादिस्मृतिशास्त्रेषु तत्रिषेधस्य शासनात् ।।१२४।।  
+
+varṣalakṣakam' iti।  
+na stiyaṁ parigṛhṇīyād virakto vaiṣṇavaḥ kacit।  
+manvādimṛtiśāstreṣu tatriṣedhasya śāsanāt।।124।।  
+
+(वर्षलक्षकम्) varṣalakṣakam, वर्षलक्षकम्, neuter, accusative singular  
+(इति) iti, indeclinable, particle (quotation marker)  
+(न) na, indeclinable, negation  
+(स्तियं) stiyaṁ, स्तियम्, neuter accusative singular  
+(परिगृह्णीयात्) parigṛhṇīyāt, परिगृह्णीयात्, verb, optative/conditional mood, 3rd person singular  
+(विरक्तः) viraktaḥ, विरक्त, masculine nominative singular (participle)  
+(वैष्णवः) vaiṣṇavaḥ, वैष्णव, masculine nominative singular  
+(कचित्) kacit, कचित्, indeclinable, particle (emphatic)  
+(मन्वादि) manvādi, मन्वादि, masculine/neuter, locative plural, compound (tatpuruṣa: मनु + आदि)  
+(स्मृतिशास्त्रेṣu) smṛtiśāstreṣu, स्मृतिशास्त्र, masculine locative plural (द्वन्द्व compound)  
+(तत्र) tatra, indeclinable, adverb (there)  
+(इषेधस्य) iṣedhasya, इषेध, masculine/genitive singular (compound constituent)  
+(शासनात्) śāsanāt, शासन, neuter, ablative singular  
+
+Not "varṣalakṣakam" (a hundred thousand years), thus one should not accept "stiyaṁ" (the fortress) being lost. A detached Vaiṣṇava certainly (kacit) should not accept the fortress being lost, because of the prohibitions in the Manvādi Smṛti scriptures.  
+
+Not 'a hundred thousand years', one should not accept the loss of the fortress; a detached Vaiṣṇava certainly should not accept it, because of prohibitions in the Manvādi Smṛti scriptures.

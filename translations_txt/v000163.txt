@@ -1,0 +1,32 @@
+SOURCE_PAGES: page_0230.txt
+
+=== मूलपाठः ===
+
+
+पञ्चायुधाङ्कङ्कितवेष्णवा ये विप्रा अथ क्षत्रियवैश्यशूद्राः ।
+स्तियस्तथाऽन्येऽपि च विष्णुरूपा जगत्पवित्रप्रपवित्रिणस्ते ।।१६३।।
+
+pañcāyudhāṅkaṅkitaveṣṇavā ye viprā atha kṣatriyavaśyaśūdrāḥ |
+stiyastathā'nye'pi ca viṣṇurūpā jagatpavitraprapavitriṇaste ||163||
+
+पञ्चायुधाङ्कङ्कितवेष्णवा (pañcāyudhāṅkaṅkitaveṣṇavā): pañca (five, numeral); āyudha (āyudha, neuter, nominative plural, 'weapons'); aṅkaṅkita (aṅkaṅkita, past passive participle, nominative plural, 'marked'); veṣṇava (veṣṇava, masculine/neuter, nominative plural, 'adorned, wearing'); compound: tatpuruṣa (pañcāyudha + aṅkaṅkita + veṣṇava)
+ये (ye): relative pronoun, nominative plural, masculine/feminine; base form: yaḥ
+विप्रा (viprā): noun, masculine, nominative plural; base form: vipra (Brahmins)
+अथ (atha): indeclinable, conjunctive particle, 'then, moreover'
+क्षत्रियवैश्यशूद्राः (kṣatriyavaśyaśūdrāḥ): compound (bahuvrīhi/tatpuruṣa) consisting of kṣatriya (masc. nom. pl.), vaiśya (masc. nom. pl.), śūdra (masc. nom. pl.), together denoting the three varnas
+
+स्तियः (stiyaḥ): probably a misprint or variant, likely स्त्रियः (striyaḥ), feminine nominative plural, 'women', base form स्त्री (strī)
+तथा (tathā): indeclinable, adverb/conjunction 'also, likewise'
+अन्ये (anye): adjective/pronoun, masculine nominative plural, 'others'
+अपि (api): indeclinable particle, 'also, even'
+च (ca): indeclinable conjunction, 'and'
+विष्णुरूपा (viṣṇurūpā): compound adjective, feminine nominative plural; viṣṇu (proper noun), rūpā (form/appearance)
+जगत्पवित्रप्रपवित्रिणस्ते (jagatpavitraprapavitriṇaste): compound of jagat (neuter nominative singular, 'world') + pavitra (adjective, neuter nom. sing., 'pure') + prapavitra (adjective, neuter nom. sing., 'impure') + ṇa (suffix) + te (third person plural pronoun, 'they'); here functioning as a complex bahuvrīhi or karmadhāraya compound denoting 'purifying and polluting the world'; or parsed as jagat-pavitra-prapavitrinaḥ + te (they)
+
+(potential correction assumed for स्तियः as स्त्रियः)
+
+Five-weapon-marked adorning ones, who are the Brahmins, and also the Kshatriyas, Vaishyas, and Shudras;
+Women likewise, and others also, who are in forms of Vishnu, purifying and polluting the world, they.
+
+Five-weapon-marked ones, the Brahmins and also the Kshatriyas, Vaishyas, and Shudras;
+The women likewise, and others too, embodying forms of Vishnu, who purify and pollute the world.

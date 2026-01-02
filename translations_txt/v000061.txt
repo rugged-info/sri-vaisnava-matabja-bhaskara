@@ -1,0 +1,29 @@
+SOURCE_PAGES: page_0124.txt
+
+=== मूलपाठः ===
+
+
+एवं तेऽभिहितं ध्यानं शृणु तन्मुक्तिसाधनम् ।
+मुमुक्षूणां परं वेद्यं विधेयं चाथ सर्वदा ।। ६१।।
+
+evaṁ te'bhihitaṁ dhyānaṁ śṛṇu tanmuktisādhanaṁ ।
+mumuṣūṇāṁ paraṁ vedyaṁ vidheyaṁ cātha sarvadā ।। 61।।
+
+एवं (evaṁ) – indeclinable, adverb (‘thus’)
+तेऽभिहितं (te’bhihitaṁ) – ते (te), pronoun, 2nd person singular genitive or nominative dual/plural (here vocative plural); अभिहितं (abhihitaṁ), adjective/past participle neuter singular nominative/accusative (perfect passive participle of अभि-हि root); compound (tatpuruṣa)
+ध्यानं (dhyānaṁ) – noun, neuter singular accusative, ‘meditation’
+शृणु (śṛṇu) – verb, imperative, 2nd person singular, ‘listen’
+तन्मुक्तिसाधनम् (tanmuktisādhanaṁ) – compound (tatpuruṣa), तन्मुक्ति (tanmukti, तत् + मुक्तिः) + साधनम् (sādhanaṁ), neuter singular accusative, ‘that liberation’s means/instrument’
+मुमुक्षूणां (mumuṣūṇāṁ) – noun, masculine/feminine plural genitive, ‘of those desirous of liberation’
+परं (paraṁ) – adjective/neuter singular accusative, ‘supreme’
+वेद्यं (vedyaṁ) – adjective/neuter singular accusative, ‘to be known’ (gerundive)
+विधेयं (vidheyaṁ) – adjective/neuter singular accusative, ‘to be performed’ (gerundive)
+च (ca) – indeclinable, conjunction ‘and’
+अथ (atha) – indeclinable, conjunction ‘then’
+सर्वदा (sarvadā) – indeclinable, adverb, ‘always’
+
+Thus (evaṁ), listen (imperative śṛṇu), O you (vocative) to whom (te), the meditation (dhyānam) declared/expressed (abhihitam) is that tool (sādhana) of liberation (mukti). To the desirous-of-liberation (mumuṣūṇām), the supreme (param) to-be-known (vedyam) and to-be-practiced (vidheyam), indeed (atha) always (sarvadā).
+
+Thus, hear that meditation taught to you, the means of liberation. It is to be known and practiced by those desirous of liberation, always indeed.
+
+Hear then that meditation declared to you, which is the means to liberation. It is the supreme knowledge and practice for all seekers, always.

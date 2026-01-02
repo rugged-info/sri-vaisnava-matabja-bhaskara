@@ -1,0 +1,46 @@
+SOURCE_PAGES: page_0057.txt
+
+=== मूलपाठः ===
+
+
+इद्थं पृष्टस्त्वया यः सकलहितकरः प्रश्रराशिर्गरिष्ठो वेद्यः सर्वश्रुतीनां जगति सुरसुरानन्द  
+सद्यो मया सः । प्राचीनाचार्य वर्यान् यतिपतिसहितान् सादरं सम्प्रणम्य सम्यक् शास्वनुसारं  
+गुरुनिरत! समाधीयते श्रूयतां तत् ।।५।।  
+
+idthaṁ pṛṣṭastvayā yaḥ sakalahitakaraḥ praśrarāśir gariṣṭho vedyaḥ sarvaśrutīnāṁ jagati surasurānanda  
+sadyo mayā saḥ । prācīnācārya varyān yatipatisahitān sādaraṁ sampraṇamya samyak śāsvanusāraṁ  
+gurunirata! samādhīyate śrūyatāṁ tat ।।5।।  
+
+इद्थं (idtham) - इदम् (idam), indeclinable demonstrative/adverb (thus, so)  
+पृष्टः (pṛṣṭaḥ) - पृष्ट (pṛṣṭa), past passive participle of पृच्छ् (pṛcch), nominative singular masculine (asked)  
+त्वया (tvayā) - त्वम् (tva), pronoun, instrumental singular (by you)  
+यः (yaḥ) - relative pronoun, nominative singular masculine (who)  
+सकलहितकरः (sakalahitakaraḥ) - compound tatpuruṣa of सकल (sakala: all/entire), हित (hita: welfare), कर (kara: doer/maker), nominative singular masculine (doing all welfare)  
+प्रश्रराशिः (praśrarāśiḥ) - प्रश्र (praśra: a heap/pile) + आशी (āśī: suffix forming nouns) = heap or mass, nominative singular masculine  
+गरिष्ठः (gariṣṭhaḥ) - adjective, nominative singular masculine (most eminent/highest)  
+वेद्यः (vedyaḥ) - adjective, nominative singular masculine (to be known, knowable)  
+सर्वश्रुतीनां (sarvaśrutīnāṁ) - सर्व (sarva: all) + श्रुती (śruti: heard scriptures), genitive plural feminine (of all scriptures)  
+जगति (jagati) - जगत् (jagat: world), locative singular neuter (in the world)  
+सुरसुरानन्द (surasurānanda) - compound bahuvrīhi or dvandva of सुर (sura: gods) + असुर (asura: demons) + आनन्द (ānanda: joy), nominative singular masculine (joy of gods and demons)  
+सद्यो (sadyo) - adverb (immediately)  
+मया (mayā) - अहम् (aham), pronoun instrumental singular (by me)  
+सः (saḥ) - pronoun demonstrative, nominative singular masculine (he)  
+प्राचीनाचार्य (prācīnācārya) - compound tatpuruṣa of प्राचीन (prācīna: ancient) + आचार्य (ācārya: teacher), nominative singular masculine (ancient teacher)  
+वर्यान् (varyān) - adjective, accusative plural masculine (excellent, best)  
+यतिपतिसहितान् (yatipatisahitān) - compound tatpuruṣa of यति-पति (yati-pati: lord of sages) + सहित (sahita: together with), accusative plural masculine (together with the heads of ascetics)  
+सादरं (sādaraṁ) - noun/adjective, accusative singular neuter (with respect)  
+सम्प्रणम्य (sampraṇamya) - verbal root सम्प्र+णम् (praṇam) with क्त्वा construction (having bowed)  
+सम्यक् (samyak) - indeclinable adverb (properly, well)  
+शास्वनुसारं (śāsvanusāraṁ) - compound tatpuruṣa of शास् (śās: govern) + अनु (anu: along with) + सारं (sāra: essence/accordance), accusative singular neuter (in accordance with instructions)  
+गुरुनिरत (gurunirata) - compound tatpuruṣa of गुरु (guru: teacher) + निरत (nirata: engaged), vocative singular masculine (O devoted to the guru)  
+समाधीयते (samādhīyate) - verb in present passive or middle indicative, 3rd person singular from समाधि (samādhi: concentration/meditation) root 1p. (is meditated upon)  
+श्रूयताम् (śrūyatām) - verb, imperative or optative, 3rd person plural from श्रु (śru: to hear), (let it be heard)  
+तत् (tat) - pronoun neuter singular nominative/accusative (that)  
+
+Thus asked by you, who is the most eminent heap of all-welfare, knowable in all scriptures, the joy of gods and demons in the world,  
+immediately by me he (is known). The ancient teacher, the best, with the lord of sages together, respectfully having bowed well in accordance with instructions,  
+O devoted to the guru! That is meditated on, let that be heard. (Verse 5)  
+
+Thus, immediately upon your questioning, he who is the greatest benefactor, knowable by all scriptures, the joy of gods and demons in the world,  
+has been grasped by me. The ancient teacher, the best, together with the leaders of ascetics, having respectfully bowed properly according to instructions,  
+O devoted to the guru! That is meditated upon; let it be heard.

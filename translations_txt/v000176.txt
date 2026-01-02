@@ -1,0 +1,36 @@
+SOURCE_PAGES: page_0243.txt
+
+=== मूलपाठः ===
+
+
+उथि नवमप्रश्रीत्तरे प्राप्यनिरूपणम्  
+तथाविधेस्तैः परमार्थभूतं सुवेष्णवैः प्राप्यमथीच्यते यत् ।  
+जितेद्धियैरात्मरतेर्बुधाग्यैर्महत्तमैः स्वाभिमतार्थदोहम् ।।१७६ ।।
+
+uthi navamapraśrīttare prāpyanirūpaṇam  
+tathāvidhestaiḥ paramārthabhūtaṃ suveṣṇavaih prāpyamathīcyate yat  
+jiteddhiyairātmaraterbudhāgyairmahattamaiḥ svābhimatārthadoham
+
+(उथि) (उथि) (indeclinable, particle)  
+(नवम) (नवम) (adjective, nominative singular neuter)  
+(अप्रश्रीत्तरे) (अप्रश्रीत्तरे) (locative singular feminine, compound)  
+(प्राप्यनिरूपणम्) (प्राप्यनिरूपणम्) (neuter, nominative singular, verbal noun/gerund compound)  
+
+(तथा) (तथा) (indeclinable, particle)  
+(विद्-एस्-तैः) (एतैः) (pronoun, instrumental plural masculine)  
+(परमार्थ-भूतं) (परमार्थ-भूतं) (adjective, nominative singular neuter, tatpuruṣa)  
+(सुवेष्णवैः) (सुवेष्णवैः) (instrumental plural masculine, bahuvrihi)  
+(प्राप्यम्) (प्राप्यम्) (accusative singular neuter, verbal adjective)  
+(अथीच्यते) (अथीच्यते) (verb, present passive indicative 3rd singular)  
+(यत्) (यत्) (relative pronoun, nominative singular neuter)  
+
+(जिते) (जिते) (past passive participle, instrumental plural masculine)  
+(धियैः) (धि) (noun, instrumental plural feminine)  
+(आत्मरतेः) (आत्मरति:) (noun, instrumental plural masculine)  
+(बुधाग्यैः) (बुधाग्यैः) (noun, instrumental plural masculine)  
+(महत्तम-ैः) (महत्तम) (superlative adjective, instrumental plural masculine)  
+(स्वाभिमत-आर्थ-दोहम्) (स्वाभिमत-आर्थ-दोहम्) (neuter noun compound, accusative singular)  
+
+Thus (उथि) in the new ninth prashriti, by these (तथा...तैः) true (परमार्थ-भूतं) great intense (सुवेष्णवैः) means (बहुव्रीहि) (प्राप्यम्) is to be apprehended (अथीच्यते), that (यत्) which (जिते धियैः आत्मरतेः बुधाग्यैः महत्तमैः) by conquered intellects, self-delights, wise men, and the greatest ones (instrumental plurals), is the self-chosen (स्वाभिमत) desired meaning (आर्थ) granter (दोहम्).
+
+In the new ninth chapter, that ultimate reality, to be realized by these great and intense means, is explained; it is the self-chosen desired object for wise and self-delighting intellects who have conquered.

@@ -1,0 +1,36 @@
+SOURCE_PAGES: page_0233.txt
+
+=== मूलपाठः ===
+
+
+तदर्धनात्तत्पदनीरपानात्तत्सङ्गतेस्तत्प्रणतेर्विधानात् ।
+नृणां हि तच्छिष्टसुभीजनाच्च स्यात्कोटिजन्मार्जितपापनाशः ।।१६५।।
+
+tadar dhanāt tat padanīr apānāt tatsaṅgates tat praṇater vidhānāt।
+nṛṇāṁ hi tac chiṣṭa-subhījanācca syāt koṭi janmārjita-pāpanāśaḥ।।165।।
+
+tad (pronoun, neuter nominative/accusative singular, "that")
+ardhanāt (ardhanāt, noun, ablative singular, "half-wealth" or "partial wealth")
+tat (pronoun, neuter nominative/accusative singular, "that")
+pada-nīr-apānāt (compound tatpuruṣa: pada + nīr + apānāt; nouns, ablative singular — pada (foot/step), nīr (water), apānā (drink); together "from the drinking of foot-water")
+tat (pronoun, neuter nominative/accusative singular, "that")
+saṅgateḥ (saṅgataḥ, noun, ablative singular, "from association/meeting")
+tat (pronoun, neuter nominative/accusative singular, "that")
+praṇater (praṇataḥ, noun, genitive singular, "of the bowing/bowing down")
+vidhānāt (vidhānāt, noun, ablative singular, "from the procedure/institution/method")
+
+nṛṇām (nṛṇām, noun, genitive plural, "of men/people")
+hi (indeclinable, emphatic particle, "indeed")
+tat (pronoun, neuter nominative/accusative singular, "that")
+chiṣṭa-subhījanāḥ (compound tatpuruṣa: chiṣṭa + subhījana + āḥ; adjective plural masculine nominative, "remaining food and drinks")
+ca (indeclinable, conjunction, "and")
+syāt (verb, 3rd person singular, optative/conditional of √as "to be", "may be")
+koṭi (noun, nominative singular, "crore/ten million")
+janma-ārjita-pāpa-nāśaḥ (compound tatpuruṣa: janma + ārjita + pāpa + nāśaḥ; noun masculine nominative singular, "destroyer of sins earned by birth")
+
+From that half-wealth, from that drinking of foot-water, from that association, from that bowing procedure (ablative instrumental cause),
+indeed of men (genitive), that remaining pure food and drink (nominative plural) and,
+may there be the destroyer of sins earned over crore (ten million) births.
+
+From that partial wealth, from that drinking of water at the feet, from that association, from that act of obeisance,
+indeed for humans, that leftover pure food and drink will become the destroyer of sins accumulated over millions of births.

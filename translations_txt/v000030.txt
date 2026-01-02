@@ -1,0 +1,33 @@
+SOURCE_PAGES: page_0092.txt
+
+=== मूलपाठः ===
+
+
+उपायस्य त्वखण्डेन नमः खण्डन चोच्यते ।
+सखण्डेन मकारेण षष्ठ्यन्तेन विरोधिनः ।।३०।।
+
+upāyasya tvakhaṇḍena namaḥ khaṇḍana cocyate |
+sakhaṇḍena makāreṇa ṣaṣṭhyantena virodhinaḥ ||30||
+
+उपायस्य (upāyasya), उपाय (upāya), masc., gen.sg.; 
+त्वखण्डेन (tvakhaṇḍena), तु (tu), indeclinable + खण्डेन (khaṇḍena), खण्ड (khaṇḍa), masc., instr.sg. (tatpuruṣa compound: त्व + खण्डेन);
+नमः (namaḥ), नमः (namaḥ), masc., nom.sg.; 
+खण्डन (khaṇḍana), खण्डन (khaṇḍana), neut., nom.sg.; 
+च (ca), indeclinable (conjunction);
+उच्यते (ucyate), √उच् (uc), verb, pres.med.pass., 3rd sg.;
+सखण्डेन (sakhaṇḍena), स (sa) + खण्डेन (khaṇḍena), masc., instr.sg. (tatpuruṣa compound);
+मकारेण (makāreṇa), मकार (makāra), masc., instr.sg.;
+षष्ठ्यन्तेन (ṣaṣṭhyantena), षष्ठ् (ṣaṣṭh), masc., instr.sg.;
+विरोधिनः (virodhinaḥ), विरोधिन् (virodhin), masc., nom.pl.
+
+"Of the method (upāya, gen.sg.) by the 'tvakhaṇḍa' (compound of 'tu' and 'khaṇḍa', instr.sg.) salute (namaḥ, nom.sg.); 
+the breaking (khaṇḍana, nom.sg.) and it is called (ucyate) breaking; 
+by 'sakhaṇḍa' (compound of 'sa' and 'khaṇḍa', instr.sg.) and 'makāra' (instr.sg.) with the 'ṣaṣṭhyanta' (instr.sg.) of the opponents (virodhinaḥ, nom.pl.)"
+
+Salutation to upāya (the means), called by the fragment 'tu' (tu-khaṇḍa);
+the breaking is spoken of; by the fragment 'sa' and the letter 'ma',
+with the suffix ṣaṣṭhyanta of the opponents.
+
+Salutation to the means of 'tu-khaṇḍa', called "breaking."
+It is said to be breaking.
+By the fragment 'sa', by the letter 'ma', and by the ṣaṣṭhyanta suffix of the opponents.

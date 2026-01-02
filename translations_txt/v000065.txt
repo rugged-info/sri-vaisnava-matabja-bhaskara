@@ -1,0 +1,68 @@
+SOURCE_PAGES: page_0130.txt
+
+=== मूलपाठः ===
+
+
+महदतिक्रमश्चात्र हेयताबीजम्।
+हीनाङ्घो ह्यधिकाङ्घश्च कपटी कृष्णदन्तवान् ।
+नेत्ररोगी च कुष्ठी च वावद्रूकश्च वामनः ।।६५।।
+
+mahadatikramaścātra heyatābījam।
+hīnāṅgho hyadhikāṅghaśca kapaṭī kṛṣṇadantavān ।
+netrarogī ca kuṣṭhī ca vāvadrūkśca vāmanaḥ ।।65।।
+
+महदतिक्रमश्चात्र (mahad-atikrama+śca+atra): 
+महद- (mahad), adjective, nominative singular neuter, "great"
+अतिक्रम (atikrama), noun, nominative singular neuter, "transgression, overstepping"
+श्च (śca), indeclinable conjunction, "and"
+अत्र (atra), indeclinable adverb, "here"
+
+हेयताबीजम् (heyatābījam): 
+हेय (heya), adjective, nominative singular neuter, "to be avoided"
+बीज (bīja), noun, nominative singular neuter, "seed; cause"
+
+हीनाङ्घः (hīnāṅghaḥ): 
+हीन (hīna), adjective, nominative singular masculine, "defective, lacking"
+अङ्घ (aṅgha), noun, nominative singular masculine, "limb"
+
+हि (hi), indeclinable particle, "indeed, surely"
+अधिकाङ्घः (adhikāṅghaḥ): 
+अधिक (adhika), adjective, nominative singular masculine, "excessive"
+अङ्घ (aṅgha), noun, nominative singular masculine, "limb"
+
+श्च (śca), indeclinable conjunction, "and"
+
+कपटी (kapaṭī): 
+कपटी (kapaṭī), noun/adjective, nominative singular masculine, "deceptive person"
+
+कृष्णदन्तवान् (kṛṣṇadantavān): 
+कृष्ण (kṛṣṇa), adjective, nominative singular masculine, "black"
+दन्त (danta), noun, combining stem, "tooth"
+वान् (vān), suffix indicating possession, "having"
+
+नेत्ररोगी (netrarogī): 
+नेत्र (netra), noun, nominative singular masculine, "eye"
+रोगी (rogī), noun/adjective, nominative singular masculine, "diseased, sick"
+
+च (ca), indeclinable conjunction, "and"
+
+कुष्ठी (kuṣṭhī): 
+कुष्ठ (kuṣṭha), noun/adjective, nominative singular feminine, "leper, leprous"
+
+च (ca), indeclinable conjunction, "and"
+
+वावद्रूकः (vāvadrūkaḥ): 
+वावद्रूक (vāvadrūka), noun, nominative singular masculine, "a kind of disease or affliction"
+
+श्च (śca), indeclinable conjunction, "and"
+
+वामनः (vāmanaḥ): 
+वामन (vāmana), noun, nominative singular masculine, "dwarf"
+
+Literal translation:
+Great transgression and here the seed to be avoided.
+Defective limb indeed and excessive limb and the deceitful black-toothed one.
+Eye sufferer and leper and Vāvadrūka and dwarf.
+
+Smooth English translation:
+Great transgressions are here the seeds to be avoided: defective and excessive limbs, the deceitful black-toothed man, the sufferer of eye diseases, the leper, the afflicted Vāvadrūka, and the dwarf.

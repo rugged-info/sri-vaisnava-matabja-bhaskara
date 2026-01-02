@@ -1,0 +1,32 @@
+SOURCE_PAGES: page_0239.txt
+
+=== मूलपाठः ===
+
+
+तत्राप्यशक्तास्तु कुटीरमात्रं विधाय कुर्युस्त्वथ राघवाद्रौ।
+अन्यत्र वासं च गुरूपदिष्टान्मन्त्रञ्चपन्तो हयभिमानशून्याः ।।१७१।।  
+
+tatrāpy-aśaktāstu kuṭīramātraṁ vidhāya kuryustvatha rāghavādrau।
+anyatra vāsaṁ ca gurūpadiṣṭānmantrañcapanto hayabhimānaśūnyāḥ।।171।।  
+
+तत्रापि (tatra-āpi), tatra (adv.: there) + āpi (indeclinable particle: also, even)  
+अशक्ताः (aśaktāḥ), aśakta (adj.), masc. pl. nom. (unable, powerless)  
+तु (tu), tu (indeclinable particle: but, indeed)  
+कुटीरमात्रं (kuṭīramātraṁ), kuṭīra (m.), neut. sing. acc. + mātra (indeclinable suffix: only, just) compounded as bahuvrīhi ('mere hut')  
+विधाय (vidhāya), √vidhā (verb root: to arrange), gerund (absolutive)  
+कुर्वुः (kuryuḥ), √kṛ (verb root: to do), 3rd person pl. optative act.  
+त्वथ (tvatha), tvatha (indeclinable: then, consequently)  
+राघवाद्रौ (rāghav-ā-drau), rāghava (proper noun: Rāghava, masc. dual locative), compounded tatpuruṣa (Rāghava + adrau 'in the two')  
+अन्यत्र (anyatra), anyatra (adv.: elsewhere)  
+वासं (vāsaṁ), vāsa (m.), neut. sing. acc. (residence, dwelling)  
+च (ca), ca (indeclinable conjunction: and)  
+गुरूपदिष्टान् (gurūpadiṣṭān), guru (m.) + √dīṣṭa (past participle of to show/indicate), masc. pl. acc. compounded tatpuruṣa (commanded by the guru)  
+मन्त्रान् (mantrān), mantra (m.), pl. acc. (mantras)  
+अपन्तः (apantaḥ), apanta (participle of √p(y) 'to fall'), masc. pl. nom. (falling, sinking, going)  
+हयभिमानशून्याः (hayabhimāna-śūnyāḥ), hayabhimāna (horse-pride) + śūnya (adj.: devoid of), masc. pl. nom., tatpuruṣa compound (devoid of horse-pride)  
+
+There also, but unable, having arranged only a small hut, they might do so; thus in the two Rāghavas.  
+Elsewhere, dwelling also, having been commanded by the guru and chanting mantras, sinking, devoid of horse-pride.  
+
+There too, the powerless, having arranged only a small hut, might act; thus in the two Rāghavas.  
+Elsewhere they dwell too, following the guru's commands and chanting mantras, humbled and free of pride.

@@ -1,0 +1,36 @@
+SOURCE_PAGES: page_0092.txt
+
+=== मूलपाठः ===
+
+
+वाक्यार्थः प्राप्यसम्बन्धिस्वरूपाभिनिरूपणम् ।।३१।।
+तारकस्य प्राधानार्थस्वस्वरूपनिरूपणम् ।
+सम्बन्धस्यानुसन्धानमनुसन्ध्यर्थ इष्यते ।।३२।।
+
+vākyārthaḥ prāpyasambandhisvarūpābhinirūpaṇam ।।31।।
+tārakasya prādhānārthasvasvarūpanirūpaṇam ।
+sambandhasyānusandhānamanusandhyartha iṣyate ।।32।।
+
+वाक्यार्थः (vākyārthaḥ), vākyārtha, masculine singular nominative, compound: tatpuruṣa (vākyārtha: sentence-meaning)
+प्राप्यसम्बन्धिस्वरूपाभिनिरूपणम् (prāpyasambandhisvarūpābhinirūpaṇam), prāpyasambandhi-svarūpa-abhinirūpaṇam, neuter singular nominative, compound: bahuvrīhi (composed of prāpya (obtained), sambandhi (relation), svarūpa (essence), abhinirūpaṇam (delineation))
+तारकस्य (tārakasya), tāraka, masculine singular genitive (of the star)
+प्राधानार्थस्वस्वरूपनिरूपणम् (prādhānārthasvasvarūpanirūpaṇam), prādhānārtha-sva-svarūpa-nirūpaṇam, neuter singular nominative, compound: tatpuruṣa (prādhānārtha (principal purpose), sva (own), svarūpa (essence), nirūpaṇam (explanation))
+सम्बन्धस्यानुसन्धानमनुसन्ध्यर्थ (sambandhasyānusandhānamanusandhyartha), sambandha (relation) + syā (genitive singular) + anusandhānam (search/investigation) + anusandhyartha (purpose of investigation), neuter singular nominative
+इष्यते (iṣyate), verb root iṣ (to wish), 3rd person singular present passive indicative (or middle voice, depending on context)
+
+"वाक्यार्थः" — sentence-meaning (subject)
+"प्राप्यसम्बन्धिस्वरूपाभिनिरूपणम्" — delineation of the nature (essence) of the relation which is to be obtained
+"तारकस्य" — of the star (genitive)
+"प्राधानार्थस्वस्वरूपनिरूपणम्" — explanation of the star's own essence with respect to the principal purpose
+"सम्बन्धस्यानुसन्धानमनुसन्ध्यर्थ" — the searching/investigation of the relation, for the purpose of inquiry
+"इष्यते" — (it) is intended/wished
+
+Literal translation:
+The sentence-meaning (vākyārthaḥ) [is] the delineation (nirūpaṇam) of the nature of the relation to be obtained (prāpyasambandhisvarūpa), (verse 31).
+Of the star (tārakasya), the explanation (nirūpaṇam) of its own essence with respect to the principal purpose (prādhānārtha-svasvarūpa).
+The investigation/search (anusandhānam) of the relation (sambandhasya), for the purpose of inquiry (anusandhyartha), is intended (iṣyate). (verse 32)
+
+Smooth English translation:
+The sentence-meaning is the detailed delineation of the nature of the relation to be attained.  
+Concerning the star, there is an explanation of its own essence in relation to the principal purpose.  
+The investigation of the relation is undertaken for the sake of inquiry.

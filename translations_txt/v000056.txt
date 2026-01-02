@@ -1,0 +1,38 @@
+SOURCE_PAGES: page_0115.txt
+
+=== मूलपाठः ===
+
+
+विकचपदमदलायतवीक्षणं विधिभवादिमनोहरसुस्मितम् ।
+जनकलजाटगपाङ्गसमीक्षितं प्रणतसत्समनुग्रहकारिणम् ।। ५६।।
+
+vikacapadamadalayatavīkṣaṇaṃ vidhibhavādimanoharasusmitam ।
+janakalajāṭagapāṅgasamīkṣitaṃ praṇatasatsam-anugrahakāriṇam ।। 56।।
+
+vikaca (vikaca), adj. m. nom. sg. (flower bud)
+padam (padam), n. acc. sg. (foot)
+adala (adala), n. gen. sg. (cluster)
+ayatā (ayatā), adj. f. gen. sg. (extended)
+tvīkṣaṇa (tvīkṣaṇa), n. nom. sg. (looking or viewing)
+vidhi (vidhi), m. inst. sg. (by the rule)
+bhavādi (bhava+ādi), m. inst. sg. (beginning with existence and so on)
+manohara (manohara), adj. m. nom. sg. (charming)
+susmita (susmita), adj. m. nom. sg. (smiling)
+
+jana (jana), m. nom. sg. (people)
+kalaja (kalaja), adj. m. nom. sg. (born of the bud)
+aṭa (aṭa), m. nom. sg. (tiger)
+gapaṅga (gapaṅga), m. nom. sg. (body parts)
+samīkṣita (samīkṣita), adj. n. acc. sg. (looked upon)
+praṇata (praṇata), adj. m. nom. sg. (bowed down)
+sat (sat), adj. m. nom. sg. (true, good)
+sa-manugraha (sa + anugraha) (tatpuruṣa compound) (sa = with, anugraha = favor)
+kāriṇam (kāriṇam), m. acc. sg. (doer, maker)
+
+Literal translation:  
+The flower bud’s cluster-extended looking (tvīkṣaṇa) (acting) by rules and so on (vidhi-bhavādi), charming and sweetly smiling,  
+the people’s bud-born tiger’s body parts having been looked upon, bowed and good with favor-doer.
+
+Smooth English translation:  
+With eyes as if looking over clusters of flower buds, charming and sweetly smiling by laws and such,  
+he is the benefactor who graciously regards with folded devotion the people’s tiger-bodied forms born of the bud.

@@ -1,0 +1,29 @@
+SOURCE_PAGES: page_0136.txt
+
+=== मूलपाठः ===
+
+
+एवं महान् भागवतः सुसंस्कृतो रामस्य भक्तिं परमां प्रकुर्यात् ।
+महेन्द्रनीलाश्मरुचेः कृपानिधेः श्रीजानकीवल्लभरावणारेः ।।७१।।
+
+evaṃ mahān bhāgavataḥ susaṃskṛto rāmāsya bhaktiṃ paramāṃ prakuryāt ।
+mahendranīlāśmaruceḥ kṛpānidheḥ śrījānakīvallabharāvaṇāreḥ ॥71॥
+
+एवं (evaṃ), अव्यय (indeclinable)  
+महान् (mahān), महान्, adj. (nom. sing. m.)  
+भागवतः (bhāgavataḥ), भागवत, noun (gen. sing. m.)  
+सुसंस्कृतो (susaṃskṛto), सुसंस्कृत, adj. (nom. sing. m.)  
+रामस्य (rāmasya), राम, noun (gen. sing. m.)  
+भक्तिं (bhaktiṃ), भक्ति, noun (acc. sing. f.)  
+परमां (paramāṃ), परम, adj. (acc. sing. f.)  
+प्रकुर्यात् (prakuryāt), कृ, verb root; verb form: optative, 3rd sing., middle voice  
+
+महेन्द्रनीलाश्मरुचेः (mahendranīlāśmaruceḥ), महेन्द्रनीलाश्मरुच, compound noun (gen. sing. m.)  
+कृपानिधेः (kṛpānidheḥ), कृपानिधि, noun (gen. sing. m.)  
+श्रीजानकीवल्लभरावणारेः (śrījānakīvallabharāvaṇāreḥ), श्रीजानकीवल्लभरावणार, compound noun (gen. sing. m.)  
+
+Thus, the great devotee, being well-cultured, may produce the supreme devotion of Rāma.  
+(of) Mahendra-nīla-āśmarucha (blue lotus hue associated with Indra), (of) the treasure of compassion, (of) Śrī Jānakī Vallabha Rāvaṇāra.  
+
+Thus, the great devotee, refined and cultured, may cultivate the highest devotion to Rāma,  
+who is the bearer of the blue lotus hue like Lord Indra, the ocean of compassion, and the beloved of Śrī Jānakī, the enemy of Rāvaṇa.

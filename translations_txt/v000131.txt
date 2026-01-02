@@ -1,0 +1,16 @@
+SOURCE_PAGES: page_0201.txt
+
+=== मूलपाठः ===
+
+
+देशादौ हि प्रशस्ते स वर्तमानश्चतुर्विधः ।।१३१।
+
+deśādau hi praśaste sa vartamānaścaturvidhaḥ ।।131।
+
+देशादौ (deśādau), देश (deśa), locative dual; हि (hi), particle; प्रशस्ते (praśaste), प्रशस्त (praśasta), nominative plural masculine; स (sa), pronoun, nominative singular masculine; वर्तमानः (vartamānaḥ), present participle, nominative singular masculine; च (ca), indeclinable conjunction; चतुर्विधः (caturvidhaḥ), compound (tatpuruṣa), nominative singular masculine
+
+In/from two places (locative dual) indeed (particle), excellent (nominative plural masculine); he (nominative singular masculine) is present (participle masculine singular) and (conjunction) fourfold (nominative singular masculine)
+
+Indeed, he is excellent in two places and is present in four forms.
+
+Indeed, he is excellent in two regions and exists in four forms.

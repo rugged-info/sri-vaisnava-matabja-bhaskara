@@ -1,0 +1,46 @@
+SOURCE_PAGES: page_0278.txt
+
+=== मूलपाठः ===
+
+
+तोताद्रिसञ्ज्ञादिषु वैष्णवोत्तमैरेवं तथा तुङ्शयादिकं प्रभुम्।
+कार्यो निवासो नितरां शुभार्थिभिराराधयद्धिः सकलार्थदायिनम् ।।२००।।
+
+totādrisañjñādiṣu vaiṣṇavottamairevaṁ tathā tuṅśayādikaṁ prabhum
+kāryo nivāso nitarāṁ śubhārthibhirārādhayaddhiḥ sakalārthadāyinam
+
+तोताद्रिसञ्ज्ञादिषु (totādrisañjñādiṣu): tota-ādri-sañjñā-ādiṣu; tatpuruṣa; locative plural neuter; "in those called Totadri and similar"
+वैष्णवोत्तमैः (vaiṣṇavottamaiḥ): vaiṣṇava-uttam-āḥ; instrumental plural masculine; tatpuruṣa compound; "by the best of the Vaiṣṇavas"
+एवं (evaṁ): indeclinable; "thus"
+तथा (tathā): indeclinable; "also"
+तुङ्शयादिकं (tuṅśayādikaṁ): tuṅśaya-ādikaṁ; bahuvrīhi; accusative singular masculine; "Tuṅśaya and others"
+प्रभुम् (prabhum): prabhu; accusative singular masculine; "the Lord"
+
+कार्यः (kāryaḥ): kārya; nominative singular masculine; "to be done"
+निवासः (nivāsaḥ): nivāsa; nominative singular masculine; "dwelling"
+नितरां (nitarāṁ): adverb; "exceedingly"
+शुभार्थिभिः (śubhārthibhiḥ): śubha-artha-bhiḥ; instrumental plural masculine; "by auspicious-minded ones"
+आराधयत् (ārādhayat): verb; root आराध्, 3rd person singular imperfect active; "was worshipping"
+धिः (dhiḥ): dhiḥ; noun nominative singular feminine; "intellect" or "mind"
+सकलार्थदायिनम् (sakalārthadāyinam): sakala-artha-dāyinam; accusative singular masculine; tatpuruṣa; "giver of all benefits"
+
+"तोताद्रिसञ्ज्ञादिषु" - in those called Totadri and others (locative plural neuter, tatpuruṣa)  
+"वैष्णवोत्तमैः" - by the best Vaiṣṇavas (instr. pl. m., tatpuruṣa)  
+"एवं" - thus (indeclinable)  
+"तथा" - also (indeclinable)  
+"तुङ्शयादिकं" - Tuṅśaya and others (acc. sg. m., bahuvrīhi)  
+"प्रभुम्" - the Lord (acc. sg. m.)  
+
+"कार्यः" - to be done (nom. sg. m.)  
+"निवासः" - dwelling (nom. sg. m.)  
+"नितरां" - exceedingly (adverb)  
+"शुभार्थिभिः" - by auspicious-minded ones (instr. pl. m.)  
+"आराधयत्" - was worshipping (3rd sing. impf. act.)  
+"धिः" - mind/intellect (nom. sg. f.)  
+"सकलार्थदायिनम्" - giver of all benefits (acc. sg. m., tatpuruṣa)  
+
+In those (places) known as Totadri and such, by the best Vaiṣṇavas, thus also Tuṅśaya and others worshipped the Lord.  
+To be done is a dwelling exceedingly worshipped by auspicious-minded ones, the intellect (mind) as the giver of all benefits.
+
+In places known as Totadri and others, the best Vaiṣṇavas and likewise Tuṅśaya and others worshipped the Lord.  
+The abode, to be established, is greatly worshipped by virtuous devotees, the mind granting all benefits.

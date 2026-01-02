@@ -1,0 +1,44 @@
+SOURCE_PAGES: page_0274.txt
+
+=== मूलपाठः ===
+
+
+गङ्गगसागरसङ्खमेऽतिशुभदे विष्णुं तथा राघवं  
+शश्वद्धरिगुणालये मुनिवृते श्रीचित्रकूटे विभुम् ।  
+नन्दिग्राम उदारकीर्तिनिकरे श्रीराक्षसघ्रं प्रभुं रम्ये  
+श्रीमति विश्वरूपिणमथी क्षत्र प्रभासेऽमले ।।१९५।।
+
+gaṅgagasāgarasaṅkhome'tiśubhade viṣṇuṃ tathā rāghavaṃ  
+śaśvaddhariguṇālaye munivṛte śrīcitrakūṭe vibhum ।  
+nandigrāma udārakīrtinikare śrīrākṣasaghraṃ prabhuṃ ramye  
+śrīmati viśvarūpiṇamathī kṣatra prabhāse'male ।।195।।
+
+(gaṅga-gasāgara-saṅkhame) - gaṅga (f., nominative singular), gasa (variant/compound element), sāgara (m., locative singular), saṅkhama (m., locative singular); compound type: bahuvrīhi  
+(etiśubhad-e) - eti (verb root √ī, present tense, 3rd singular), śubhade (m., vocative singular)  
+(viṣṇuṃ) - viṣṇu (m., accusative singular)  
+(tathā) - indeclinable; meaning 'also' or 'likewise'  
+(rāghavaṃ) - rāghava (m., accusative singular)  
+(śaśvaddhari-guṇālaye) - śaśvaddhari (m., locative singular), guṇālaya (m., locative singular); tatpuruṣa compound  
+(muni-vṛte) - muni (m., locative singular), vṛta (past participle of √vṛ, masculine singular locative)  
+(śrī-citrakūṭe) - śrī (m./f., locative singular), citrakūṭa (m., locative singular); tatpuruṣa compound  
+(vibhum) - vibhū (m., accusative singular)  
+(nandi-grāma) - nandi (m., nominative singular), grāma (m., nominative singular); tatsama compound  
+(udāra-kīrti-nikare) - udāra (adj., masculine/neuter nominative singular), kīrti (f., genitive singular), nikara (m., locative singular); tatpuruṣa  
+(śrī-rākṣasa-ghraṃ) - śrī (m.), rākṣasa (m.), ghraṃ (accusative singular); bahuvrīhi compound  
+(prabhuṃ) - prabhu (m., accusative singular)  
+(ramye) - ramya (adj., locative singular neuter/masculine)  
+(śrīmati) - śrīmatī (adj./f., nominative singular)  
+(viśvarūpiṇam-athī) - viśvarūpiṇa (adj./f., nominative singular), mathī (f., nominative singular)  
+(kṣatra) - kṣatra (n., nominative singular)  
+(prabhāse) - prabhāsa (m./n., locative singular)  
+(amale) - amala (adj./noun, locative singular neuter)  
+
+At the greatly auspicious confluence of the Ganges, Gaṅgā, and the ocean, (one) who is Viṣṇu and also Rāghava,  
+in the permanent abode of the qualities of the moon, surrounded by sages, in glorious Citrakūṭa, the illustrious one,  
+in the village of Nandi, on the mountain of noble fame, the illustrious terror of demons, the lord, in the beautiful place,  
+the revered one possessing universal forms, eminent Kṣatra, shines in the pure illumination.
+
+At the very auspicious meeting place of the Ganges, Gaṅgā, and the ocean, who is both Viṣṇu and Rāghava,  
+dwelling in the eternal abode of moonlike qualities, surrounded by sages, at glorious Citrakūṭa—  
+in Nandi village, on the noble mountain of fame, the glorious lord who terrifies demons, in the beautiful realm,  
+the illustrious one with universal forms, the noble warrior, shines in pure brilliance.

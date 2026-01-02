@@ -1,0 +1,31 @@
+SOURCE_PAGES: page_0231.txt
+
+=== मूलपाठः ===
+
+
+ते सर्वतीर्थाश्रयभूतदेहा देशे महाभागवता वसन्ति ।
+
+yasmin sa tadrṣṇasaṁsthitibhyaṁ sūte supuṇyaṁ nikhilāghaśṛnyam ।।164।।
+
+ते (te), तत् (pronoun, masc. pl. nom.), सर्व-तीर्थ-आश्रय-भूत-देहा (sarvatīrthāśrayabhūtadehā)  
+सर्व (sarva; adj. masc. pl. nom.), तीर्थ (tīrtha; masc. pl. gen.), आश्रय (āśraya; masc. sg. abl.), भूत (bhūta; adj. masc. pl. nom.), देहा (dehā; masc. pl. nom.) — tatpuruṣa  
+देशे (deśe), देश (deśa; masc. sg. loc.)  
+महाभागवता (mahābhāgavata), महाभागवत (mahābhāgavata; indeclinable, abl. sg.)  
+वसन्ति (vasanti), वस् (verb root), 3rd person, plural, present, indicative, active  
+
+यस्मिन् (yasmin), यत् (relative pronoun, masc. sg. loc.)  
+स (sa), तत् (pronoun, masc. sg. nom.)  
+तत्-रक्षण-स्थान-इभ्यः (tad-rakṣaṇa-samsthiti-bhyaḥ), तत् (pronoun), रक्षण (rakṣaṇa; noun), सं + स्थिति (saṁsthiti; noun), -भ्यः (abl. dual) — bahuvrīhi or tatpuruṣa compound (contextual)  
+सूते (sūte), सूत (masc. sg. loc.)  
+सुपुण्यम् (supuṇyam), सुपुण्य (adj. neut. sg. acc.)  
+निखिल-अघ-श्रण्यं (nikhilāghaśṛṇyam), निखिल (adj. neut. sg. acc.), अघ (noun, masc. sg.), श्रण्य (noun, neut. sg.) — tatpuruṣa compound  
+
+ते सर्वतीर्थाश्रयभूतदेहा देशे महाभागवता वसन्ति  
+They (masc. pl. nom.) are residing in the land (loc.) which has become the shelter (abl.) of all pilgrimage places, by the great fortunate one (abl.)
+
+यस्मिन् स तद्रक्षणसंस्थितिभ्यां सूते सुपुण्यं निखिलाघशृन्यम्  
+In which (loc. sg. masc.) he (nom. sg. masc.) from those two places of protection and stays (abl. dual) in the Sūta (loc.), has excellent merit (acc. sg. neut.) of all faults removing (acc. sg. neut.)
+
+They reside in the land that has become the refuge of all pilgrimage places, by the great fortunate one.
+
+In that place, from those two places of protection and residence, the Sūta has excellent merit that removes all sins.

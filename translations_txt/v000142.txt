@@ -1,0 +1,50 @@
+SOURCE_PAGES: page_0211.txt
+
+=== मूलपाठः ===
+
+
+अनादिकर्मोत्करजातनानादेहाभिमानी सुमतोऽथ बद्धः ।
+स चाऽच्युताहेतुकृपाबलेनाविद्याक्रियावासरुचिप्रवृत्तेः ।।१४१॥
+
+anādikarmotkarajātanānādehābhimānī sumatoऽtha baddhaḥ ।
+sa cāऽcyutāhetukṛpābalenāvidyākriyāvāsarucipravṛtteḥ ॥141॥
+
+anādi-karma-utkara-jāta-nānā-adeha-abhimānī (anādi: beginningless; karma: action; utkara: special, prominent; jāta: born; nānā: various; adeha: without body; abhimānī: proud, conceited) - tatpuruṣa compound  
+sumataḥ (sumat, masculine singular nominative; good-minded, wise)  
+atha (indeclinable; then)  
+baddhaḥ (baddha, masculine singular nominative; bound)  
+saḥ (saḥ, masculine singular nominative; he)  
+ca (indecinable; and)  
+acyutāhetukṛpābalena (acyuta-hetu-kṛpā-bala-ena: 'by the power of Acyuta's cause and mercy'; acyuta: proper noun, genitive singular; hetu: cause, instrumental singular; kṛpā: mercy, instrumental singular; bala: strength, instrumental singular; ena: instrumental suffix joining) - bahuvrīhi compound  
+avidyākriyāvāsarucipravṛtteḥ (avidyā-kriyā-vāsaru-cipravṛtteḥ: 'from the activities of ignorance, ardor, desire, and volition'; avidyā: ignorance, instrumental singular; kriyā: action, instrumental singular; vāsaru: ardor, instrumental singular; cī (ci with sandhi) + pravṛtteḥ (pravṛtti, instrumental singular)) - tatpuruṣa compound
+
+Beginningless, special actions have arisen; (he is) the conceited one without a body, the wise one, now bound.  
+He (saḥ), by the power of Acyuta’s cause, mercy, and strength, from the activities of ignorance, passion, desire, and volition.
+
+The wise and proud one without a beginning and body, engaged in many special actions, is now bound.  
+He, by Acyuta’s cause, mercy, and strength, is bound due to ignorance, passion, desire, and volition.
+
+विमोक्तुमिच्छुस्तु मुमुक्षरुक्तः सम्बन्धतः प्राज्ञसुसम्मतो यम् ।
+तथैव सांसारिकभीगमिच्छुर्बुभुक्षरन्यः कथितो बुधेनदरैः ।।१४२।।
+
+vimoktumicchustu mumukṣaruktaḥ sambandhataḥ prājñasusammato yam ।
+tathaiva sānsārikabhīgamicchurbubhukṣarnyaḥ kathito budh(en)adaraiḥ ॥142॥
+
+vimoktum icchuḥ tu (vimoktuṃ: to be liberated, infinitive; icchuḥ: desires, masculine singular nominative from verb; tu: but)  
+mumukṣa-ruktaḥ (mumukṣa-ruktaḥ: addressed to a mumukṣu (seeker of liberation), masculine singular vocative or nominative)  
+sambandhataḥ (sambandha + taḥ, from sambandha, instrumental singular: 'from connection')  
+prājña-su-sammataḥ (prājña + su + sammataḥ: prājña (wise person), su (good), sammataḥ (accepted); masculine singular nominative)  
+yam (yam: relative pronoun; masculine singular accusative: whom)  
+tatha eva (indeclinable: likewise indeed)  
+sānsārika-bhīga-micchuḥ (sānsārika: worldly; bhīga: soaked, afflicted; micchuḥ (icchuḥ with prefix): wishing; masculine singular nominative)  
+bubhukṣa-rnyaḥ (bubhukṣa + arnyaḥ, probably a typo in sandhi, possibly bubhukṣa-rnyaḥ = bubhukṣa-rnyaḥ = bubhukṣar ṇyaḥ; interpreting as bubhukṣa-rnyaḥ, bubhukṣa meaning eager or desiring; or bubhukṣa-rnyaḥ as a compound - more context needed)  
+kathitaḥ (kathita, masculine singular nominative: spoken, told)  
+buddhena adaraiḥ (buddhena: by the wise; adaraiḥ: by elders; instrumental plural)
+
+He who is sent as a mumukṣa wishing liberation, accepted by the wise from connection,  
+likewise the worldly one wishing to be soaked (immersed), the eager for liberation, is spoken of by the wise elders.
+
+The one who, as a seeker of liberation, desires liberation and is approved by the wise due to connection,  
+similarly, the worldly aspirant longing to be fully immersed is described by the wise elders.
+
+(Note on bubhukṣarnyaḥ: Possibly “bubhukṣa-arnyaḥ,” a compound or typo; interpreted here as “bubhukṣa-rnyaḥ” = ‘eager for liberation’, aligning with context.)

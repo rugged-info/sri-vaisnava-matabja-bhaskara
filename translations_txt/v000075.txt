@@ -1,0 +1,36 @@
+SOURCE_PAGES: page_0143.txt
+
+=== मूलपाठः ===
+
+
+एकादशीत्यादिमहात्रतानि वै कुयद्विवेधानि हरिप्रियाण्यथ ।
+विद्धा दशम्या यदि साऽरुणोदये स द्वादशीं तूपवसेद्धिहाय ताम् ।। ७५।।
+
+ekādaśītyādimahātratāni vai ku-yadvivedhāni haripriyāṇyatha ।
+viddhā daśmyā yadi sā’ruṇodaye sa dvādaśīṁ tūpavase-ddhihāya tām ॥ 75 ॥
+
+एकादशी (ekādaśī) - ekādaśī - fem. nom. sg.;  
+इति (iti) - iti - indeclinable (quotative);  
+आदि (ādi) - ādi - masc. nom. pl. (ordinal context: "beginning with, etc.");  
+महात्रतानि (mahātratāni) - mahātratā - neut. nom. pl.; tatpuruṣa compound of महा (mahā, great) + त्रता (tratā, duration); here "great durations";  
+वै (vai) - vai - particle (indeed);  
+कुयद्विवेधानि (ku-yadvivedhāni) - ku + yadvivedhāni; ku = interrogative particle "how"; yadvivedhāni = neut. nom. pl. of vividha (vivēdha), "variations, distinctions"; compound - bahuvrīhi;  
+हरिप्रियाणि (haripriyāṇi) - haripriya - neut. nom. pl.; tatpuruṣa compound हरि (Hari, Vishnu) + प्रिय (priya, dear); "dear to Hari (Vishnu)";  
+अथ (atha) - ath - indeclinable, adverb "then";  
+
+विद्धा (viddhā) - viddhā - fem. nom. sg. of पक्षवाचक participle from √विद् "to know";  
+दशम्या (daśmyā) - daśmyā - fem. nom. sg. of ordinal "tenth (day)";  
+यदि (yadi) - yadi - indeclinable (if);  
+साऽरुणोदये (sā'ruṇodaye) - sā (fem. nom. sg.) + aruṇodaye (locative sg. masc.) "in red dawn";  
+स (sa) - sa - masc. nom. sg. pronoun "he";  
+द्वादशीं (dvādaśīṁ) - dvādaśīṁ - fem. acc. sg. ordinal "eleventh (day)";  
+तूपवसेद्धिहाय (tūpavase-ddhihāya) - tūpavase-ddhihāya; tūpavase = verbal noun; ddhiāya - causative suffix / gerundive of धिह् "to meditate"? The morphemes indicate a verbal purpose or intent, "for the observance of fasting/tapas"; compound (perhaps tatpuruṣa or bahuvrīhi) meaning "for fasting/vow observance";  
+ताम् (tām) - tām - fem. acc. sg. pronoun "her/that";  
+
+Literal translation (close):  
+The ekādaśī and so on great durations indeed how many variations dear to Hari (Vishnu) are there.  
+Knowing the tenth day, if she (the tenth day) at the red dawn, he (the practitioner) for the purpose of observing the fasting on the eleventh day, that (eleventh day).  
+
+Smooth English translation:  
+Indeed, how many great periods beginning with ekādaśī and their variations dear to Hari exist?  
+If one knows the tenth day, and at red dawn on that day, then for observing the fast on the following eleventh day, that (eleventh day) is suitable.

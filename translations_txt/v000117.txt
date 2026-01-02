@@ -1,0 +1,40 @@
+SOURCE_PAGES: page_0186.txt
+
+=== मूलपाठः ===
+
+
+चतुर्थप्रश्रत्तरे मुक्तिसाधननिरूपणम् १४९  
+प्रथितस्तदुदारसमुद्घोषः 'जाति पाति पूङ्ठे नहि कोई। हरि को भजे सो हरि का होई  
+लोकभाषायामपि समुपक्रान्तः।  
+अणुव्याप्तौ च भगवानणुषु त्वणुरुच्यते ।  
+पराकाष्ापरैर्विज्ञेर्मतविद्धिर्महात्मभिः ।।११७।।
+
+caturthapraśrattare muktisādhananirūpaṇam 149  
+prathitastadudārasamudghoṣaḥ 'jāti pāti pūṅṭhe nahi koī। hari ko bhaje so hari kā hoī  
+lokabhāṣāyāmapi samupakrāntaḥ।  
+aṇuvyāptau ca bhagavāṇaṇuṣu tvaṇurucyate ।  
+parākāṣāparairvijñermataviddhirmahātmbhiḥ ।।117।।
+
+caturtha (caturtha), praśrattare (praśrattara), muktisādhananirūpaṇam (mukti+sādhana+nirūpaṇam, tatpuruṣa compound: mukti-sādhana-nirūpaṇam, neuter nominative singular) 149 (numeral)  
+prathitaḥ (prathita, adjective, masculine nominative singular), tad (demonstrative pronoun, neuter nominative singular), udāra (udāra, adjective, masculine nominative singular), samudghoṣaḥ (samudghoṣa, masculine nominative singular)  
+jāti (jāti, feminine nominative singular), pāti (pāti, masculine nominative singular), pūṅṭhe (pūṅṭha, masculine locative singular), nahi (indeclinable, negation), koī (koī, indeclinable, interrogative or relative pronoun)  
+hari (hari, masculine nominative singular), ko (ko, interrogative pronoun), bhaje (bhaj, verb root, present tense, third person singular), saḥ (saḥ, masculine nominative singular), hari (hari, masculine nominative singular), kā (ka, feminine genitive singular or interrogative), hoī (ho, auxiliary verb, future tense, third person singular)  
+lokabhāṣāyām (lokabhāṣā + locative singular feminine), api (indeclinable, also), samupakrāntaḥ (samupakrānta, masculine nominative singular)  
+aṇuvyāptau (aṇu+vyāptau, dual locative, compound tatpuruṣa), ca (indeclinable, and), bhagavāṇaṇuṣu (bhagavān + aṇuṣu, locative plural masculine), tvaṇurucyate (tvaṇu + ucyate, verb root ucyate, present passive or middle, third person singular)  
+parākāṣāparaiḥ (parākāṣāpa + ir, instrumental plural masculine, bahuvrīhi), vijñer (vijña + er, instrumental plural masculine, tatpuruṣa or bahuvrīhi), mataviddhiḥ (mata + viddhiḥ, instrumental plural masculine, tatpuruṣa or bahuvrīhi), mahātmbhiḥ (mahā + ātmā + bhiḥ, instrumental plural masculine, bahuvrīhi) 117 (numeral)
+
+In the fourth (literal translation) and fifth (smooth translation) parts, the verse is synthesized as follows:
+
+Literal translation:  
+“149. The explanation of the means of liberation in the fourth inquiry.  
+That renowned and noble proclamation: 'Caste and lineage do not bind, no one. Whom one worships is Hari, who that is.'  
+Even in the vernacular language it has penetrated.  
+In the atom-pervading and in the divine atoms it is said.  
+By the all-knowing, realized by the great souls, beyond all space and time.” (Note: some phrases are interpretative due to the fragmentary nature)
+
+Smooth English translation:  
+“149. Explanation of the means of liberation in the fourth inquiry.  
+That famous noble proclamation says: ‘Caste and lineage hold no sway; whom one worships is Hari, and that alone.’  
+This truth has entered even common speech.  
+It is expressed at the smallest particle and in the divine atoms.  
+This profound knowledge, beyond space and time, has been revealed by the all-knowing great souls.”

@@ -1,0 +1,43 @@
+SOURCE_PAGES: page_0201.txt
+
+=== मूलपाठः ===
+
+
+आवाहनासनाभ्यां च पादाद्याचमनैस्तथा  
+स्रानवस्त्ोपवीतैश्च गन्धपुष्पसुधूपकैः ।।१३२।।  
+दीपनैवेद्यताम्बूलप्रदक्षिणविसर्जनैः  
+षोडशा्चप्रिकारिस्तमेतैरर्चेत्सदा सुधीः ।।१३३ ।।
+
+āvāhanāsanābhyāṃ ca pādādyācamanaistathā  
+srānavastopavītaishca gandhapuṣpasudhūpakaiḥ  
+dīpanaivedyatāmbūlapradakṣiṇavisarjanaiḥ  
+ṣoḍaśācaprikāristametairarcetsadā sudhīḥ
+
+आवाहनासनाभ्यां (āvāhanāsanābhyām) - आहवनासन (āvāhanāsana), ā- (prefix), ablative/instrumental dual;  
+च (ca) - indeclinable conjunction "and";  
+पादाद्याचमनैः (pādādyācamanaaiḥ) - पादादि (pādādi), ablative/instrumental plural; compound of पाद (pāda, "foot") + आदि (ādi, "etc.");  
+तथा (tathā) - indeclinable adverb "thus";  
+स्रानवस्त् (srānavast) - sraṇavas (sraṇa + vas), nominative singular masculine;  
+उपवीतैः (upavītaḥ) - उपवीत (upavīta), instrumental plural masculine; sacred thread;  
+च (ca) - indeclinable conjunction "and";  
+गन्धपुष्पसुधूपकैः (gandhapuṣpasudhūpakaiḥ) - compound bahuvrīhi of गन्ध (gandha, "fragrance/smell") + पुष्प (puṣpa, "flower") + सुधू (sudhū, "incense") + पक (paka, "smoke"), instrumental plural masculine.
+
+दीपनैः (dīpanaiḥ) - दीपन (dīpana), instrumental plural masculine; "lights";  
+एव (eva) - indeclinable particle "indeed";  
+अेद्यताम्बूलप्रदक्षिणविसर्जनैः (edyatāmbūlapradakṣiṇavisarjanaiḥ) - compound tatpuruṣa of अेद्यताम्बूल (edyatāmbūla, edible berries or similar) + प्रदक्षिण (pradakṣiṇa, "circumambulation") + विसर्जन (visarjana, "offering/releasing"), instrumental plural masculine;  
+षोडशाः (ṣoḍaśāḥ) - ordinal numeral nominative plural feminine, "sixteen";  
+च (ca) - indeclinable conjunction "and";  
+अप्रीकारः (aprikāraḥ) - appears to be अप्रीकार (aprikāra), nominative plural masculine; "offerings/arrangements" (contextually);  
+तमेतैः (tametaiḥ) - demonstrative pronoun instrumental plural masculine "with these";  
+अर्चेत् (arcet) - verb root अर्च् (arc), optative singular, "should worship";  
+सदा (sadā) - indeclinable adverb "always";  
+सुधीः (sudhīḥ) - nominative plural masculine "wise persons".
+
+Literal translation:  
+"By the two means of welcoming and seating, and by the feet and similar chamanas also thus,  
+and by the water, sacred threads, and the fragrant flowers and incense smoke (instruments),  
+with lights indeed and with edible berries, circumambulation, and offerings,  
+sixteen and other arrangements, with these the wise persons should always worship."
+
+Smooth English translation:  
+"Wise persons should always perform the worship with sixteen and other offerings, including welcoming and seating, washing the feet and similar ablutions, using water, sacred threads, fragrant flowers and incense smoke, lights, edible berries, and circumambulation."

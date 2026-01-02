@@ -1,0 +1,33 @@
+SOURCE_PAGES: page_0271.txt
+
+=== मूलपाठः ===
+
+
+वृन्दावने सुन्दरनन्दसूनुकं गोविन्दमेवं त्वथ कालियहृदे ।  
+गोवर्धने गोपसुवेषधारिणं तथा भवघ्रेऽपि च पदालोचनम् ।।१९३॥।
+
+vṛndāvane sundaranandasūnukaṃ govindamevaṃ tvatha kāliyahṛde ।  
+govardhane gopasuveṣadhāriṇaṃ tathā bhavaghre'pi ca padālocanam ।।193।।
+
+vṛndāvane (vṛndāvana, locative singular neuter)  
+sundaranandasūnukaṃ (sundaranandasūnuka, accusative singular masculine)  
+govindamevaṃ (govinda + eva + am, govinda base noun masculine accusative singular + emphatic particle + accusative marker)  
+tvatha (indeclinable — conjunction/adverb)  
+kāliyahṛde (kāliya + hṛda, kāliya = proper noun masculine locative singular, hṛda = locative singular neuter; compound tatpuruṣa)  
+
+govardhane (govardhana, locative singular masculine)  
+gopasuveṣadhāriṇaṃ (gopa + suveṣa + dhāriṇaṃ, gopa = noun masculine nominative or accusative plural or singular, suveṣa = noun neuter accusative singular, dhāriṇa = present participle masculine accusative singular; compound bahuvrīhi or tatpuruṣa)  
+tathā (indeclinable — adverb)  
+bhavaghre'pi (bhavaghra + api, bhavaghra = proper noun neuter locative singular + particle 'api')  
+ca (indeclinable — conjunction)  
+padālocanam (pada + ālocanam, pada = noun neuter nominative singular, ālocanam = noun neuter nominative singular; compound tatpuruṣa)  
+
+In Vṛndāvaṇa, (the one who is) the son of Sundara-nanda, Govinda himself,  
+and also in the heart of Kāliya;  
+on Govardhana, the wearer of the garb of cowherds,  
+likewise on Bhavaghṛa too, (he is) the one who observes the feet.  
+
+In Vṛndāvaṇa, Govinda, the son of Sundara-nanda,  
+and also in the heart of Kāliya,  
+on Govardhana, the cowherds' robe-wearer,  
+and even in Bhavaghṛa, he gazes upon the feet.

@@ -1,0 +1,52 @@
+SOURCE_PAGES: page_0275.txt
+
+=== मूलपाठः ===
+
+
+श्रीकूर्माचल उत्तमे च सदयं कर्म सुरेशेडितं  
+नीलाद्रौ पुरुषोत्तमं त्वथ महासिंहं च सिंहाचले ।  
+श्रीमन्तं तुलसीवने तु गदिनं सर्वार्थदं तप्पिये  
+क्षत्र श्रीकृतशौचके तु सततं पापापहं चेश्वरम् ।।१९६ ।।  
+
+śrīkūrmācala uttame ca sadayaṃ karma sureṣeḍitaṃ  
+nīlādrau puruṣottamaṃ tvatha mahāsiṃhaṃ ca siṃhācale ।  
+śrīmantaṃ tulasīvane tu gadinaṃ sarvārthadaṃ tappiye  
+kṣatra śrīkṛtaśaucake tu satataṃ pāpāpahaṃ ceśvaram ।।196।।  
+
+श्रीकूर्माचल (śrīkūrmācala) — श्रीकूर्माचल (proper noun; nominative singular masculine; tatpuruṣa compound)  
+उत्तमे (uttame) — उत्तम (adj., nominative singular masculine, positive degree)  
+च (ca) — च (indeclinable; conjunction)  
+सदयं (sadayaṃ) — सदय (adj., accusative singular neuter)  
+कर्म (karma) — कर्म (noun neuter, accusative singular)  
+सुरेशेडितं (sureṣeḍitaṃ) — सुरेश + ईडित (compound; bahuvrīhi; past passive participle, accusative singular neuter)  
+
+नीलाद्रौ (nīlādrau) — नीलाद्र (proper noun, locative dual masculine)  
+पुरुषोत्तमं (puruṣottamaṃ) — पुरुषोत्तम (proper noun, accusative singular masculine)  
+त्वथ (tvatha) — तथा (indeclinable; adverb)  
+महासिंहं (mahāsiṃhaṃ) — महा + सिंह (compound; tatpuruṣa; accusative singular masculine)  
+च (ca) — च (indeclinable; conjunction)  
+सिंहाचले (siṃhācala) — सिंहाचल (proper noun, locative singular masculine)  
+
+श्रीमन्तं (śrīmantaṃ) — श्रीमन्त (adj., accusative singular masculine)  
+तुलसीवने (tulasīvane) — तुलसीवन (proper noun, locative singular masculine)  
+तु (tu) — तु (indeclinable; adversative particle)  
+गदिनं (gadinaṃ) — gadi (noun masculine, accusative singular)  
+सर्वार्थदं (sarvārthadaṃ) — सर्वार्थ + दन् (compound; tatpuruṣa; present participle, accusative singular neuter)  
+तप्पिये (tappiye) — तप्पिय (proper noun, locative singular masculine)  
+
+क्षत्र (kṣatra) — क्षत्र (noun neuter, vocative singular)  
+श्रीकृतशौचके (śrīkṛtaśaucake) — श्रीकृत + शौचक (compound; tatpuruṣa; locative singular masculine)  
+तु (tu) — तु (indeclinable; adversative particle)  
+सततं (satataṃ) — सतत (adj., nominative singular neuter)  
+पापापहं (pāpāpahaṃ) — पाप + अपह (compound; tatpuruṣa; present participle, nominative singular neuter)  
+चेश्वरम् (ceśvaram) — च + ईश्वर (compound; bahuvrīhi; nominative singular neuter)  
+
+In the esteemed Kūrmacala (Mount Kūrma), the best and compassionate (adj.) action made by the lord of gods,  
+On the two blessed Nīlādhra mountains, the supreme person (Purushottama), and likewise the great lion on Lion Mount.  
+The glorious one in Tulasīvana, and Gadi, giver of all goals, O Tappiya,  
+O warrior, in the sacred Śrīkṛtaśaucaka place, always sin-destroying lord.  
+
+O warrior, in the sacred Śrīkṛtaśaucaka place, always sin-destroying lord,   
+the glorious one in Tulasīvana and Gadi, giver of all benefits;  
+on the two blue mountains (Nīlādhra) the supreme person (Purushottama) and the great lion on Lion Mount;  
+the best and compassionate deed made by the lord of gods in the exalted Kūrmacala (Mount Kūrma).

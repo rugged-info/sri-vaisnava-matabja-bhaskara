@@ -1,0 +1,33 @@
+SOURCE_PAGES: page_0187.txt
+
+=== मूलपाठः ===
+
+
+आत्मारामैस्तथोपायस्वरूपन्ञानिभिश्च तैः ।
+मतज्ञर्विरजापारं कैवल्यमिति मन्यते ।।११८।।
+
+ātamāramaistathopāyasvarūpannyaanibhiśca taiḥ ।
+matajñarvirajāpāraṁ kaivalyamiti manyate ।।118।।
+
+आत्मारामैः (ātamāramaiḥ), आत्माराम (ātmarāma), लोकवादी (lokavādī, compound type: bahuvrīhi) कृत्वा बहुवचन-इष्टकरण-करण।
+तथा (tathā), तदैव (indecinable, adverb) 
+उपाय (upāya), उपाय (upāya), masculine singular nominative
+स्वरूपन् (svarūpan), स्वरूप (svarūpa), masculine singular nominative present active participle
+ञानि (ñāni), ज्ञ (jña), masculine plural nominative
+भी (bhī), भी (indeclinable particle), emphatic particle
+च (ca), च (indeclinable conjunction), "and"
+तैः (taiḥ), त (tat), pronoun, masculine/neuter plural instrumental
+मतज्ञः (matajñaḥ), मतज्ञ (matajña), masculine singular nominative
+विरजा (virajā), विरज (viraja), adjective, feminine singular nominative
+आपारं (āpāraṁ), आपार (āpāra), neuter singular accusative
+कैवल्यम् (kaivalyam), कैवल्य (kaivalya), neuter singular accusative
+इति (iti), इति (indeclinable particle), quotative
+मन्यते (manyate), मन् (man), verb root, present middle/passive indicative 3rd singular
+
+Self-delighting thus, possessing form, and knowledgeable, and also by them (instrumental plural),
+The knower of the opinion, free from impurities, and limitless,
+Is considered to be kaivalya (is regarded as kaivalya).
+
+The self-delighting, possessing form, knowledgeable, and so on, they (agents) consider the knower of the opinion, who is pure and limitless, to be kaivalya.
+
+Those who delight in the Self, who are of such means and forms and knowledgeable, consider the pure and limitless knower of the doctrine to be kaivalya.

@@ -1,0 +1,123 @@
+SOURCE_PAGES: page_0146.txt
+
+=== मूलपाठः ===
+
+
+तत्र सूर्यप्रकाशदर्शनादपूर्व यद् घटीद्रयं स दण्डद्रयात्मककालोऽतिवेधः, रविप्र भासस्य
+दर्शनादनन्तरमर्थे सूर्य उदिते महावेध इति बुधैः कालवेर्तृभिरीर्यते।
+योगस्तुरीयस्तु दिवाकरोदये तेऽर्वाक्सुदोषातिशयार्थबोधकाः ।
+सर्वेऽपि वेधा मुनिभिर्विनिश्चिता निर्णेतृभिस्तस्य तु तत्त्वदर्शिभिः ।।८०।।
+
+tatra sūryaprakāśadarśanādapūrva yad ghaṭīdhrayaṃ sa daṇḍadrayātmakakālo'tivedhaḥ, ravipra bhāsasya
+darśanādanantaramarthe sūrya udite mahāvedha iti budhaiḥ kālavertṛbhiriryate।
+yogasturīyastu divākarodaye te'rvāksudoṣātiśayārthabodhakāḥ ।
+sarve'pi vedhā munibhirviniścitā nirṇetṛbhistasya tu tattvadarśibhiḥ ॥80॥
+
+तत्र (tatra), तत्र, indeclinable, locative adverb
+
+सूर्यप्रकाशदर्शनादपूर्व (sūryaprakāśadarśanādapūrva), सूर्यप्रकाशदर्शनादपूर्वम्, compound: tatpuruṣa (from सूर्य-प्रकाश-दर्शन + आधि + पूर्वम्),
+   सूर्य (sūrya), noun, masculine, singular, nominative,
+   प्रकाश (prakāśa), noun, masculine, singular, nominative,
+   दर्शन (darśana), noun, masculine, singular, ablative,
+   पूर्व (pūrva), adjective, singular, ablative
+
+यद् (yad), यत्, relative pronoun, neuter, singular, nominative/accusative
+
+घटीद्रयं (ghaṭīdhrayaṃ), घटीद्रयं, compound: bahuvrīhi,
+   घटी (ghaṭī), noun, masculine, singular, nominative,
+   द्रयं (dhrayaṃ), noun, neuter, singular, nominative
+
+स (sa), सः, pronoun, masculine, singular, nominative
+
+दण्डद्रयात्मककालः (daṇḍadrayātmakakālaḥ), compound tatpuruṣa,
+   दण्ड (daṇḍa), noun, masculine, singular, nominative,
+   द्रयात्मक (drayātmak), adjective, singular, nominative,
+   काल (kāla), noun, masculine, singular, nominative
+
+अतिवेधः (ativedhaḥ), अति + वेधः,
+   अति (ati), prefix, indeclinable
+   वेध (vedha), noun, masculine, singular, nominative
+
+रविप्र (ravipra), compound: tatpuruṣa,
+   रवि (ravi), noun, masculine, singular, nominative,
+   प्र (pra), prefix/indeclinable
+
+भासस्य (bhāsasya), भासः, noun, masculine, singular, genitive
+
+दर्शनात् (darśanāt), दर्शन (darśana), noun, masculine, singular, ablative
+
+अनन्तरम् (anantaram), अनन्तरम्, indeclinable/adverbial noun, accusative/locative
+
+अर्थे (arthe), अर्थः, noun, masculine, singular, locative
+
+सूर्य (sūrya), noun, masculine, singular, nominative
+
+उदिते (udite), उदित (√ud-), verbal adjective, masculine, singular, locative
+
+महावेध (mahāvedha), compound: tatpuruṣa,
+   महा (mahā), adjective, singular, nominative
+   वेध (vedha), noun, masculine, singular, nominative
+
+इति (iti), indeclinable, particle (quotation or assertion)
+
+बुधैः (budhaiḥ), बुद्धि, noun, masculine, plural, instrumental
+
+कालवेर्तृभिः (kālavertṛbhiḥ), काल + वर्तृ,
+   काल (kāla), noun, masculine, singular, genitive/locative
+   वर्तृ (vartṛ), noun, masculine, plural, instrumental
+
+इर्यते (iryate), verb, √īṛ (to go), 3rd person singular, present middle/passive
+
+योगः (yogaḥ), योगः, noun, masculine, singular, nominative
+
+तुरीयः (turīyaḥ), adjective, singular, nominative
+
+तु (tu), indeclinable, particle (but)
+
+दिवा (divā), indeclinable/adverb
+
+करोदय (karodaya), compound tatpuruṣa,
+   कर (kara), noun, masculine, singular, nominative/locative
+   उदय (udaya), noun, masculine, singular, nominative/locative
+
+ते (te), pronoun, plural, nominative
+
+अर्वाक् (arvāk), indeclinable (possibly a variant or compound term)
+
+सुदोष (sudoṣa), compound tatpuruṣa,
+   सु (su), prefix
+   दोष (doṣa), noun, masculine, singular, nominative/accusative
+
+अतिशय (atiśaya), noun, masculine, singular, nominative/accusative
+
+अर्थ (artha), noun, masculine, singular, nominative/accusative
+
+बोधकाः (bodhakāḥ), noun, masculine, plural, nominative
+
+सर्वे (sarve), adjective/pronoun, plural, nominative
+
+अपि (api), indeclinable, particle
+
+वेधा (vedhā), noun, masculine, plural, nominative
+
+मुनिभिः (munibhiḥ), मुनि, noun, masculine, plural, instrumental
+
+विनिश्चिता (viniścitā), past participle, feminine, singular/plural nominative (agreeing with वेधा?)
+
+निर्णेतृभिः (nirṇetṛbhiḥ), noun, masculine, plural, instrumental
+
+तस्य (tasya), pronoun, masculine, singular, genitive
+
+तु (tu), indeclinable, particle
+
+तत्त्वदर्शिभिः (tattvadarśibhiḥ), compound tatpuruṣa,
+   तत्त्व (tattva), noun, neuter, singular, genitive
+   दर्शिन् (darśin), noun, masculine, plural, instrumental
+
+Literal translation (with grammatical notes):
+
+There (तत्र, locative) from the prior viewing (दर्शनाद्-पूर्व) of sunlight (सूर्यप्रकाश), the so-called ten-unit entity (घटीद्रयं) that is of the danda-group (दण्डद्रयात्मक) time (कालः) is an intense (अति) observation (वेधः), of the light of the sun (रविप्र-भासस्य). For the purpose after the viewing (दर्शनात्-नन्तरम्-अर्थे), when the sun has risen (सूर्य उदिते), it is called great observation (महावेधा) as declared (इति) by the wise (बुधैः), by the time-deciders (कालवेर्तृभिः), it is counted (इर्यते). The yoga (योगः) called the fourth (तुरीयः), however (तु), at the sunrise (दिवा करोदय), these (ते) are the teachers who reveal the errors (दोषातिशय-ार्थ-बोधकाः). All (सर्वे अपि) the observations (वेधा) have been precisely (विनिश्चिता) determined (निर्णीतृभिः) by sages (मुनिभिः), but (तु) by truth-seers (तत्त्वदर्शिभिः).
+
+Smooth English translation:
+
+There, prior to the sight of the sunlight, the ten-part time segment of the danda group is an extreme observation of the sun’s light. After the sun rises, this is called the great observation, as established by the wise time-keepers. The fourth yoga, however, occurring at sunrise, are the scholars who reveal the excesses and faults. All observations have been decisively determined by sages, but ultimately by those who see the truth.

@@ -1,0 +1,24 @@
+SOURCE_PAGES: page_0052.txt
+
+=== मूलपाठः ===
+
+
+धन्यो नो मङ्गलौघं सपदि सुकुरुताद्रामशस्त्ास्सङ्खः ।।३।। *
+
+dhanyo no maṅgalaughaṃ sapadi sukurutādrāmaśastās saṅkhaḥ ।।3।।
+
+धन्यो (dhanyo), धन्य (dhanya, adjective, nominative singular masculine)
+नो (no), अहम् (aham), pronoun, first person plural exclusive/genitive/dative etc. here likely dative or genitive plural
+मङ्गलौघं (maṅgalaughaṃ), मङ्गलौघ (maṅgalaugha), neuter singular accusative (compound, likely tatpuruṣa)
+सपदि (sapadi), sapad (indeclinable adverb)
+सुकुरुताद्रामशस्त्ास्सङ्खः (sukurutādrāmaśastās saṅkhaḥ) — appears to be a compound word formed by क्रमः or समास:
+- सुकुरुत (sukurut), masculine nominative singular, possibly tatpuruṣa ("good/dexterous action/maker")
+- आद्राम (ādrāma), masculine nominative singular, base unclear (likely an epithet or proper noun)
+- शस्त् (śast), from शस् (śas), verbal root with participial ending, masculine nominative singular (active agent)
+- आस्सङ्खः (assaṅkhaḥ), possibly स्अस्सङ्खः (which includes स + सङ्खः) or a compound, nominative singular masculine.
+
+Literal translation: "Fortunate to us the auspicious burden suddenly (is) the well-done and masterfully wielded decorated conch." (Note: grammatical and lexical ambiguities present)
+
+The good, auspicious burden, suddenly well-struck and decorated conch, is a blessing for us.
+
+(Note: This verse and the word 'सुकुरुताद्रामशस्त्ास्सङ्खः' appear to be highly compound and obscure; this is the closest literal and smooth translation.)

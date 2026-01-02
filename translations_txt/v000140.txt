@@ -1,0 +1,37 @@
+SOURCE_PAGES: page_0210.txt
+
+=== मूलपाठः ===
+
+
+जीवो द्विधाऽमन्यत बद्धमुक्तभेदेन पूर्वेस्तु महर्षिवर्यैः ।
+बद्धोऽपि तत्र द्विविधो मुमुक्षुबुभुक्षुभेदाद्रदितो मतज्ञैः ।।१४० ।।
+
+jīvo dvidhā'manyata baddhamuktabhedena pūrvestu maharṣivaryaiḥ ।
+baddho'pi tatra dvidhayo mumukṣububhukṣubhedādradito matajñaiḥ ॥140॥
+
+jīvaḥ (jīva, masc., nominative singular)  
+dvidhā (dvidhā, indeclinable adverb)  
+amanya (manyate, verb root 'man', verb, 3rd person singular, present indicative, middle voice)  
+t (attachment of enclitic -'t) from iti (particle)  
+baddha (baddha, past participle, masc., nominative singular)  
+mukta (mukta, past participle, masc., nominative singular)  
+bhedena (bheda, masc., instrumental singular)  
+pūrve (pūrva, masc., nominative plural, locative possible)  
+tu (tu, indeclinable conjunction)  
+maharṣi (maharṣi, masc., instrumental plural)  
+varyaiḥ (varya, masc., instrumental plural)  
+baddhaḥ (baddha, masc., nominative singular)  
+api (api, indeclinable particle)  
+tatra (tatra, indeclinable adverb)  
+dvidhā (dvidhā, indeclinable adverb)  
+mumukṣu (mumukṣu, masc., nominative singular)  
+bubhukṣu (bubhukṣu, masc., nominative singular)  
+bhedāt (bheda, masc., instrumental singular + ablative -āt)  
+raditaḥ (radita, past participle, masc., nominative singular)  
+matajñaiḥ (matajña, masc., instrumental plural)  
+
+The jīva (living being) is 2-fold understood (anyata, "considered") by distinctions of bound and free (baddha-mukta-bhedena). But in former times by great sages and best ones (pūrve tu maharṣivaryaiḥ).  
+The bound one also there is 2-fold, by the difference of mumukṣu (desirer of liberation) and bubhukṣu (desirer of enjoyment), marked (raditaḥ) by knowledgeable thinkers (matajñaiḥ).  
+
+The living being is considered twofold by the difference of bound and free, but in former times, by the great sages and excellent ones.  
+The bound living being is also twofold there, classified by the difference between the liberation-seeker and the enjoyer, as determined by the knowledgeable.

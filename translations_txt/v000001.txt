@@ -1,0 +1,65 @@
+SOURCE_PAGES: page_0040.txt
+
+=== मूलपाठः ===
+
+
+श्रीमन्तं श्रुतिवेद्यमद्श्ुतगुणग्रामाग्यरलाकरं
+प्रयः स्वेक्षणसंसुलज्ितमहीजाताक्षिकोणेक्षितम् ।
+भक्तारोषमनोभिवाज्छितचतुर्व्गप्रदं स्वर्द्धमं
+रामं स्मेरमुखाम्बुजं शुचिमहानीलाश्मकान्तिं भजे ।।१।।
+
+śrīmantaṃ śrutivedyamadśutaguṇagrāmāgyaralākaraṃ
+prayaḥ svekṣaṇasaṃsulajitamahījātākṣikoṇekṣitam ।
+bhaktāroṣamanobhibhājchitacaturvagapradaṃ svarddhaṃ
+rāmaṃ smeramukhāmbujaṃ śucimahānīlāśmakāntiṃ bhaje ।।1।।
+
+śrīmantaṃ (śrīmanta, adj., acc. sg. m.) — wealthy, splendid  
+śrutivedya (śrutivedya, adj., acc. sg. m.) — known by scriptures and Vedas  
+amadśutaguṇagrāmāgyaralākaraṃ (compound: tatpuruṣa)  
+  amadśuta (amadśuta, adj., none in dictionary; likely a compound part: a- (neg.) + madśuta?), guessed as “free from intoxication”  
+  guṇa (guṇa, m., nom. sg.) — quality  
+  grāma (grāma, m., nom. sg.) — village  
+  agya (ājñā, f., nom. sg.) — command/order  
+  rala (rala, adj., rare) — sticky or binding  
+  ākaraṃ (ākara, m., acc. sg.) — hand, arm, limb (also "symbol" or "mark")  
+prayaḥ (prayaḥ, m., nom. sg.) — effort, advance  
+svekṣaṇa (svekṣaṇa, n., nom. sg.) — own sight, outlook  
+saṃsulajitamahījātākṣikoṇekṣitam (compound)  
+   saṃsulajita (past ptc. from saṃ+laj, "to entangle", adj.) — entangled  
+   mahi (mahī, f., nom. sg.) — earth  
+   jāta (jāta, adj., nom. sg. m.) — born, originated  
+   akṣikoṇa (akṣikoṇa, m., nom. sg.) — axis  
+   ikṣitam (ikṣita, perf. ptc. n. sg.) — seen, observed
+
+bhakta (bhakta, adj., nom. pl. m.) — devoted  
+roṣa (roṣa, m., nom. sg.) — anger  
+manobhibhāja (compound: tatpuruṣa)  
+  mano (manas, n., nom./acc. sg.) — mind  
+  bhibhāja (bhibhāj, verb root; here perhaps participle) — dividing, distributing  
+chita (chita, adj., nom. sg. m.) — united, arranged  
+caturvaga (caturvarga, m., nom. sg.) — four-fold group/class  
+pradaṃ (prada, adj., acc. sg. m.) — giving  
+svarddhaṃ (svarddha, n., acc. sg.) — wealth, prosperity  
+rāmaṃ (rāma, m., acc. sg.) — Rama (personal name)  
+smara (smera, m., nom. sg.) — smiling  
+mukhāmbujaṃ (compound: bahuvrīhi)  
+   mukha (mukha, n., nom. sg.) — face  
+   ambuja (ambuja, m., acc. sg.) — lotus  
+śuci (śuci, adj., acc. sg. m.) — pure  
+mahānīlā (mahānīlā, adj., acc. sg. m.) — great blue  
+aśmakāntiṃ (aśmakānti, f., acc. sg.) — light/shining of the eye  
+bhaje (bhaj, verb root; 1st pers. sg. pres. ind.) — I worship
+
+Literal translation (with grammatical notes in parentheses):
+
+Wealthy (acc. sg. m.) and known from the scriptures and Vedas (acc. sg. m.), free from intoxication and the cluster of qualities like a village, command, and sticky hand (acc. sg. m.),  
+effort (nom. sg.), with his own vision, entangled born earth axis observed (nom./acc. sg.),  
+devotees' anger mind dividing united four-class giving wealth (acc. sg.),  
+Rama (acc. sg.), smiling lotus-faced, pure great blue-eyed shining, I worship (1st pers. sg. pres.).
+
+Smooth English translation:
+
+I worship Rama, who is wealthy and revered in the scriptures and Vedas, free from intoxication and adorned with qualities like those of a village and command;  
+who advances with a keen inner vision, perceiving deeply the entangled nature of the earthly realm and its axis;  
+who dispels the anger of devotees, unites their minds, grants the fourfold blessings, and bestows prosperity;  
+Rama, smiling with a face like a lotus, pure, with great blue eyes shining brightly.

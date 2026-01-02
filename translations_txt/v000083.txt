@@ -1,0 +1,60 @@
+SOURCE_PAGES: page_0146.txt
+
+=== मूलपाठः ===
+
+
+तत्र सूर्यप्रकाशदर्शनादपूर्व यद् घटीद्रयं स दण्डद्रयात्मककालोऽतिवेधः, रविप्र भासस्य  
+दर्शनादनन्तरमर्थे सूर्य उदिते महावेध इति बुधैः कालवेर्तृभिरीर्यते।  
+योगस्तुरीयस्तु दिवाकरोदये तेऽर्वाक्सुदोषातिशयार्थबोधकाः ।  
+सर्वेऽपि वेधा मुनिबिर्विनिश्चिता निर्णेतृभिस्तस्य तु तत्त्वदर्शिभिः ।।८०।।  
+
+tatra sūryaprakāśadarśanādapūrva yad ghaṭīdrayaṃ sa daṇḍadrayātmakakālo'tivedhaḥ, ravipra bhāsasya  
+darśanādanantaramarthe sūrya udite mahāvedha iti budhaiḥ kālavertṛbhiriryate।  
+yogasturīyastu divākarodaye te'rvāksudoṣātiśayārthabodhakāḥ ।  
+sarve'pi vedhā munibirvinisci tā nirṇetṛbhistasya tu tattvadarśibhiḥ ।।80।।  
+
+tatra (tatra) - indeclinable; locative singular; "there"  
+sūryaprakāśadarśanādapūrva (sūryaprakāśadarśana + ād + apūrva) - sūrya (m.) 'sun', prakāśa (m.) 'light', darśana (m.) 'seeing/viewing', ād (indeclinable, ablative), apūrva (adj.) 'previous' - ablative singular; 'before the seeing of the sunlight' (tatpuruṣa compound)  
+yad (yad) - relative pronoun, nominative singular neuter - 'that which'  
+ghaṭīdrayam (ghaṭī + draya) - ghaṭī (f.) 'time unit', draya (m.) 'group/collection' - accusative singular neuter compound (tatpuruṣa) - 'a collection of ghaṭīs (time units)'  
+sa (sa) - pronoun, nominative singular masculine - 'that'  
+daṇḍadrayātmaka (daṇḍa + draya + ātmaka) - daṇḍa (m.) 'rod/stick', draya (m.) 'group', ātmaka (adj.) 'consisting of' - adjective agreeing with kāla - 'consisting of a collection of daṇḍas' (tatpuruṣa compound)  
+kālaḥ (kāla) - m., nominative singular - 'time'  
+‘ati’ (prefix) + vedhaḥ (√vidh 'pierce/observe', perfect participle, nominative singular masculine) - 'intense observer/observer in excess'  
+ravipra (ravi + pra) - ravi (m.) 'sun', pra (prefix) — compound (tatpuruṣa) adjective modifying bhāsa - 'related to sun'  
+bhāsasya (bhāsa) - m., genitive singular - 'of light'  
+darśanāt (darśana) - m., ablative singular - 'from the viewing'  
+anantaram (anantara) - indeclinable/adjective accusative singular neuter - 'immediately after'  
+arthe (artha) - m., locative singular - 'for the purpose'  
+sūrya (sūrya) - m. nominative singular - 'sun'  
+udite (udita) - verb participle perfect passive nominative singular masculine - 'risen'  
+mahāvedha (mahā + vedha) - maha (adj.) 'great', vedha (m.) 'observation' nominative singular masculine - 'great observer'  
+iti (iti) - indeclinable, particle 'thus'  
+budhaiḥ (budha) - m. plural instrumental - 'by wise men'  
+kālavertṛbhiḥ (kāla + vartṛ) - kāla (m.) 'time', vartṛ (m.) 'controller' instrumental plural compound (tatpuruṣa) - 'by the controllers of time'  
+iryate (√ṛ 'arrive/go', passive present) - 'is considered'  
+yogaḥ (yoga) - m. nominative singular - 'union'  
+turīyaḥ (turīya) - adj. nominative singular masculine - 'fourth'  
+tu (tu) - indeclinable 'but'  
+divākara-udaye (divākara + udaya) - divākara (m.) 'sun', udaya (m.) 'rise' locative singular - 'at sunrise'  
+te (te) - pronoun nominative plural masculine - 'those'  
+arvāksa (arvāksu) - m. plural instrumental - 'from faults/errors'  
+doṣa (doṣa) - m. plural instrumental - 'defects/faults'  
+ātiśaya (ātiśaya) - m. plural instrumental - 'extremes/excess'  
+artha (artha) - m. plural instrumental - 'meaning'  
+bodhakāḥ (bodhaka) - m. plural instrumental - 'knowers/understanders'  
+sarve (sarva) - pronoun nominative plural masculine - 'all'  
+api (api) - indeclinable 'also'  
+vedhāḥ (vedha) - m. nominative plural - 'observers'  
+munibhiḥ (muni) - m. instrumental plural - 'by sages'  
+vinisci tā (√niścaya 'decide/resolve', passive participle instrumental plural) - 'confirmed by'  
+nirṇetṛbhiḥ (nirṇetṛ) - m. instrumental plural - 'by determiners/judges'  
+tasya (tad) - pronoun genitive singular - 'of that'  
+tu (tu) - indeclinable 'but'  
+tattvadarśibhiḥ (tattvadarśi) - m. instrumental plural - 'by seers of truth'  
+
+Literal translation:  
+There, before the viewing of the sunlight, that collection of ghaṭīs, that time consisting of collections of sticks (daṇḍa), is the intense observer, related to the light of the sun. For the purpose immediately after the viewing, when the sun has risen, it is called the great observer by the wise men, by the controllers of time it is considered. But the fourth yoga at sunrise is those who are knowers of the extreme faults (errors). All the observers also are confirmed by sages and determiners, but by seers of truth.  
+
+Smooth English translation:  
+There, prior to witnessing the sunlight, the period measured in ghaṭīs, known as the time composed of daṇḍa units, is considered the intense observer connected to the sun’s light. Immediately following the sunrise, this is referred to as the great observer by the wise, and is recognized by the controllers of time. The fourth yoga at sunrise is understood by those who perceive the extremes of faults. All observers are confirmed by sages and adjudicators, but ultimately by the seers of ultimate truth.

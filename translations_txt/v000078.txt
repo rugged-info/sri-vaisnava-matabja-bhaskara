@@ -1,0 +1,117 @@
+SOURCE_PAGES: page_0145.txt
+
+=== मूलपाठः ===
+
+
+उषःकालो भवति। तस्मिन् दण्डे व्यतीते यश्चतुर्दण्डात्मकालोऽवशिष्यते सोऽरुणोदयकालः,
+सप्तपञ्चाशत्तमदण्डेऽतिक्रान्ते यो दण्डत्रयात्मककालष्िष्यते स प्रत्यूषकालस्ततोऽर्ध-
+सूर्योदयानन्तरं शिष्टः सर्वोऽपि कालः सूर्योदयकालः प्रोच्यते। यथीक्तं ज्योतिर्विद्धिः 'पञ्चपञ्च
+उषः कालः षट्पञ्च अरुणोदयः। सप्तपन्च भवेत्प्रातः शेषः सूर्योदयः स्मृतः" इति। अत्र निगद्यत
+इति कर्मक्रियायास्तिषु पादेष्वन्वयः। पञ्चपञ्चप्रमित इत्यादीनामुदेश्यत्वम् 'उषः अरुणोदयः
+प्रातः" इत्येतेषां सञ्ज्ात्वाद्विधेयत्वं ज्ेयम्। बाणवाचकेषुशब्दः पञ्चसङ्ख्यापरः, तेन सप्तेषुपित
+इत्यस्य सप्तपञ्चमित इत्यर्थः।
+घटीचतुष्कं ह्यरुणोदयाभिधः प्रातर्विमृष्टः समयो महर्षिभिः ।
+तथाऽत्र वेधप्रभृतेर्विपश्चितः प्राहूर्विभागाञ्चतुरो विवेकतः ।।७८।।
+
+uṣaḥ-kālo bhavati। tasmin daṇḍe vyatīte yaśchaturdaṇḍātmakālo’vaśiṣyate so’ruṇodayakālaḥ,
+saptapañcāśattamadaṇḍe’tikrānte yo daṇḍatrayātmakakālaṣṣiṣyate sa pratyūṣakālastato’rdha-
+sūryodayānantaraṃ śiṣṭaḥ sarvo’pi kālaḥ sūryodayakālaḥ procyate। yathīktaṃ jyotirviddhiḥ 'pañcapañca
+uṣaḥ kālaḥ ṣaṭpañca aruṇodayaḥ। saptapancha bhavetprātaḥ śeṣaḥ sūryodayah smṛtaḥ" iti। atra nigadyata
+iti karmakriyāyāstiṣu pādeṣvanvayaḥ। pañcapañcapramita ityādīnāmud-eśyatvam 'uṣaḥ aruṇodayaḥ
+prātaḥ" ityeteṣāṃ sañjātvādvidheyatvaṃ jñeyam। bāṇavācakeṣuśabdaḥ pañcasaṅkhyāparaḥ, tena saptēṣupita
+ityasya saptapañcamita ityarthaḥ।
+ghaṭīcatuṣkaṃ hyaruṇodayābhidhaḥ prātarvimṛṣṭaḥ samayo maharṣibhiḥ ।
+tathā’tra vedhaprabhṛtervipashcitaḥ prāhūrvibhāgāñcatura vivekataḥ ॥78॥
+
+उषःकालः (uṣaḥ-kālaḥ), उषः (uṣaḥ), masculine, singular, nominative, 'dawn-time' + कालः (kālaḥ), masculine, singular, nominative, 'time';  
+भवति (bhavati), भव् (bhū), verb root, present tense, indicative mood, active voice, third person singular, 'is' / 'becomes';  
+तस्मिन् (tasmin), तस् (tat) + इन् (locative singular), demonstrative pronoun, neuter, singular, locative case, 'in that';  
+दण्डे (daṇḍe), दण्ड (daṇḍa), masculine, singular, locative case, 'stick' / 'staff';  
+व्यतीते (vyatīte), व्यतीतः (vyatīta), past participle, masculine, singular, locative case, 'having passed over';  
+यः (yaḥ), relative pronoun, masculine, singular, nominative case, 'who';  
+चतुर्दण्डात्मकः (caturdaṇḍātmakah), compound (tatpuruṣa), composed of चतुर् (catur, 'four'), दण्ड (daṇḍa, 'stick'), आत्म (ātma, 'self'/'consisting'), adjective, masculine, singular, nominative, 'consisting of four sticks';  
+अवशिष्यते (avaśiṣyate), अवशि‍ष् (avaśiṣ), verb root, present tense, middle voice, indicative, 3rd person singular, 'remains';  
+सः (saḥ), pronoun, masculine, singular, nominative, 'he';  
+अरुणोदयकालः (aruṇodayakālaḥ), compound (tatpuruṣa), अरुणोदय (aruṇodaya, 'sunrise'), कालः (kālaḥ, 'time'), masculine, singular, nominative, 'the time of sunrise';  
+सप्तपञ्चाशत्तम (saptapañcāśattama), compound numeral, सत्त (sapta, 'seven') + पञ्चाशत् (pañcāśat, 'fifty') + तम (superlative suffix), masculine, singular, locative, 'in the fifty-seventh';  
+दण्डे (daṇḍe), see above;  
+अतिक्रान्ते (atikrānte), past participle adjective, masculine, singular, locative, 'having crossed over';  
+यः (yaḥ), relative pronoun, masculine, singular, nominative, 'who';  
+दण्डत्रयात्मक (daṇḍatrayātmak), compound (tatpuruṣa), दण्ड (stick) + त्रय (traya, 'three') + आत्मक (ātmak, 'consisting'), adjective, masculine, singular, nominative, 'consisting of three sticks';  
+कालः (kālaḥ), masculine, singular, nominative, 'time';  
+अशिष्यते (aśiṣyate), same as अवशिष्यते above (although here it is written as ष्, the meaning is 'remains');  
+सः (saḥ), pronoun, masculine, singular, nominative, 'he';  
+प्रत्यूषकालः (pratyūṣakālaḥ), compound (tatpuruṣa), प्रत्यूष (pratyūṣa, 'dawn') + कालः (kālaḥ, 'time'), masculine, singular, nominative, 'the time of dawn';  
+ततः (tataḥ), adverb, 'thereafter';  
+अर्धसूर्योदयानन्तरं (ardhasūryodayānantaraṃ), compound (tatpuruṣa), अर्ध (ardha, 'half') + सूर्योदय (sūryodaya, 'sunrise') + अनंतरं (anantaraṃ, 'after'), neuter, singular, accusative, 'after half the sunrise time';  
+शिष्टः (śiṣṭaḥ), past passive participle adjective, masculine, singular, nominative, 'finished' / 'ended';  
+सर्वः (sarvaḥ), adjective/pronoun, masculine, singular, nominative, 'all';  
+अपि (api), indeclinable, particle, 'also';  
+कालः (kālaḥ), masculine, singular, nominative, 'time';  
+सूर्योदयकालः (sūryodayakālaḥ), compound as above, 'sunrise time';  
+प्रोच्यते (procyate), verb root, present passive indicative, 3rd person singular, 'is called';  
+यथीक्तम् (yathīktaṃ), indeclinable, conjunction, 'as stated';  
+ज्योतिर्विद्धिः (jyotirviddhiḥ), compound (bahuvrīhi), ज्योति (jyoti, 'light') + विद् (vid, 'knower'), masculine, singular, nominative, 'one who knows the light' (here meaning 'the treatise on light');  
+पञ्चपञ्च (pañcapañca), numeral compound, 'five and five' (twenty-five);  
+उषः (uṣaḥ), see above, masculine, singular, nominative, 'dawn';  
+कालः (kālaḥ), see above;  
+षट्पञ्च (ṣaṭpañca), numeral compound, 'six and five' (eleven);  
+अरुणोदयः (aruṇodayaḥ), masculine, singular, nominative, 'sunrise';  
+सप्तपञ्च (saptapancha), numeral compound, 'seven and five' (twelve);  
+भवेत् (bhavet), verb root, potential mood, 3rd person singular, 'may be';  
+प्रातः (prātaḥ), masculine, singular, nominative, 'morning';  
+शेषः (śeṣaḥ), masculine, singular, nominative, 'remainder';  
+सूर्योदयः (sūryodayaḥ), masculine, singular, nominative, 'sunrise';  
+स्मृतः (smṛtaḥ), past passive participle adjective, masculine singular, nominative, 'mentioned'/'remembered';  
+इति (iti), particle, 'thus';  
+त्र (atra), adverb, 'here';  
+निगद्यत (nigadyata), verb root निगद् (nigad), past passive participle, 'having been said';  
+इति (iti), as above;  
+कर्मक्रियायाः (karmakriyāyāḥ), कर्मक्रीय (karmakriyā), feminine, singular, genitive, 'of action';  
+तिṣu (tiṣu), प्रेस्कन्द (prathama) plural locative ending, 'in the feet (meters)';  
+पादेषु (pādeṣu), पाद (pāda), masculine, plural, locative, 'in feet (of meter)';  
+अन्वयः (anvayaḥ), masculine, singular, nominative, 'connection'/'sequence';  
+पञ्चपञ्चप्रमित (pañcapañcapramita), compound (tatpuruṣa), from पञ्च (pañca, 'five') repeated + प्रमित (pramita, 'measured'), adjective, 'of measure five and five';  
+इत्यादीनाम् (ityādīnām), indeclinable+noun, genitive plural, 'and so on';  
+उदेश्यत्वम् (udeśyatvam), neuter, singular, nominative, 'intention';  
+उषः (uṣaḥ), see above;  
+अरुणोदयः (aruṇodayaḥ), see above;  
+प्रातः (prātaḥ), see above;  
+इत्येतेषाम् (ityeteṣām), pronoun, genitive plural, 'of these';  
+सञ्जात्वात् (sañjātvāt), verbal noun (gerund) + ablative, 'having been known';  
+विधेयत्वं (vidheyatvaṃ), neuter, singular, nominative, 'obedience' / 'must be followed';  
+ज्ञेयम् (jñeyam), verbal adjective, neuter singular, nominative, 'must be known';  
+बाणवाचकेषु (bāṇavācakeṣu), बाणवाचक (bāṇavācaka), masculine plural locative, 'in utterances/speeches';  
+शब्दः (śabdaḥ), masculine, singular nominative, 'word';  
+पञ्चसङ्ख्यापरः (pañcasaṅkhyāparaḥ), compound, adjective, masculine singular nominative, 'other than the number five', 'relating to five';  
+तेन (tena), pronoun, singular instrumental, 'by that';  
+सप्तेषु (sapteṣu), numeral declension, locative plural, 'in seven';  
+उपित (upita), past passive participle adjective, 'applied' / 'suffixed';  
+इत्यस्य (ityasya), pronoun, genitive singular, 'of this';  
+सप्तपञ्चमित (saptapañcamita), compound, adjective, 'fifty-seven measured/numbered';  
+इत्यर्थः (ityarthaḥ), masculine singular nominative, 'meaning';  
+घटीचतुष्कं (ghaṭīcatuṣkaṃ), compound adjective, neuter singular accusative, 'of four ghaṭīs' (time unit);  
+हि (hi), emphatic particle, indeclinable;  
+अरुणोदयाभिधः (aruṇodayābhidhaḥ), compound adjective, masculine singular nominative, 'named as sunrise';  
+प्रातर् (prātar), temporal noun, locative singular, 'in the morning';  
+विमृष्टः (vimṛṣṭaḥ), past passive participle adjective, masculine singular nominative, 'chosen';  
+समयः (samayaḥ), masculine singular nominative, 'time';  
+महर्षिभिः (maharṣibhiḥ), masculine plural instrumental, 'by great sages';  
+ तथा (tathā), adverb, 'thus';  
+अत्र (atra), adverb, 'here';  
+वेधप्रभृतेः (vedhaprabhṛteḥ), compound masculine singular instrumental, 'chief of Vedha (piercing/defining)';  
+विपश्चितः (vipaścitaḥ), adjective masculine singular nominative, 'learned/wise';  
+प्राहूः (prāhūḥ), verb root 'brū' (to speak), past tense, plural, active, 'they spoke';  
+विभागाञ्च (vibhāgāñca), विभाग (vibhāga) masculine plural nominative + च, 'and the four parts';  
+चतुः (catuḥ), numeral adjective, masculine plural nominative, 'four';  
+विवेकतः (vivekataḥ), noun masculine singular nominative, 'by discretion/wise decision'.
+
+Literal translation (with grammatical notes):
+The dawn-time (uṣaḥ-kālaḥ, masculine singular nominative) becomes/is (bhavati, 3rd person singular present) (i.e. it is dawn). In that (tasmin, locative singular) stick/time division (daṇḍe, locative singular), having passed (vyatīte, locative singular past participle), who (yaḥ, relative pronoun) is four-stick-like (chaturdaṇḍātmakāḥ, masculine singular nominative) remaining (avaśiṣyate, 3rd person singular middle present), he (saḥ) is the time of sunrise (aruṇodayakālaḥ). At the fifty-seventh stick (saptapañcāśattama daṇḍe, locative), having crossed (atikrānte), who (yaḥ) is three-stick-like (daṇḍatrayātmakakālaḥ) remaining, he (saḥ) is the dawn-time (pratyūṣakālaḥ), thereafter (tataḥ), after half-sunrise (ardhasūryodayānantaraṃ), ended (śiṣṭaḥ), all (sarvaḥ) also (api) time (kālaḥ) is called sunrise-time (sūryodayakālaḥ procyate). As stated (yathīktaṃ), O knowers of light (jyotirviddhiḥ), "five plus five is dawn-time; six plus five is sunrise; seven plus five is morning; the remainder is remembered as sunrise" thus. Here (atra), it is said (nigadyata) thus. In the feet (pādāḥ, plural of pāda in meter) of action (karmakriyāyāḥ), the connection is (anvayaḥ). For the intended meaning of "five plus five measure" and so on, dawn, sunrise and morning are (uṣaḥ aruṇodayaḥ prātaḥ) are to be known thus, and obedience must be learned. In words of the arrow-speaker (bāṇavācakeṣu), the word is related to the number five (pañcasaṅkhyāparaḥ), thus applied to seven (sapteṣu upita), meaning "fifty-seven measured" (saptapañcamita).  
+Four ghaṭīs indeed (ghaṭī catuṣkaṃ hi), is the name given to sunrise (aruṇodayābhidhaḥ), the chosen morning time (prātar vimṛṣṭaḥ), by great sages (maharṣibhiḥ).  
+Thus here (tathā’tra), the chief Vedha (piercing knowledge) learned (vipashcitaḥ), have spoken (prāhūḥ), also the four portions (vibhāgāñ catuḥ), by discretion (vivekataḥ).
+
+Smooth English translation:
+The dawn-time occurs. In that division called a daṇḍa, after passing one, the time consisting of four daṇḍas that remains is the sunrise time. At the fifty-seventh daṇḍa, after crossing it, the time consisting of three daṇḍas that remains is the dawn-time. Then, after half the sunrise, when it is finished, all the time is said to be the sunrise time. As stated in the treatise on light: "Five plus five is dawn time; six plus five is sunrise; seven plus five is morning; the remainder is remembered as sunrise." Here it is declared thus. In the metrical feet of the actions, the sequence is established. From the intended meanings such as 'five plus five measured', 'dawn', 'sunrise', 'morning' must be known and obeyed. In the words of the arrow-speaker, the term relates to the number five; thus, applied to seven, it means fifty-seven measured.  
+Four ghaṭīs indeed is the name given to sunrise, the chosen time in the morning by great sages.  
+Thus here, the chief of Vedha and the learned ones have spoken about the four parts with discretion.

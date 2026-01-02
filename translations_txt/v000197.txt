@@ -1,0 +1,48 @@
+SOURCE_PAGES: page_0276.txt
+
+=== मूलपाठः ===
+
+
+श्रैताद्रौ त्वथ सिंहरूपिणसमथी श्रीधर्मपुर्या तथा  
+योगानन्दमशेषदेवसुनतं श्रीकाकुले तु प्रभुम् ।  
+देवेर्वन्द्यमथान्ध्रनायकमिह श्रीदं तथाऽहोबिले  
+तस्मिञ् श्रीगरुडादिसजञ्ज्ञ उचिते देवं हिरण्यार्दनम् ।।१९७।।
+
+śraitādrau tva tha siṁharūpiṇasamathī śrīdharmapuryā tathā  
+yogānandamaśeṣadevasunataṁ śrīkākule tu prabhum  
+devervandyamathāndhranāyakam iha śrīdaṁ tathā'ḥobile  
+tasmiñ śrīgaruḍādisajañjña ucite devaṁ hiraṇyārdanam ॥197॥
+
+श्रैताद्रौ (śraitādrau) - śraitā + drau; dual locative/vocative? (compound unclear, possibly bahuvrīhi),  
+त्व (tva) - tvad, pronoun, 2nd person singular nominative/vocative, indeclinable (particle/emphasis),  
+अथ (atha) - atha, indeclinable, "then", particle,  
+सिंहरूपिणसमथी (siṁharūpiṇasamathī) - siṁha-rūpiṇa + samathī; bahuvrīhi compound: siṁha (lion, masc), rūpiṇa (having form/shape), samathī (calm/steady one, fem), singular nominative feminine;  
+श्रीधर्मपुर्या (śrīdharmapuryā) - śrī-dharma-puryā; tatpuruṣa locative singular feminine (from śrī-dharma-pura, "glorious dharma city");  
+तथा (tathā) - tathā, indeclinable, "thus", "also", particle;  
+
+योगानन्दमशेषदेवसुनतं (yogānandamaśeṣadevasunataṁ) - yoga-ananda + maśeṣa + devasunataṁ; complex bahuvrīhi compound, masculine singular accusative; yoga-ananda (joy of yoga), maśeṣa (without remainder/complete), devasunata (dev-sunata = deity praised) "fully praised deity";  
+श्रीकाकुले (śrīkākule) - śrī-kā-kule; locative singular compound, "at the family of Śrīkā", (kula = family),  
+तु (tu) - tu, indeclinable, "but", particle;  
+प्रभुम् (prabhum) - prabhu, noun, masculine singular accusative, "lord";  
+
+देवेर्वन्द्यमथान्ध्रनायकमिह (devervandyamathāndhranāyakam iha) - devaḥ (masc nom sg) + vandya (adhvitiya) "worthy of worship", atha (indcl), andhraprefix nāyaka (leader) masculine singular accusative, iha (indeclinable, "here");  
+श्रीदं (śrīdaṁ) - śrīda (noun, masc neuter singular accusative?), unclear; possibly "auspicious gift" or "wealth";  
+तथाऽहोबिले (tathā'ḥobile) - tathā + ahabile (fem singular locative/ablative/?), compound unclear, possibly "also in Ahobilam", proper noun locative;  
+
+तस्मिञ् (tasmiñ) - tasmin, indeclinable locative singular; "in that",  
+श्रीगरुडादिसजञ्ज्ञ (śrīgaruḍādisajañjña) - śrī-garuḍādi+sajañjña; bahuvrīhi compound: śrī (auspicious) + garuḍādi (starting with Garuḍa) + sajañjña (knowing, acquainted); masculine singular locative/nominative;  
+उचिते (ucite) - ucita, adjective masculine/neuter singular locative, "appropriate", "proper";  
+देवं (devaṁ) - deva, noun masculine singular accusative, "god";  
+हिरण्यार्दनम् (hiraṇyārdanam) - hiraṇy-ārdana; bahuvrīhi compound masculine singular accusative, "the golden-thatcher" (a name of Viṣṇu/Kṛṣṇa), "the remover of gold" (epithet);  
+
+Literal translation:  
+"From the Śrāitā twins, then the lion-shaped calm one, from the glorious city of Dharma likewise,  
+the completely praised deity, the joy of yoga, at the family of Śrīkā indeed the lord,  
+worshipful God and the leader of Andhra here, this auspicious one likewise in Ahobilam,  
+in that, the auspicious one known from Garuḍa and others, in the appropriate place, the God Hiraṇyārdana."
+
+Smooth English translation:  
+"From the Śrāita twins, then the lion-shaped tranquil one, from the glorious city of Dharma as well,  
+the fully praised deity, delight of yoga, at the Śrīkā family indeed the Lord,  
+here the worshipful God, the leader of Andhra, this auspicious one also at Ahobilam,  
+there the auspicious Lord, known from Garuḍa and others, in the proper place, the God Hiraṇyārdana (Vishnu)."

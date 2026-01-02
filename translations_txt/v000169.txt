@@ -1,0 +1,32 @@
+SOURCE_PAGES: page_0238.txt
+
+=== मूलपाठः ===
+
+
+स्रानादिकर्माणि विधाय नित्यं ग्रन्थानमून् संशृणुयादशक्तः।
+श्रीरामसन्नामसुकीर्तनञ्च द्रयानुसन्धानमथो विदध्यात् ।।१६९।। 
+
+srānādikarmāṇi vidhāya nityaṃ granthānamūn saṃśṛṇuyādaśaktaḥ।
+śrīrāmasannāmasukīrtanañca drayānusandhānamatho vidadhyāt।।169।। 
+
+स्रानादि (srānādi), स्रानादि (srāna + ādi), tatpuruṣa compound (with ādi meaning "etc.")
+कर्माणि (karmāṇi), कर्मन् (karma), accusative plural neuter
+विधाय (vidhāya), विधातुम् (vidhā) verbal gerund (absolutive)
+नित्यम् (nityam), नित्य (nitya), adverb
+ग्रन्थान् (granthān), ग्रन्थ (grantha), accusative plural masculine
+ऊन् (ūn), ऊन (ūna), accusative plural masculine (nominal adjective)
+संशृणुयात् (saṃśṛṇuyāt), संशृणु (saṃśṛṇu), optative singular active
+अशक्तः (aśaktaḥ), अशक्त (aśakta), nominative singular masculine adjective
+श्रीरामसन्नामसुकीर्तनम् (śrīrāmasannāmasukīrtanam), श्रीराम (śrīrāma) + सन्नाम (sannāma) + सुकीर्तन (sukīrtana), bahuvrīhi compound accusative singular neuter
+च (ca), indeclinable conjunction "and"
+द्रय (draya), द्रय (draya), accusative singular neuter
+अनुसन्धानम् (anusandhānam), अनुसंधान (anusandhāna), accusative singular masculine
+अथ (atha), indeclinable conjunction "then"
+अथो (atho), indeclinable adverb "then"
+विदध्यात् (vidadhyāt), विध (vidha) verbal optative singular active
+
+Having performed the actions (karmāṇi) starting with bathing etc. (srānādi), always (nityam), the unbroken (ūn) sacred texts (granthān); let the incapable (aśaktaḥ) listen (saṃśṛṇuyāt).
+And the sacred name (śrīrāmasannāmasukīrtanam) of Lord Śrī Rāma, along with the flowing (draya) investigation (anusandhānam), then (atho) let him firmly undertake (vidadhyāt).
+
+Having always performed the preliminary rites such as bathing and so forth, let the incapable listen to the unbroken scriptures.
+And let him then sincerely engage in the chanting of the holy names of Lord Śrī Rāma along with the practice of continuous meditation.

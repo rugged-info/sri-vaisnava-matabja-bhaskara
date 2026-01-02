@@ -1,0 +1,30 @@
+SOURCE_PAGES: page_0209.txt
+
+=== मूलपाठः ===
+
+
+प्राप्तुं परां सिद्धिमकिञ्चनो जनो द्विजातिरिच्छञ्छरणं हरि व्रजेत् ।
+परं दयालु स्वगुणानपेक्षितक्रियाकलापादिकजातिबन्धनम् ।।१३९।।
+
+prāptuṁ parāṁ siddhimakiñcano jano dvajātiricchañchharaṇaṁ hari vrajet |
+paraṁ dayālu svaguṇānapekṣitakriyākalāpādikajātabandhanam ||139||
+
+प्राप्तुं (prāptuṁ), प्राप् (prāp) + तुं (infinitive marker), verbal noun, infinitive  
+परां (parāṁ), पर (para), adjective, accusative singular feminine  
+सिद्धिमकिञ्चनो (siddhimakiñcano), सिद्धि (siddhi) + अकिñचन (akiñcana) compound (tatpuruṣa), nominative singular masculine  
+जनो (jano), जन (jana), noun, nominative singular masculine  
+द्विजातिरिच्छञ्छरणं (dvajātiricchañchharaṇaṁ), द्विजाति (dvijāti) + इच्छ (iccha) + शरणं (śaraṇaṁ) compound (bahuvrīhi), accusative singular neuter  
+हरि (hari), हरि (hari), noun, vocative singular masculine  
+व्रजेत् (vrajet), व्रज् (vraj), verb, optative mood, singular third person, active voice  
+परं (paraṁ), पर (para), adjective, accusative singular neuter  
+दयालु (dayālu), दयालु (dayālu), adjective, nominative singular masculine  
+स्वगुणानपेक्षितक्रियाकलापादिकजातिबन्धनम् (svaguṇānapekṣitakriyākalāpādikajātabandhanam), compound of स्वगुणान् (svaguṇān, svaguṇa + accusative plural neuter), अपेक्षित (apekṣita, past passive participle), क्रियाकलापा( kriyākalāpā) + आदि (ādi, suffix meaning 'and others') + जाति (jāti) + बन्धनम् (bandhanam), noun, accusative singular neuter  
+
+"प्राप्तुं परां सिद्धिमकिञ्चनो जनो द्विजातिरिच्छञ्छरणं हरि व्रजेत् ।"  
+To obtain (infinitive) the supreme perfection (acc. fem. sing.) any person (nom. sing. masc.) of the twice-born caste (acc. neut. sing. bahuvrīhi compound) wishes (optative subjunctive, 3rd pers. sing.) to go to Hari (vocative).  
+
+"परं दयालु स्वगुणानपेक्षितक्रियाकलापादिकजातिबन्धनम् ।।१३९।।"  
+The supreme (acc. neut. sing.) merciful (nom. sing. masc.) one (is) the bondage of caste and others, based on (or requiring) one's own qualities, actions, deeds, etc. (acc. sing. neut., compound).  
+
+To attain the highest perfection, any twice-born person desires to take refuge in Hari.  
+The supreme merciful Lord is the bondage of caste and so forth, based on one's own qualities, actions, and related attachments.

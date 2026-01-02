@@ -1,0 +1,28 @@
+SOURCE_PAGES: page_0213.txt
+
+=== मूलपाठः ===
+
+
+मुमुक्षवोऽपि द्विविधा महर्षिभिः प्रोक्ता अकामाः स्मृतिभक्तिशालिनः।
+वेदोक्तवणश्रिमकर्मकारिणस्तूपासकादिप्रतिभेदभेदिताः ।।१४३।।
+
+mumuṣavo'pi dvividhā maharṣibhiḥ proktā akāmāḥ smṛtibhaktiśālinaḥ।
+vedoktavaṇaśrīmakarmakāriṇastūpāsakādiprathibhedabheditāḥ।।143।।
+
+मुमुक्षवः (mumuṣavaḥ), मुमुक्ष (mūKuṣa) (noun, masculine, nominative plural) - aspirants  
+अपि (api), अपि (particle/indeclinable) - also  
+द्विविधा (dvividhā), द्विविध (adjective, feminine, nominative plural) - twofold, of two kinds  
+मহर्षिभिः (maharṣibhiḥ), महर्षि (noun, masculine, instrumental plural) - by great sages  
+प्रୋक्ताः (proktāḥ), प्रोक्त (past participle of √vac, masculine, nominative plural) - spoken, said  
+अकामाः (akāmāḥ), अकाम (adjective, masculine, nominative plural) - desireless  
+स्मृतिभक्तिशालिनः (smṛtibhaktiśālinaḥ), स्मृति (noun, feminine, nominative singular) + भक्ति (noun, feminine, nominative singular) + शालिन (adjective, masculine, nominative plural) compound tatpuruṣa - endowed with remembrance and devotion  
+
+वेदोक्तवणश्रिमकर्मकारिणः (vedoktavaṇaśrīmakarmakāriṇaḥ), वेद (noun, masculine, nominative plural) + उक्त (past participle of √vac, masculine, nominative plural) + वण (noun, neuter) + श्री (noun, feminine) + कम् (root verbal noun, "karman") + कारीणः (participle, active) compound tatpuruṣa - those who perform actions indicated by the Veda, Vedic, glorious  
+तूपासकादि (tūpāsakādi), तूपासक (noun, masculine, nominative plural) + आदि (indeclinable suffix) - beginning with worshippers  
+प्रतिभेदभेदिताः (pratibhedabheditāḥ), प्रति (prefix) + भेद (noun, masculine) + भेदित (past participle of √bhed, masculine, nominative plural) - differentiated and classified  
+
+Aspirants (mumuṣavaḥ), also (api), are said (proktāḥ) by the great sages (maharṣibhiḥ) to be twofold (dvividhā), desireless (akāmāḥ), endowed with remembrance and devotion (smṛtibhaktiśālinaḥ).  
+Those who perform the actions mentioned in the Veda (vedoktavaṇaśrīmakarmakāriṇaḥ), beginning with worshippers and others (tūpāsakādiprathibhedabheditāḥ), are classified and differentiated.  
+
+Even aspirants, too, are described by great sages as twofold, desireless, and endowed with devotion and remembrance.  
+Those engaged in Vedic actions—beginning with worshippers—are distinctly classified and differentiated.

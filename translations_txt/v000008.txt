@@ -1,0 +1,49 @@
+SOURCE_PAGES: page_0063.txt
+
+=== मूलपाठः ===
+
+
+विश्वं जातं यतोऽद्धा यदवितमखिलं लीयते यत्र चान्ते सूर्यो यत्तेजसेन्दुः सकलमविरतं  
+भासयत्येतदेषः । यद्धीत्या वाति वातोऽवनिरपि सुतलं याति नैवेश्वरो ज्ञः साक्षी कूटस्थ एको  
+बहुशुभगुणवानव्ययो विश्वभर्ता ।।८।।
+
+viśvaṃ jātaṃ yatoʼddhā yadavitamakhilaṃ līyate yatra cānte sūryo yattejasenduḥ sakalamavirataṃ  
+bhāsayatyeta eṣaḥ | yaddhītyā vāti vātoʼvanirapi sutalaṃ yāti naiveśvaro jñaḥ sākṣī kūṭastha eko  
+bahuśubhaguṇavānavyayo viśvabhartā ||8||
+
+viśvaṃ (viśva, neuter, accusative singular)  
+jātaṃ (jāta, masculine/neuter, nominative/accusative singular, past participle of √jan)  
+yatoʼddhā (yataḥ, relative pronoun, masculine/neuter, nominative singular + uddhā, possibly part of compound)  
+yad (yat, relative pronoun, neuter, nominative singular)  
+avitam (avita, adjective or noun, neuter, accusative singular)  
+akhilaṃ (akhila, adjective, neuter, accusative singular)  
+līyate (lī, verb root, 3rd person singular present middle/passive indicative)  
+yatra (yat, relative pronoun, neuter, locative singular)  
+cānte (ca + ante; anta, masculine/neuter, locative singular + indeclinable ca)  
+sūryo (sūrya, masculine, nominative singular)  
+yattējasainduḥ (yat + tejasa + induḥ; yat, neuter nominative singular relative pronoun; tejasa, masculine/neuter nominative singular; induḥ, masculine nominative singular; here a compound tatpuruṣa)  
+sakalamavirataṃ (sakala + avirata + neuter accusative singular; sakala "all", avirata "unceasing")  
+bhāsayaty (bhāsayati, verb root √bhās, 3rd person singular present indicative active)  
+etaḥ (etad, neuter nominative singular demonstrative pronoun)  
+eṣaḥ (eṣa, masculine nominative singular demonstrative pronoun)  
+yaddhītyā (yat + dhītyā; yat, neuter nominative singular relative pronoun + dhītyā possibly instrumental singular of dhī, or related to dhī "intellect")  
+vāti (vāta, masculine nominative singular or instrumental singular; also could be a verb form)  
+vātaḥ (vātaḥ, masculine nominative singular)  
+avanirapi (avanir + api; avanir possibly variant of avani "earth" or avani "wind", + indeclinable api)  
+sutalaṃ (sutala, neuter accusative singular)  
+yāti (√yā, verb root; 3rd person singular present indicative active)  
+naiveśvaraḥ (na + īśvaraḥ; na negative particle + īśvaraḥ "lord", masculine nominative singular)  
+jñaḥ (jña, masculine nominative singular, adjective "knowing")  
+sākṣī (sākṣī, masculine nominative singular, noun "witness")  
+kūṭasthaḥ (kūṭastha, masculine nominative singular adjective "steadfast", "unmoving")  
+eko (eka, masculine nominative singular, numeral "one")  
+bahuśubhaguṇavānavyayo (bahu + śubha + guṇa + vān + avyaya; compound of multiple words, bahu (many), śubha (auspicious), guṇa (qualities), vān (suffix indicating possession), avyaya (indeclinable, "imperishable"))  
+viśvabhartā (viśvabhartā, masculine nominative singular noun "lord of the universe")  
+
+(The compound yattējaseṃduḥ appears to be tatpuruṣa: "yat + tejasa + induḥ" = "that [which is] the luminous moon/sun").
+
+Literal translation:  
+The universe (viśvam, acc. sg.) born (jātam) from which (yato ’ddhā) which pervades all (yad avitam akhilam) is dissolved (līyate); where (yatra) at the end (ante) the sun (sūryo) and that luminous moon (yattējasa induḥ) illuminate (bhāsayati) all (sakam) unceasingly (avirataṃ) this (etad) one (eṣaḥ). That which is intellect (yad dhītyā), the wind (vāti) and air (vātaḥ) and even (api) the earth (avanir) proceed (yāti) there; never ruler (na īśvaraḥ), knower (jñaḥ), witness (sākṣī), unmoving (kūṭasthaḥ), one (eko), possessing many excellent qualities, imperishable (bahuśubha-guṇavān avyayo), the world-lord (viśvabhartā).
+
+Smooth English translation:  
+The universe, born from which and by which all that is vast and limitless is dissolved, where at the end the sun and the luminous moon constantly shine, this very one. That which is intellect, the wind, air, and even earth proceed there; never a ruler, knower, witness, steadfast one, possessing many auspicious qualities and imperishable—the one world-lord.

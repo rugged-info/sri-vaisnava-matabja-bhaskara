@@ -1,0 +1,51 @@
+SOURCE_PAGES: page_0259.txt
+
+=== मूलपाठः ===
+
+
+(उथ दशमप्रश्रीत्तरे वेष्णवनिवासयोग्यस्थाननिरूपणम्)
+महामते प्रोच्य तदीयमाप्यं तेषां निवासस्तु निरूप्यतेऽथ ।
+मोक्षप्रदः शास्तरसुसम्मतश्च जिज्ञासुबोध्यो भव सावधानः ।।१८६।।
+
+mahāmate procya tadīyamāpyaṃ teṣāṃ nivāsastu nirūpyate'tha ।
+mokṣapradaḥ śāstarasusammatac ca jijñāsubodhyo bhava sāvdhānaḥ ।।186।।
+
+(उथ) - Indeclinable, particle (here: "then" or exclamatory, often serves as a discourse marker)
+(दशमप्रश्रीत्तरे) - compound noun (tatpuruṣa, locative singular feminine)
+ दशल (दशम) - "tenth"
+ प्रश्रीत्तरे (प्रश्रीत्तरा) - "chapter" or "section"
+(वेष्णवनिवासयोग्यस्थाननिरूपणम्) - compound noun (bahuvrīhi)
+ वेष्णव (वैष्णव) - "Vaishnava" (devotee of Vishnu)
+ निवास (निवास) - "residence" or "dwelling"
+ योग्य (योग्य) - "suitable" or "proper"
+ स्थान (स्थान) - "place"
+ निरूपणम् (निरूपण) - "explanation" or "determination"
+(महामते) - (mahāmatā, vocative singular masculine) base: महामति "great-minded"
+(प्रोच्य) - (procya) gerundive or verbal adjective from "प्रोच्" "to speak, to mention"
+(तदीयम्) - (tadīyam) pronoun adjective neuter singular accusative "that own"
+(आप्यम्) - (āpyam) indeclinable or noun neuter singular accusative meaning "also" or possibly "indeed/additionally"
+(तेषां) - (teṣāṃ) pronoun genitive plural "of them"
+(निवासः) - (nivāsaḥ) noun masculine nominative singular "residence"
+(तु) - (tu) indeclinable particle "but"
+(निरूप्यते) - (nirūpyate) verb passive present indicative 3rd singular "is determined/explained"
+(अथ) - (atha) indeclinable "then"
+(मोक्षप्रदः) - compound noun (bahuvrīhi), nominative singular masculine
+ मोक्ष (mokṣa) "liberation"
+ प्रद (prada) "giver"
+(शास्तरसुसम्मतः) - compound adjective (tatpuruṣa), nominative singular masculine
+ शास्त्र (śāstra) "scripture"
+ सुसम्मत (su-sammata) "well-approved, accepted"
+(च) - (ca) indeclinable "and"
+(जिज्ञासुबोध्यो) - compound participle, nominative singular masculine
+ जिज्ञासु (jijñāsu) "inquirer, seeker"
+ बोध्यो (bodhya) "to be understood"
+(भव) - verb imperative 2nd singular from "भू" "be"
+(सावधानः) - adjective nominative singular masculine "attentive, vigilant"
+
+Literal translation:
+Then, o great-minded one, mentioning (procyā), that own also of them residence however is determined then.  
+Liberation-giver, well-approved by scripture, and to be understood by the seeker, be attentive.
+
+Smooth English translation:
+Then, O greatly wise one, after mentioning their own residence, it is determined.  
+The giver of liberation, approved by the scriptures, and to be understood by the seeker, be attentive.

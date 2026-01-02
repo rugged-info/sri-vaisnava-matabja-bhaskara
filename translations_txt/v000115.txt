@@ -1,0 +1,27 @@
+SOURCE_PAGES: page_0182.txt
+
+=== मूलपाठः ===
+
+
+कृतप्रपत्तिस्मरणं प्रायश्चित्तमथीच्यते ।
+परमाप्तैश्च तन्निष्ठः कोविदेस्तेर्मुमुक्षुभिः ।।११५।।
+
+kṛtaprapattismarāṇaṁ prāyaścittamathīcyate ।
+paramāptaiśca tannishṭhaḥ kovidestermumukṣubhiḥ ।।115।।
+
+कृतप्रपत्तिस्मरणं (kṛtaprapattis-maraṇaṁ), कृत (kṛta, adjective, past passive participle), प्रपत्तिः (prapattiḥ, noun, nominative singular, feminine), स्मरणं (smaraṇaṁ, noun, nominative singular, neuter); tatpuruṣa compound  
+प्रायश्चित्तम् (prāyaścittam), noun, nominative singular, neuter  
+अथीच्यते (athīcyate), verb, present passive indicative, 3rd person singular  
+परमाप्तैः (paramāptaiḥ), adjective plural instrumental masculine or neuter plural instrumental; here instrumental plural masculine/neuter, means "with completely ended (sins)"  
+इच (ica), indeclinable particle, "also"  
+तत् (tat), pronoun, neuter nominative singular  
+निष्ठः (niṣṭhaḥ), adjective, nominative singular masculine  
+कोविदेः (kovideḥ), noun, genitive singular, masculine, "expert, knower"  
+ते (te), pronoun, nominative plural masculine, "they"  
+मुमुक्षुभिः (mumukṣubhiḥ), noun, instrumental plural masculine, "liberation seekers"
+
+Literal translation (with grammatical notes):  
+"The remembering of committed wrongdoing (कृतप्रपत्तिस्मरणं - tatpuruṣa compound: remembrance of committed misdeed) is generally considered (अथीच्यते - passive verb) as expiation (प्रायश्चित्तम् - nominative) . Among those who have completely ended (sins) (परमाप्तैः - instrumental plural) and who are well-established (निष्ठः - nominative singular masculine) in that (तत्), you (कोविदेः - genitive singular masculine) are experts; for those (ते - nominative plural masculine) who desire liberation (मुमुक्षुभिः - instrumental plural masculine)."
+
+Smooth English translation:  
+"Remembering committed misdeeds is generally regarded as expiation. You are the experts in that discipline for those seeking liberation who have completely ended their sins."

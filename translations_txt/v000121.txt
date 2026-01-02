@@ -1,0 +1,36 @@
+SOURCE_PAGES: page_0191.txt
+
+=== मूलपाठः ===
+
+
+दानं तपस्तीर्थनिषेवणं जपो न चास्त्यहिंसा सदशं सुपुण्यकम् ।
+हिंसामतस्तां परिवर्जयेज्ननः सुधर्मनिष्ठो टृढधर्मवृद्धये ।।१२१ ॥।
+
+dānaṁ tapas tīrtha-niṣevaṇaṁ japo na cāstyahiṁsā sadaśaṁ supuṇyakam ।
+hiṁsām atastāṁ parivarjaye jnanaḥ sudharma-niṣṭho ṭṛḍha-dharma-vṛddhaye ॥121॥
+
+दानं (dānaṁ), दान (dāna), neuter, accusative singular;  
+तपस् (tapas), tapas (base), masculine/feminine/ neuter stem, singular;  
+तीर्थनिषेवणं (tīrtha-niṣevaṇaṁ), compound (tatpuruṣa) of तीर्थ (tīrtha, masculine) + निष्ठेवन (niṣevaṇa, neuter), neuter, accusative singular;  
+जपः (japaḥ), japa, masculine, nominative singular;  
+न (na), indeclinable, negation;  
+च (ca), indeclinable, conjunction;  
+अस्ति (asti), verb root अस् (as), present tense, indicative, active, 3rd person singular;  
+अहिंसा (ahiṁsā), ahiṁsā, feminine, nominative singular;  
+सदशं (sadaśaṁ), sadha (sad + aśa), neuter, accusative singular;  
+सुपुण्यकम् (supuṇyakam), adjective, neuter, accusative singular;  
+हिंसा (hiṁsā), feminine, nominative singular;  
+अतः (ataḥ), indeclinable (adverb), meaning "therefore";  
+ताम् (tām), pronoun, feminine, accusative singular;  
+परिवर्जयेत् (parivarjayet), verb root वर्ज् (varj), optative mood, 3rd person singular, active voice;  
+ज्ञानः (jñānaḥ), masculine, nominative singular;  
+सुधर्मनिष्ठः (sudharma-niṣṭhaḥ), compound (tatpuruṣa) of "सु" (su) + "धर्म" (dharma) + "निष्ठ" (niṣṭha), masculine, nominative singular;  
+टृढधर्मवृद्धये (ṭṛḍha-dharma-vṛddhaye), compound (bahuvrīhi or purpose), masculine, dative singular.
+
+Literal translation:  
+"Gift (dānaṁ), austerity (tapas), pilgrimage-service (tīrtha-niṣevaṇaṁ), chanting (japaḥ) are not, also there is no non-violence (ahiṁsā) equal (sadaśaṁ) (to) the very meritorious (supuṇyakam).  
+Violence (hiṁsā), therefore that (tām), may be avoided (parivarjayet) by the knower (jñānaḥ), devoted to good law (sudharmanṣṭho), for the strengthening (ṭṛḍha) of dharma."
+
+Smooth English translation:  
+"Charity, penance, pilgrimage service, and chanting—none is equal to non-violence in merit.  
+Therefore, one who is wise and devoted to righteous conduct should avoid violence, for the strengthening of dharma."

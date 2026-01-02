@@ -1,0 +1,20 @@
+SOURCE_PAGES: page_0167.txt
+
+=== मूलपाठः ===
+
+
+समुच्यते तैर्नृभिरस्वतन्तरकैः सदा सदाचारपरायणैवरैः ।।१०७।।
+
+samucyate tainṛbhirasvatantarakaiḥ sadā sadācāraparāyaṇaivaraiḥ ।।107।।
+
+समुच्यते (samucyate), समुच्य (samucya), verb, 3rd person singular, present indicative, passive;  
+तैः (taiḥ), तैः, pronoun, ablative/instrumental masculine/neuter plural (from तत्), indeclinable;  
+नृभिः (nṛbhiḥ), नृभि, noun, instrumental plural, masculine (compound with अस्वतन्तरकैः);  
+अस्वतन्तरकैः (asvatantarakaiḥ), अस्वतन्तरक, noun, instrumental plural, masculine;  
+सदा (sadā), सदा, indeclinable adverb;  
+सदाचारपरायणैवरैः (sadācāraparāyaṇaivaraiḥ), सदाचारपरायण (tatpuruṣa compound), adjective/noun, instrumental plural masculine;
+
+(Literally: "Is grouped/assembled by those men free from control (नृभि अस्वतन्तरक in instrumental plural) always by (सदा) those devoted to good conduct (सदाचारपरायणैवरैः instrumental plural).")
+
+Smooth English translation:  
+"They are always assembled by those men who are independent and devoted to good conduct."

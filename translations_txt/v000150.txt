@@ -1,0 +1,34 @@
+SOURCE_PAGES: page_0219.txt
+
+=== मूलपाठः ===
+
+
+अथाऽन्त्यो सहमानस्तत्क्षणमेव तु संसृत्तिम् ।  
+तथेव भगवत्प्राप्तौ सत्वरस्वान्त उच्यते ।।१५०।।
+
+atha'ntyō sahamānastatkṣaṇameva tu saṃsṛttim ।  
+tatheva bhagavatprāptau satvarasvānta ucyate ।।150।।
+
+अथ (atha), अथ्, indeclinable (conjunction, "then, now")  
+अन्त्यः (antyaḥ), अन्त्यः, masculine singular nominative (noun, "end")  
+सहमानः (sahamānaḥ), सह + मान: (पठ् धातु प्रत्ययः), present active participle masculine singular nominative (participle, "struggling, engaged with")  
+तत्क्षणम् (tatkṣaṇam), तत् + क्षणम्, neuter singular accusative (compound: tatpuruṣa; noun, "that moment")  
+एव (eva), एव्, indeclinable (emphatic particle, "indeed")  
+तु (tu), तु, indeclinable (conjunction, "but")  
+संसृत्तिम् (saṃsṛttim), संसृत्ति, feminine singular accusative (noun, "withdrawal, detachment")  
+
+तथेव (tatheva), तत् + एव, indeclinable compound (emphatic, "just so")  
+भगवत्प्राप्तौ (bhagavatprāptau), भगवत् + प्राप्तौ, masculine dual locative (compound: tatpuruṣa; noun + noun, "arrival at (the) divine")  
+सत्वरः (satvaraḥ), सत्वर, masculine singular nominative (adjective, "quick, soon")  
+स्वान्त (svānta), स्व + अन्तः, masculine singular nominative (compound: bahuvrīhi; noun + noun used adjectivally, "one's own end")  
+उच्यते (ucyate), प्रयुज्य धातु, present passive indicative 3rd singular (verb, "is said")  
+
+Then (ath), the end (antyaḥ), struggling together (sahamānaḥ) at that moment (tatkṣaṇam, acc.), indeed (eva), but (tu) withdrawal (saṃsṛttim, acc. — object of implicit verb),  
+
+just so (tatheva) on arrival at the divine (bhagavatprāptau, loc.), quick (satvaraḥ) one's own end (svānta, subj. with verb) is said (ucyate).
+
+Then, at the end, struggling together at that very moment indeed the withdrawal (from the body) — but  
+
+Likewise, on attaining the Lord, one's own end is quickly said to be (that).
+
+At that final moment, when struggling together, withdrawal indeed occurs; similarly, upon attaining the Lord, one’s own end is quickly declared.

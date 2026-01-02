@@ -1,0 +1,41 @@
+SOURCE_PAGES: page_0089.txt
+
+=== मूलपाठः ===
+
+
+पदेन नेनात्र तु पञ्चमेन प्रकथ्यतेऽथी तदनन्यशेषता ।
+हेयं तदन्यार्थमपि स्वतन्तता निवर्त्यतेऽतः सततं स्वकीया ।। २६।।
+
+padena nenātra tu pañcamena prakathyate'thī tadananyaśeṣatā |
+heyaṃ tadanyārthamapi svatantatā nivartyate'taḥ satataṃ svakīyā || 26 ||
+
+padena (padena) pada (noun, instrumental singular neuter)
+nenātra (ne-na-atra) na (negative particle), na (particle), atra (adverb)
+tu (tu) tu (indeclinable, particle)
+pañcamena (pañcamena) pañcama (ordinal number), instrumental singular masculine
+prakathyate (prakathyate) prakath (root prakath, verb present middle/passive indic. 3rd singular)
+athī (athī) athī (noun - 'indeed,' possibly indeclinable particle here)
+tadananyaśeṣatā (tadananya-śeṣatā) tat (pronoun, nominative singular neuter) anya (adjective/noun) śeṣatā (noun, nominative singular feminine) - tat + anya + śeṣatā compounded (bahuvrīhi)
+heyaṃ (heyaṃ) heya (adjective, nominative singular neuter)
+tadanyārthamapi (tat + anya + artham + api) tat (pronoun, accusative singular neuter), anya (adjective), artham (noun, accusative singular masculine), api (indeclinable, particle) - tatanya + artham compound (tatpuruṣa)
+svatantatā (svatantatā) svatantra (noun, nominative singular feminine)
+nivartyate (nivartyate) nivart (root, verb present middle/passive indic. 3rd singular)
+ataḥ (ataḥ) ataḥ (indeclinable, adverb)
+satataṃ (satataṃ) satata (adjective, accusative singular neuter)
+svakīyā (svakīyā) svakīya (adjective, nominative singular feminine)
+
+Literal translation (with grammatical notes):
+
+By the word (instrumental singular neuter) indeed not here (neg. particles + adverb), but by the fifth (instrumental singular masculine) it is declared (present middle/passive, 3rd singular),
+That unique remainder (nominative singular feminine, bahuvrīhi compound),
+To be rejected (nominative singular neuter adjective),
+For that different purpose also (accusative singular masculine + particle),
+Independence (nominative singular feminine) turns back (present middle/passive 3rd singular)
+From here (adverb),
+Always (accusative singular neuter),
+Belonging to oneself (nominative singular feminine).
+
+Smooth English translation:
+
+This is not declared here by the word, but by the fifth; that unique remainder is to be rejected.
+Independence also turns away from that different purpose; thus, one must always adhere to one's own nature.

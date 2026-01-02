@@ -1,0 +1,26 @@
+SOURCE_PAGES: page_0235.txt
+
+=== मूलपाठः ===
+
+
+( अधाष्मप्रश्ीत्तरे वेष्णवकालक्षेपनिरूपणम्)  
+कार्यो महात्मभिर्नित्यं कालक्षेपो मुमुक्षुभिः ।  
+परमात्मपरैरित्यं वैष्णवैरिति वर्ण्यते ।।१६७।।  
+
+kāryo mahātma-bhír nityaṃ kālakṣepo mumukṣubhiḥ ।  
+paramātma-parair ityam vaiṣṇavair iti varṇyate ॥167॥  
+
+कार्यो (kāryaḥ) kārya neut. nom. sing., "to be done" (gerund as noun)  
+महात्मभिः (mahātma-bhiḥ) mahātman (mahātman-), masc. instr. pl., "by great souls"  
+नित्यं (nityaṃ) nitya neut. acc. sing., "always" (adverbial use)  
+कालक्षेपः (kālākṣepaḥ) kālakṣepa masc. nom. sing., "time spending" or "passing of time"  
+मुमुक्षुभिः (mumukṣubhiḥ) mumukṣu (mumukṣu-), masc. instr. pl., "by those desiring liberation"  
+परमात्मपरैः (paramātma-paraiḥ) paramātma + para instr. pl., tatpuruṣa compound, masc. instr. pl., "by supreme souls"  
+इत्यम् (ityam) iti indeclinable, "thus"  
+वैष्णवैः (vaiṣṇavaiḥ) vaiṣṇava masc. instr. pl., "by Vaiṣṇavas"  
+इति (iti) indeclinable, used to quote or mark words  
+वर्ण्यते (varṇyate) varṇ (to describe) 3rd person sing. indic. middle passive, "is described"  
+
+"Work (function) (is) by great souls always, time-spending (work) by those desiring liberation (is also) by supreme souls. Thus (it) is described by Vaiṣṇavas." (Note: The phrase "kāryaḥ... kālakṣepaḥ" links the concept of "work" and "passing time".)  
+
+"The work is always performed by great souls; the passing of time is (also) done by those desiring liberation. Thus it is described by the Vaiṣṇavas."

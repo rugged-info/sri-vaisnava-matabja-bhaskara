@@ -1,0 +1,101 @@
+SOURCE_PAGES: page_0240.txt
+
+=== मूलपाठः ===
+
+
+ईश्वरस्याप्यभिमानद्रेषित्वादैन्यप्रियत्वाच्च' (२७) इत्युक्तम्। गुरूपदिष्टान् मन्ताञ्जपन्तो वासं
+कुर्युरित्यत्र गुरूपदिष्टानिति परम्पराप्राप्ततया तेषामेवोष्टसाधकत्वात्। मन्त्रान्
+श्रीरामतारकमन्तराजादीन्, द्रयादिसहिताभिप्रायेण बहुवचनम्। एेकान्तिकेन मन्त्ानुष्ठानेनापि
+कालक्षेपविधेः सम्पूर्तिर्भवति, मन्वरजपस्य स्वाध्यायरूपत्वादिति भावः।
+भक्त्यादियुक्तस्य तथाऽनहङ्कृतेर्महात्मनस्तस्य निदेशपालनम्।
+उपायमेनं चरमं निरन्तरं सुवैष्णवो यं विदधात्वतद्धितः ।।१७२।।
+
+īśvarasyāpyabhimānadreṣitvādainyapriyatvācca' (27) ityuktam। gurūpadiṣṭān mantāñjapanto vāsaṃ
+kuryurityatra gurūpadiṣṭāniti paramparāprāptatayā teṣāmevoṣṭasādhakatvāt। mantrān
+śrārāmatārakamantarājādīn, drayādisahitābhiprāyeṇa bahuvacanam। ekaantikena mantānuṣṭhānenāpi
+kālākṣepavidheḥ sampūrtirbhavati, manvarjapasya svādhyāyarūptvāditi bhāvaḥ।
+bhaktyādiyuktasya tathā'nahaṅkṛtermahātmanastasya nideśapālanam।
+upāyamenaṃ caramaṃ nirantaraṃ suvaiṣṇavo yaṃ vidadhātvatadhhitaḥ ।।172।।
+
+ईश्वरस्य (īśvarasya), ईश्वर (īśvara) — masculine, singular, genitive  
+अपि (api), अपि (api) — indeclinable (particle, also)  
+अभिमानद्रेषित्वाद् (abhimānadreṣitvā), अभिमान + द्रेषित्व (compound: tatpuruṣa), ending -tvā (gerund, instrumental singular)  
+ऐन्यप्रियत्वात् (ainyapriyatvāt), ऐन्यप्रियत्व (ainyapriyatva) — noun, instrumental singular  
+च् (ca), च (ca) — indeclinable conjunction (and)  
+अय ( ' ), अय (interjection/slightly altered particle)  
+(२७) (27), numeral  
+इति (iti), इति (particle, quotative)  
+उक्तम् (uktam), उक्त (utat, verbal adjective, neuter singular nominative/accusative)  
+
+गुरूपदिष्टान् (gurūpadiṣṭān), गुरु-उपदिष्ट (tatpuruṣa compound), masculine, plural, accusative  
+मन्तान् (mantān), मन्त्र (mantra), masculine, plural, accusative  
+जपन्तः (japantaḥ), जप् (verb root), present participle, masculine, plural, nominative  
+वासं (vāsaṃ), वास (vāsa) noun, masculine/neuter, singular, accusative  
+
+कुर्युर्इत्यत्र (kuryurityatra), कुर्वु (verb root: कृ), optative/imperative 3rd person plural + इति (quotative) + अत्र (adv: there/where)  
+
+गुरूपदिष्टानि (gurūpadiṣṭāni), गुरु-उपदिष्ट (tatpuruṣa compound), neuter plural, nominative/accusative  
+इति (iti), particle, quotative  
+परम्परा (paramparā), feminine singular, nominative  
+प्राप्ततया (prāptatayā), प्राप्तता (prāptatā), feminine singular instrumental  
+तेषाम् (teṣām), तेष (teṣa) pronoun, masculine/neuter, plural, genitive  
+एव (eva), indeclinable particle (indeed)  
+ओष्ट (oṣṭa), masculine singular accusative (likely 'oṣṭa' means lip but here probably figurative)  
+साधकत्वात् (sādhakatvāt), साधकत्व (sādhakatva), noun instrumental singular  
+
+मन्त्रान् (mantrān), मन्त्र (mantra), masculine plural accusative  
+श्रीरामतारकमन्तराजादीन् (śrīrāmatārakamantarājādīn), compound of names — masculine, plural, accusative  
+द्रयादि (drayādi), noun + suffix (भिन्न), masculine/neuter, plural, instrumental  
+सहिताभिप्रायेण (sahitābhiprāyeṇa), सह (saha) + इत (सहित) + अभिप्राय (abhiprāya), instrumental singular  
+बहुवचनम् (bahuvacanam), neuter singular nominative  
+
+एकान्तिकेन (ekāntikena), एकान्तिक (ekāntika), masculine/neuter instrumental singular (means exclusive/dedicated)  
+मन्तानुष्ठानेन (mantānuṣṭhānena), मन्त्र + अनु + ष्ठान (performance), instrumental singular  
+अपि (api), indeclinable particle (also even)  
+
+कालक्षेपविधेः (kālākṣepavidheḥ), कालक्षेप (kālākṣepa: waste of time) + विधि (vidhi: method), genitive singular  
+
+सम्पूर्तिः (sampūrtiḥ), noun feminine singular nominative (completion)  
+भवति (bhavati), भव् verb root, present indicative 3rd person singular  
+
+मन्वरजपस्य (manvarjapasya), मन (manu) + व्रजप (japa), genitive singular  
+
+स्वाध्यायरूपत्वात् (svādhyāyarūptvāt), स्वाध्याय + रूपत्व (form/state), instrumental singular  
+
+इति (iti), particle  
+
+भावः (bhāvaḥ), noun masculine singular nominative (meaning/sense)  
+
+भक्त्यादियुक्तस्य (bhaktyādiyuktasya), भक्त्या + आदि + युक्त (joined/associated), genitive singular  
+
+तथा (tathā), indeclinable particle (thus)  
+
+अि-नहङ्कृतस्य (anahaṅkṛtasya), negative + अहङ्कार (ego), genitive singular  
+
+महात्मनस् (mahātmanas), महात्मा, masculine singular genitive  
+
+तस्य (tasya), pronoun genitive singular  
+
+निदेशपालनम् (nideśapālanam), noun neuter singular accusative (instruction protection/following)  
+
+उपायमेनम् (upāyamenaṃ), noun instrumental singular  
+
+चरम् (caram), adjective/supine/ noun neuter singular accusative (ultimate)  
+
+निरन्तरम् (nirantaram), indeclinable or adjective neuter singular accusative (continuous)  
+
+सुवैष्णवः (suvaiṣṇavaḥ), adjective/noun masculine singular nominative (good Vaiṣṇava/devotee)  
+
+यम् (yam), relative pronoun accusative singular  
+
+विदधात् (vidadhāt), verb perf/mid/causative 3rd person singular  
+
+तम् (tad + hitah), participle or verbal adjective relating to "that" + "appropriate", modifiying subject  
+
+Literal translation (with grammatical notes):
+
+"Because even of God (īśvarasya apy), due to the pride's cruelty (abhimānadreṣitvā) and due to being disliked by others (ainyapriyatvāt ca), it is said (iti uktam '27'). Those who chant (japantaḥ) the mantras (mantān) prescribed by the guru (gurūpadiṣṭān), perform dwell (vāsaṃ kuryuḥ) — thus, there where those prescribed by the guru (gurūpadiṣṭāni) [are], according to traditional succession (paramparā prāptatayā), by their lip only (teṣām eva oṣṭa) the accomplishment (sādhakatvāt) arises (sādhakatvam, 'capacity for accomplishment'). The mantras (mantrān), such as Śrī Rāma, Tāraka, and Antarāja (śrīrāmatārakamantarājādīn), with Draya and others, accompanied by their intention (sahitābhiprāyeṇa), are in plural (bahuvacanam). Even by exclusive performance (ekāntikena mantānuṣṭhānena api), the completion (sampūrtir) of the time-wasting method (kālākṣepavidheḥ) occurs (bhavati). The meaning (bhāvaḥ) is that (iti) the form of self-study (svādhyāyarūptvāt) of japa (manvarjapasya) is known (manva-ṛjapasya), with devotion and others joined (bhaktyādiyuktasya) and likewise of the ego-less great soul (anahaṅkṛter mahātmanas) his instruction-following (nideśapālanam). By this method (upāyam enaṃ), the ultimate (caramaṃ), continuous (nirantaram) good Vaiṣṇava (suvaiṣṇavo) performs that appointed (yam vidadhāt) ."
+
+Smooth English translation:
+
+"It is said (verse 27) that even God, due to arrogance and being disliked by others, does not intervene. Those who chant the mantras prescribed by the guru reside there; by traditional succession, the mere utterance of their lips leads to accomplishment. The mantras, such as Śrī Rāma, Tāraka, Antarāja, and others with Draya, accompanied by sincere intention, are in the plural. Even exclusive performance of these mantras leads to the completion of the discipline of time utilization. This signifies that japa in the form of self-study, when accompanied by devotion and similarly the instruction-following of the ego-free great soul, is effective. By this method, the devoted and constant Vaiṣṇava continually carries out that appointed instruction to the utmost."

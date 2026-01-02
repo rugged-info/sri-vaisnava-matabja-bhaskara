@@ -1,0 +1,28 @@
+SOURCE_PAGES: page_0201.txt
+
+=== मूलपाठः ===
+
+
+आवाहनासनाभ्यां च पादाद्याचमनैस्तथा  
+स्रानवस्त्ोपवीतैश्च गन्धपुष्पसुधूपकैः ।।१३२।।  
+
+āvāhanāsanābhyāṁ ca pādādyācamanaistathā  
+srānavastopavītaishca gandhapuṣpasudhūpakaiḥ ।।
+
+आवाहनासनाभ्यां (āvāhanāsanābhyāṁ), आवाहनासन (āvāhanāsana), ā (prefix), vāhana (noun compound "vāhana"='carrying', here 'āhavana'='invocation' or 'calling'), āsana (noun 'seat, position'), (instr. dual)  
+च (ca), indeclinable, = and  
+पादाद्याचमनैः (pādādyācamanaistathā), पादादि (pādādi), पाद (pāda, m. noun 'foot'), आदि (ādi, indeclinable 'etc.'), आचमन (ācamana, m. noun 'sipping water, ritual sipping'), (instr. pl.)  
+तथा (tathā), indeclinable 'thus, also'  
+
+स्रानवस्त् (srānavast), स्रानवस् (srānavas), sānava (noun?), here treated as indeclinable or to be parsed as a compound member  
+उपवीतैः (upavītaish), उपवीत (upavīta), m. noun 'sacred thread', (instr. pl.)  
+च (ca), indeclinable = and  
+गन्धपुष्पसुधूपकैः (gandhapuṣpasudhūpakaiḥ), gandha (m. noun 'smell, fragrance'), puṣpa (n. noun 'flower'), sudhūpa (m. noun 'pleasant smoke, incense'), compound tatpuruṣa bahuvrīhi compound—(instr. pl.) 'with fragrant flower and incense smoke'
+
+Literal translation:  
+"With both the invocation and seat (āvāhanāsanābhyām), and (ca) with the foot etc. (pādādyācamanaistathā),  
+and with cleansings (srānavast), and thus with the sacred threads (upavītaiḥ), and with fragrant flowers and incense smoke (gandhapuṣpasudhūpakaiḥ)."  
+
+Smooth English translation:  
+"With both the invocation and seat, with the foot and the ritual sipping,  
+with cleansing and sacred thread, and with fragrant flowers and incense smoke."

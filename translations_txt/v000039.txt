@@ -1,0 +1,32 @@
+SOURCE_PAGES: page_0099.txt
+
+=== मूलपाठः ===
+
+
+शरणेतिपदेनैवोपायस्तद्विग्रहो बुधैः  
+उपायाध्यवसायस्तु प्रपद्य इति वर्ण्यते ।। ३९।।
+
+śaraṇetipadenaivopāyastadvigraho budhaiḥ  
+upāyādhyavasāyastu prapadya iti varṇyate ।। 39 ।।
+
+शरणे (śaraṇe), शरण (śaraṇa), locative singular, neuter  
+तिपदैः (tipadaiḥ), तिपद् (tipad), instrumental plural, masculine  
+एव (eva), indeclinable, particle  
+उपायः (upāyaḥ), उपाय (upāya), nominative singular, masculine  
+तत् (tat), तत् (tat), pronoun, nominative singular, neuter  
+विग्रहः (vigrahaḥ), विग्रह (vigraha), nominative singular, masculine  
+बुधैः (budhaiḥ), बुद्ध (buddhi), instrumental plural, masculine  
+उपाय (upāya), nominative singular, masculine  
+अध्वसायः (adhvasāyaḥ), अध्वसाय (adhvasāya), nominative singular, masculine  
+तु (tu), indeclinable, particle  
+प्रपद्य (prapadya), प्रपद्य (prapadya), present participle, nominative singular, masculine  
+इति (iti), indeclinable, particle  
+वर्ण्यते (varṇyate), वर्ण (varṇ), present passive indicative, 3rd person singular  
+
+"By the very footing of refuge (loc. sg.) through (instrumental pl.)  
+indeed (particle) the means (nom. sg.) that (nom. sg.) conflict (nom. sg.) by the wise (instrumental pl.)  
+means' purpose (nom. sg.) indeed (particle) having resorted (nom. sg. participle) thus (particle) is described (3rd sing. passive indicative)."
+
+By the very step of refuge only, the means and its conflict, by the wise, the purpose of means having resorted to, thus it is described.
+
+It is said that the conflict of that means by wise persons occurs only through the very step of refuge, and by resorting to the purpose of the means.

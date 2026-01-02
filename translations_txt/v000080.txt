@@ -1,0 +1,54 @@
+SOURCE_PAGES: page_0146.txt
+
+=== मूलपाठः ===
+
+
+तत्र सूर्यप्रकाशदर्शनादपूर्व यद् घटीद्रयं स दण्डद्रयात्मककालोऽतिवेधः, रविप्र भासस्य
+दर्शनादनन्तरमर्थे सूर्य उदिते महावेध इति बुधैः कालवेर्तृभिरीर्यते।
+योगस्तुरीयस्तु दिवाकरोदये तेऽर्वाक्सुदोषातिशयार्थबोधकाः ।
+सर्वेऽपि वेधा मुनिभिर्विनिश्चिता निर्णेतृभिस्तस्य तु तत्त्वदर्शिभिः ।।८०।।
+
+tatra sūryaprakāśadarśanādapūrva yad ghaṭīdrayaṃ sa daṇḍadrayātmakakālo'tivedhaḥ, ravipra bhāsasya
+darśanādanantaramarthe sūrya udite mahāveda iti budhaiḥ kālavertṛbhiriryate।
+yogasturīyastu divākarodaye te'rvāksudoṣātiśayārthabodhakāḥ ।
+sarve'pi vedhā munibhirviniścitā nirṇetṛbhistasya tu tattvadarśibhiḥ ।।80।।
+
+tatra (tatra, indeclinable) - there  
+sūryaprakāśadarśanādapūrva (sūrya-prakāśa-darśana-ād-apūrva, tatpuruṣa, adjective, nominative singular, masculine) - before the sight of sunlight  
+yat (yad, relative pronoun, nominative singular, neuter) - which  
+ghaṭīdrayaṃ (ghaṭīdraya, compound, nominative singular, masculine) - group of pots  
+sa (sa, pronoun, nominative singular, masculine) - that (he)  
+daṇḍadrayātmakakālaḥ (daṇḍa-draya-ātmakakālaḥ, tatpuruṣa compound, nominative singular, masculine) - time characteristic of a group of rods  
+ativedhaḥ (ativedha, noun, nominative singular, masculine) - excess penetration  
+raviḥ (raviḥ, noun, nominative singular, masculine) - the sun  
+pra (pra, indeclinable prefix) - intensive prefix  
+bhāsasya (bhāsa, noun, genitive singular, feminine) - of the shining (light)  
+darśanādanantaramarthe (darśana-ādi-anantara-arthe, bahuvrīhi compound, locative singular, masculine) - in the purpose following the sight  
+sūryaḥ (sūrya, noun, nominative singular, masculine) - the sun  
+udite (udita, verbal adjective, locative singular, masculine/neuter) - risen  
+mahāvedaḥ (mahā-vedaḥ, compound, nominative singular, masculine) - great penetration  
+iti (iti, indeclinable) - thus  
+budhaiḥ (buddhi, noun, instrumental plural, masculine) - by the wise  
+kālavertṛbhih (kāla-vertṛ, noun, instrumental plural, masculine) - by time controllers  
+iryate (root √ṝ, verb, present passive indicative, 3rd singular) - is gazed  
+yogaḥ (yogaḥ, noun, nominative singular, masculine) - union  
+turīyaḥ (turīyaḥ, adjective, nominative singular, masculine) - fourth  
+tu (tu, indeclinable) - but  
+divākara-udaye (divākara-udaya, locative singular, masculine) - at sunrise  
+te (te, pronoun, nominative plural, masculine) - they  
+arvāksudoṣāt (arvāksudoṣa, compound, ablative singular, masculine) - from defects in the atmosphere  
+atiśaya (atiśaya, noun, nominative plural, masculine) - extreme  
+arthabodhakāḥ (artha-bodhaka, noun, nominative plural, masculine) - meaning revealers  
+sarve (sarva, adjective, nominative plural, masculine) - all  
+api (api, indeclinable) - also  
+vedhāḥ (vedha, noun, nominative plural, masculine) - penetrations  
+munibhiḥ (muni, noun, instrumental plural, masculine) - by sages  
+viniścitāḥ (viniścita, adjective, nominative plural, masculine) - determined  
+nirṇetṛbhis (nirṇetṛ, noun, instrumental plural, masculine) - by judges  
+tasya (tad, pronoun, genitive singular, masculine) - his/their  
+tu (tu, indeclinable) - but  
+tattvadarśibhiḥ (tattva-darśi, noun, instrumental plural, masculine) - by seekers of truth
+
+There, before the sight of the sunlight (sūryaprakāśadarśanādapūrva), that pot-group (ghaṭīdrayaṃ) is (sa) a time (kālaḥ) characterized by a group of rods (daṇḍadrayātmakakālaḥ), an excessive penetration (ativedhaḥ) of the sun's intense shining (raviḥ pra bhāsasya). For the purpose following the sight (darśanādanantaramarthe), at sunrise (divākarodaye) the sun (sūryaḥ), the great penetration (mahāvedaḥ), thus (iti) is observed (iryate) by the wise boundary-controllers of time (budhaiḥ kālavertṛbhir). The fourth union (turīya yogaḥ) indeed (tu), at the rise of the sun (divākarodaye), these (te) are those who reveal meaning (arthabodhakāḥ) by excess (atiśaya) caused by atmospheric defects (arvāksudoṣāt). All (sarve api) these penetrations (vedhāḥ) have been determined (viniścitāḥ) by sages (munibhiḥ) and judges (nirṇetṛbhis) but of that (tasya) are by seekers of truth (tattvadarśibhiḥ).
+
+There, before the sight of sunlight, that group of pots is a time characterized by a group of rods, an excessive penetration of the intensely shining sun. For the purpose following the sight, at sunrise the sun is regarded as the great penetration by wise controllers of time. The fourth yoga indeed, at sunrise, is understood by those who reveal meanings caused by extreme atmospheric defects. All these penetrations have been determined by sages and judges but are ultimately verified by seekers of truth.

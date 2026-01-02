@@ -1,0 +1,47 @@
+SOURCE_PAGES: page_0277.txt
+
+=== मूलपाठः ===
+
+
+श्रीविदरुलं तं किल पाण्डुरङ्ग श्रीवेङ्कटाद्रौ तु रमासखं च ।
+नारायणं श्रीमति यादवाद्रौ नृसिंहमित्थं घटिकाचलेऽपि ।।१९८।।
+
+śrīvidarulaṃ taṃ kila pāṇḍuraṅga śrī veṅkaṭādrau tu ramāsakhaṃ ca |
+nārāyaṇaṃ śrīmati yādavādrau nṛsiṃhamitthaṃ ghaṭikācale'pi ||198||
+
+श्रीविदरुलं (śrī-vidarulaṃ) — śrīvidarula, accusative singular, masculine; tatpuruṣa compound (śrī + vidarula)
+तँ (taṃ) — taṃ, pronoun, accusative singular, masculine; demonstrative pronoun
+किल (kila) — kila, indeclinable, particle meaning “indeed” or “surely”
+पाण्डुरङ्ग (pāṇḍuraṅga) — pāṇḍuraṅga, nominative singular, masculine; a proper noun (name)
+श्रीवेङ्कटाद्रौ (śrī-veṅkaṭādrau) — śrī veṅkaṭa-adrau, locative dual; tatpuruṣa compound (śrī + veṅkaṭa + adrau)
+तु (tu) — tu, indeclinable, particle, “but” or “indeed”
+रमासखं (ramāsakhaṃ) — rama-asakhaṃ, accusative singular, masculine; bahuvrīhi compound (rama + asakha)
+च (ca) — ca, indeclinable, conjunction “and”
+नारायणं (nārāyaṇaṃ) — nārāyaṇa, accusative singular, masculine; proper noun, the deity’s name
+श्रीमति (śrīmati) — śrīmati, locative singular feminine; proper noun or respectful title indicating goddess or consort (here, consort of Vishnu)
+यादवाद्रौ (yādavādrau) — yādava-adrau, locative dual; tatpuruṣa compound (yādava + adrau)
+नृसिंहमित्थं (nṛsiṃhamitthaṃ) — nṛsiṃha-mitthaṃ, accusative singular, masculine; bahuvrīhi compound (nṛsiṃha + mittha)
+घटिकाचलेऽपि (ghaṭikācale'pi) — ghaṭikācala + api; locative singular + indeclinable particle “also”
+
+Śrīvidarulaṃ taṃ kila pāṇḍuraṅga śrī veṅkaṭādrau tu ramāsakhaṃ ca |
+Nārāyaṇaṃ śrīmati yādavādrau nṛsiṃhamitthaṃ ghaṭikācale'pi ||
+
+Literal translation (with notes):  
+(śrīvidarulam) the revered Vidarula (accusative singular masculine, direct object)  
+(taṃ) him (demonstrative pronoun, accusative singular masculine, direct object)  
+(kila) surely / indeed (particle)  
+(pāṇḍuraṅga) Paṇḍuranga (nominative singular masculine, subject)  
+(śrī veṅkaṭādrau) at the two Veṅkaṭa mountains (locative dual)  
+(tu) but / however (particle)  
+(ramāsakhaṃ) friend of Rāma (accusative singular masculine, direct object)  
+(ca) and (conjunction)  
+(nārāyaṇaṃ) Narayana (accusative singular masculine, direct object)  
+(śrīmati) to the goddess (locative singular feminine)  
+(yādavādrau) at the two Yadava (mountains/places) (locative dual)  
+(nṛsiṃhamitthaṃ) friend of Nṛsiṃha (accusative singular masculine, direct object)  
+(ghaṭikācale'pi) also at the Ghaṭikācalam (locative singular + particle “also”)
+
+Paṇḍuranga, indeed, is that Vidarula; and at the two Veṅkaṭa hills, Rama’s friend; Narayana to the goddess at the two Yadava hills; the friend of Nṛsiṃha also at Ghaṭikācalam.
+
+Smooth English translation:  
+Indeed, that Vidarula is Paṇḍuranga; at the twin Veṅkaṭa hills, he is Rama’s companion; Narayana with the goddess is at the twin Yadava hills; and he is also the friend of Nṛsiṃha at Ghaṭikācalam.

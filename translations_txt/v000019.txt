@@ -1,0 +1,42 @@
+SOURCE_PAGES: page_0081.txt
+
+=== मूलपाठः ===
+
+
+देहादेरप्यपूर्वी विविदितविविधस्तप्मरियस्तत्सहायः । नित्यो जीवस्तृतीयेन तु खलु पदतः प्रोच्यते  
+स्वप्रकाशो जिज्ञासूनां सदेव्थ॑ णुभनतिसुमते शास्तवित्सज्जनानाम् ।।१९।।
+
+dehāderapypūrvī vividitavividhastapmariyastatsahāyaḥ । nityo jīvastṛtīyena tu khalu padataḥ procyate  
+svaprakāśo jijñāsūnāṃ sadevtha ṇubhanatisumate śāstavitsajjanānām ।।19।।
+
+देहाद् (dehād) deha (noun), ablative singular masculine  
+एर् (er) er (pronoun), genitive plural masculine  
+अपि (api) api (indeclinable, particle)  
+पूर्वी (pūrvī) pūrvī (adjective), nominative singular feminine  
+विविदित (vividita) vivid (past passive participle, adjective), nominative singular masculine  
+विविध (vividh) vividh (adjective), accusative plural masculine  
+स्तप्मरिय (stapmariya) stapmariya (noun, compound tatpuruṣa?), nominative plural masculine  
+तत् (tat) tat (pronoun), genitive singular neuter  
+सहायः (sahāyaḥ) sahāya (noun), nominative singular masculine  
+नित्यः (nityaḥ) nitya (adjective), nominative singular masculine  
+जीवः (jīvaḥ) jīva (noun), nominative singular masculine  
+तृतीयेन (tṛtīyena) tṛtīya (ordinal adjective), instrumental singular masculine  
+तु (tu) tu (indeclinable, particle)  
+खलु (khalu) khalu (indeclinable, particle)  
+पदतः (padataḥ) pada (noun), ablative singular masculine  
+प्रोच्यते (procyate) √uc (verb root), passive present indicative 3rd singular  
+स्वप्रकाशः (svaprakāśaḥ) svaprakāśa (noun), nominative singular masculine  
+जिज्ञासूनाम् (jijñāsūnām) jijñāsū (noun, derived verbal noun), genitive plural masculine  
+सदेव्थ॑ (sad evtha) saḥ + eva + atha (indeclinables/particles; evtha likely a scribal variant of eva)  
+णुभनतिसुमते (ṇubhanatisumate) णुभनतिसुमते (appears to be a compound or a corrupted word; could be पुनःभनतिसुमते "punar-bhanati sumate"? Possibly a scribal or printing error)  
+शास्तवित्सज्जनानाम् (śāstavitsajjanānām) śāstva-vit-sajjanānām (compound noun, genitive plural masculine)  
+
+Literal translation (with notes):  
+"From the body indeed predecessors (or elders) also, well-known and various tapasvī who are their helpers. Eternally the soul by the third (instrumental) indeed from the foot is spoken (procyate - passive).  
+Self-luminous to the inquisitive indeed, of good-minded, learned sages (śāstva-vit-sajjanānām gen. pl.) ... (remaining part unclear due to corrupted word)."
+
+Smooth English translation:  
+"Even the predecessors from the body, known and various ascetics who are their helpers. The eternal soul is, indeed, by the third limb spoken from the foot.  
+The self-luminous one is surely for the inquisitive, truly the learned companions of good intellect..."  
+
+(Note: The second half contains unclear or corrupted words making exact translation difficult.)

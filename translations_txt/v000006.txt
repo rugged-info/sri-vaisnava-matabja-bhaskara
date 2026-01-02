@@ -1,0 +1,52 @@
+SOURCE_PAGES: page_0058.txt
+
+=== मूलपाठः ===
+
+
+पृष्टानामेकमाद्ं त्रिकमपि शृणु तद्धेदतो नामभेदै-
+नित्याऽज्ञाऽचेतना सा प्रकृतिरविकृतिर्विश्वयोनिश्णुभका।
+नानावर्णासिकाऽजा त्रिगुणसुनिलयाऽव्यक्तशब्दाभिधेया
+निर्व्पापारा परार्था महदहमितिसूरुच्यते तत््वविद्धिः ।।६।।
+
+pṛṣṭānāmekamādṃ trikamapi śṛṇu taddhedato nāmabhedai-
+nityā'jñā'cetnā sā prakṛtiravikṛtirviśvayonishṇubhakā।
+nānāvarṇāsikāja triguṇasunilayā'vyaktaśabdābhidheyā
+nirvpāpārā parārthā mahadahamitisūryate tattvavidhiḥ ॥6॥
+
+पृष्टानामेकमाद्ं (pṛṣṭānāmekamādṃ) - पृष्टानाम् (pṛṣṭānām), पृष्ट (pṛṣṭa, part. of √pṛṣ, root verb), genitive plural masculine; एकम् (ekam), eka, accusative singular neuter; आद्ं (ādṃ), ādaṃ, accusative singular neuter (compound word अंतःपदाधिकरण tatpuruṣa)
+
+त्रिकमपि (trikamapi) - तृकम् (trikam), tṛka, accusative singular neuter; अपि (api), indeclinable, particle (emphatic)
+
+शृणु (śṛṇu) - śṛṇu, verb root (imperative, 2nd person singular, active voice) from √śru (to hear)
+
+तद्धेदतो (taddhedato) - तत् (tat), pronoun, nominative singular neuter, + हेद (heda), noun (?), instrumental singular? Likely compound tatpuruṣa: तत् + hedd- (root?), or तत् + hedato (agent noun?), needs contextual reading; possibly tat + dheda (कृदन्त), but dhedato being instrumental singular from 'dheda' (name?), difficult; here treated as tat-hedato, nominative singular masculine (compounding unclear)
+
+नामभेदै- (nāmabhedai-) - नामभेदैः (nāmabhedaiḥ), noun, instrumental plural masculine; नाम (nāma), name; भेद (bheda), difference (tatpuruṣa compound)
+
+नित्याऽज्ञाऽचेतना (nityā'jñā'cetnā) - नित्याः (nityāḥ), adjective, nominative singular feminine (शृणु precedes so feminine); अज्ञा (ajñā), adjective or noun, nominative singular feminine; अचेतना (acetnā), adjective, nominative singular feminine (compound bahuvrīhi or tatpuruṣa)
+
+सा (sā) - pronoun, nominative singular feminine
+
+प्रकृतिरविकृतिर्लविकृति (prakṛtiravikṛtir) - प्रकृति (prakṛti), noun, nominative singular feminine; अविकृति (avikṛti), noun, nominative singular feminine (two words compounded by अणुता or possibly a bahuvrīhi compound)
+
+विश्वयोनिश्णुभका (viśvayonishṇubhakā) - विश्वयोनि (viśvayoni), noun, nominative singular feminine; ष्णुभका (ṣṇubhakā), adjective or participle, nominative singular feminine; compound bahuvrīhi or tatpuruṣa
+
+नानावर्णासिकाऽजा (nānāvarṇāsikāja) - नाना (nānā), adjective, nominative singular feminine; वर्णासिका (varṇāsikā), noun, nominative singular feminine; अजा (ajā), noun, nominative singular feminine; bahuvrīhi or dvigu compound
+
+त्रिगुणसुनिलयाऽव्यक्तशब्दाभिधेया (triguṇasunilayā'vyaktaśabdābhidheyā) - त्रिगुण (triguṇa), noun/adjective, instrumental singular feminine; सुनीलया (sunilayā), instrumental singular feminine (सु+नील, adjective); अव्यक्त (avyakta), adjective/participle, instrumental singular feminine; शब्दाभिधेया (śabdābhidheyā), noun, instrumental singular feminine; all compounded as a long bahuvrīhi or tatpuruṣa compound
+
+निर्व्पापारा (nirvpāpārā) - निर्व्पाप (nirvpāpa), adjective, nominative singular feminine; आरा (ārā), noun or suffix ?; but together terreinary as adjective nominative singular feminine
+
+परार्था (parārthā) - adjective or noun, nominative singular feminine, 'for the sake of others'
+
+महदहमितिसूरुच्यते (mahadhamitisūryate) - महद् (mahad), adjective/indeclinable (probably indeclinable, neuter singular), अहितिम् (ahitim), noun accusative singular neuter; इति (iti), indeclinable, particle; सूरुच्यते (sūryate), verb passive present singular 3rd person from √sū (to please? or √su (to manifest)?); Or सु + रुच्यते (root?); this seems to be a compound verb
+
+तत्त्वविद्धिः (tattvavidhiḥ) - तत्त्व (tattva), noun nominative singular masculine; विधिः (vidhiḥ), noun nominative singular masculine (tatpuruṣa compound)
+
+Literal translation (with grammatical notes):
+
+Of the asked ones (gen. pl.) one example even (acc. sg.) three kinds also listen! That indeed is the name's distinctions (instr. pl.). Eternal, ignorant, unconscious she (fem. nom. sg.) is nature, and non-nature, adept in world-origin. Various-colored, unborn, three qualities, good residence, unmanifest, by word-meaning (instr. sg.), sinless, for another's purpose, the great error thus named is the principle declaration.
+
+Smooth English translation:
+
+Listen even to one among the asked three kinds; that indeed is the distinction in names. Eternal, ignorant, and unconscious, she is nature and non-nature, skilled in the origin of the world. Born in various colors, possessed of the three qualities, pure abode, unmanifest and understood by the meaning of words, sinless and for the sake of others, the great error is thus called the declaration of truth.

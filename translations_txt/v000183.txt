@@ -1,0 +1,69 @@
+SOURCE_PAGES: page_0254.txt
+
+=== मूलपाठः ===
+
+
+मार्गे ततः सोऽर्चिरुपैति मुक्तकस्तथाऽर्चिषोऽहो दिनतः सुरार्चितः ।
+आपूर्यमाणं विविधेस्तु वासरैः पक्षं प्रभूतोत्तमशर्मविज्वरः ।।१८२।।
+पक्षादुदङ्मासमथी षडात्मकं तेभ्यश्च सम्वत्सरमब्दतो रविम् ।
+चन्द्रं ततश्चन्द्रमसोऽथ विद्युतं स तत्र तत्राखिलदेवपूजितः ।।१८३।
+
+mārge tataḥ so'rcirupaiti muktakastathā'rciṣo'ho dinataḥ surārcitaḥ ।
+āpūryamāṇaṃ vividhes tu vāsaraiḥ pakṣaṃ prabhūtottamaśarmavijvaraḥ ।।182।।
+pakṣādudaṅmāsamathī ṣaḍātmaṃ tebhyaśca samvatsaramabdato ravim ।
+candraṃ tataścandramaso'tha vidyutaṃ sa tatra tatrākhiladevapūjitaḥ ।।183।
+
+मार्गे (mārge), मार्ग (mārga), locative singular masculine  
+ततः (tataḥ), ततः (tataḥ), adverb (then, thereafter)  
+सः (saḥ) → सो (so), स (sa), pronoun nominative singular masculine (he)  
+अर्चि (arci) → अर्चिः (arciḥ), noun nominative singular masculine (ray, flame)  
+उपैति (upaiti), उपईति (upaiti), verb 3rd person singular present indicative active (approaches, comes near)  
+मुक्तकः (muktakaḥ), मुक्तक (muktaka), nominative singular masculine noun (pearl, pearl-like)  
+तथा (tathā), indeclinable (thus, also)  
+अर्चिः (arciḥ), noun nominative singular masculine (ray, flame)  
+अहो (aho), indeclinable, interjection (ah, alas)  
+दिनतः (dinataḥ), दि + नतः (day + derived), adjective nominative singular masculine (of the day, daytime)  
+सुरा (surā), सुर (sura), nominative plural masculine (gods)  
+अर्चितः (arcitaḥ), past participle nominative singular masculine passive (worshipped)   
+
+आपूर्यमाणं (āpūryamāṇaṃ), verb present participle accusative singular neuter (being filled)  
+विविधे (vividhe), adjective locative singular masculine (various)  
+तु (tu), indeclinable (but)  
+वासरैः (vāsaraiḥ), noun instrumental plural masculine (days)  
+पक्षं (pakṣaṃ), noun accusative singular masculine (fortnight, half month)  
+प्रभूतः (prabhūtaḥ), adjective nominative singular masculine (abundant, plentiful)  
+उत्तम (uttama), adjective nominative singular masculine (best, excellent)  
+अर्म (arma), noun nominative singular masculine (weapon, here possibly name part of compound)  
+विज्वरः (vijvaraḥ), noun nominative singular masculine (shade or shadow, perhaps name part)  
+
+पक्षात् (pakṣāt), noun ablative singular masculine (from the fortnight)  
+उदङ्मास (udaṅmāsa), noun nominative singular masculine (full month, lunar month start)  
+अमथी (amathī), adjective or noun (unclear, likely 'calm' or 'steady')  
+षडात्मकं (ṣaḍātmaṃ), adjective accusative singular neuter (of six parts)  
+तेभ्यः (tebhyaḥ), pronoun ablative plural (by them)  
+च (ca), indeclinable (and)  
+सम्वत्सरं (samvatsaraṃ), noun accusative singular masculine (year)  
+अब्दतः (abdato), noun ablative singular masculine (from the cloud or year)  
+रविम् (ravim), noun accusative singular masculine (sun)  
+
+चन्द्रं (candraṃ), noun accusative singular masculine (moon)  
+ततः (tataḥ), adverb (then, thereafter)  
+चन्द्रमसः (candramasaḥ), noun genitive singular masculine (of the lunar month)  
+अथ (atha), indeclinable (then, moreover)  
+विद्युतं (vidyutaṃ), noun accusative singular neuter (lightning)  
+सः (saḥ) → स (sa), pronoun nominative singular masculine (he)  
+तत्र (tatra), indeclinable (there)  
+तत्र (tatra), indeclinable (there)  
+अखिल (akhila), adjective nominative singular masculine (all, entire)  
+देव (deva), noun nominative plural masculine as compound member (gods)  
+पूजितः (pūjitaḥ), past participle nominative singular masculine passive (worshipped)
+
+On the path then he (the pearl-like flame) approaches, thus the flame (is) ah, by day worshipped by gods.  
+Being filled with various days, the fortnight is abundant, O best of warriors, covered by shadow.  
+From the fortnight the full month, calm, sixfold, and by them a year, from the cloud the sun.  
+The moon then of the lunar month, then lightning; he there, there worshipped by all gods.
+
+On the path then the pearl-like flame approaches; thus the flame, by day, is worshipped by the gods.  
+The fortnight is filled with various days; O best warrior, it is abundant and shrouded in shadow.  
+From the fortnight comes the full month, calm and sixfold; from these comes the year, from the cloud the sun.  
+The moon then of the lunar month, then lightning; he is there, there worshipped by all the gods.

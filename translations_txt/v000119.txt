@@ -1,0 +1,41 @@
+SOURCE_PAGES: page_0189.txt
+
+=== मूलपाठः ===
+
+
+जितेद्धियश्चात्सरतो बुध सत्सुनिश्चितं नाम हरेरनुत्तमम् ।
+अपारसंसारनिवारणक्षमं समुच्यरेदरैदिकमाचरन् सदा ।।११९।।
+
+
+jiteddhiyashchātsarato budha satsuniśchitaṁ nāma hareranuttamam ।
+apārasaṁsāranivāraṇakṣamaṁ samucyaredaraidhikamācaran sadā ॥119॥
+
+
+जितेद्धियः (jiteddh iyaḥ), जितद्धिय (jitaddhi), tatpuruṣa (कृदन्त compound)
+च (ca), indeclinable (conjunction)
+आत्सरतः (ātsarataḥ), आत्सरत (ātsarata), adjective (case: nom. sg. masc.)
+बुधः (budhaḥ), बुद्ध (buddha), noun (nom. sg. masc.)
+सत्सु (satsu), सत् (sat), noun (case: loc. pl. neut.)
+निश्चितं (niśchitaṁ), निश्चित (niśchita), adjective (acc. sg. neut.)
+नाम (nāma), नाम (nāma), indeclinable (particle)
+हरेर् (harer), हर (hara), noun (gen. sg. masc.)
+अुत्तमम् (uttamam), उत्तम (uttama), adjective (acc. sg. neut.)
+अपरसंसारनिवारणक्षमं (apārasaṁsāranivāraṇakṣamaṁ), compound (bahuvrīhi):
+- अपार (apāra) adj.
+- संसार (saṁsāra) noun
+- निवारण (nivāraṇa) noun
+- क्षम (kṣama) adj.
+सम् (sam), indeclinable (prefix)
+उच्य (ucya), verb root (participle)
+अरेद (areda), noun (acc. pl. masc.)
+ऐदिकम् (aidikam), adjective (acc. sg. neut.)
+आचरण् (ācaraṇ), verb root (present participle, nom. sg. neut.)
+सदा (sadā), indeclinable (adverb)
+
+
+Conquering intellect and being devoted, O wise one, known as the best named of Hari,
+Endowed with the capacity to utterly remove samsara, always practicing (it) as instructed by the Vedas.
+
+
+O wise devotee who has conquered the intellect and is steadfast, renowned as the supreme among those of Hari,
+Always engaged in the supreme Vedic practice capable of completely ending the endless cycle of samsara.

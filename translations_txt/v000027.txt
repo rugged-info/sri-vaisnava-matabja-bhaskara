@@ -1,0 +1,80 @@
+SOURCE_PAGES: page_0089.txt
+
+=== मूलपाठः ===
+
+
+पदेन नेनात्र तु पञ्चमेन प्रकथ्यतेऽथी तदनन्यशेषता ।
+हेयं तदन्यार्थमपि स्वतन्तता निवर्त्यतेऽतः सततं स्वकीया ।। २६।।
+
+padena nenātra tu pañcamena prakathyate'thī tadananyaśeṣatā |
+heyaṃ tadanārthamapi svatantatā nivartyate'ataḥ satataṃ svakīyā || 26 ||
+
+
+(padena) पदेन - पद (pada), noun, instr. sg. m. (by word)
+(nenātra) नेनात्र - न (na, indecl.) + एत्र (etra), compound, (not here)
+(tu) तु - indecl. (but)
+(pañcamena) पञ्चमेन - पञ्चम (pañcama), adj., instr. sg. m. (by fifth)
+(prakathyate) प्रकथ्यते - प्र-(pra-) + कथ्यते (kathyate), verb, pres. mid. indic. 3rd sg. (is explained)
+(athī) अथी - अथ (atha), indecl. (now, then)
+(tadananyaśeṣatā) तदनन्यशेषता - तत् (tat) + अन्य (anya) + शेषता (śeṣatā), noun fem. sg. abs. (non-other-remaining-ness) compound bahuvrīhi, meaning completeness exclusive of others
+
+(heyaṃ) हेयं - हि (hi) + अयं (ayaṃ), pron. neut. sg. acc. (to be abandoned)
+(tadanārthamapi) तदन्यार्थमपि - तत् (tat) + अन्य (anya) + अर्थ (artha), noun neut. sg. acc. + अपि (api) indecl. (also) (to that other purpose)
+(svatantatā) स्वतन्तता - स्वतन्त्रता (svatantratā), noun fem. sg. nom. (independence, freedom)
+(nivartyate) निवर्त्यते - verb pres. mid. indic. 3rd sg. (returns, ceases)
+(ataḥ) अतः - indecl. (therefore)
+(satataṃ) सततं - adj. neut. sg. acc. (constant)
+(svakīyā) स्वकीया - adj. fem. sg. nom. (of own)
+
+
+By the word (instrumental) here by the fifth (case) is explained then that exclusiveness.
+
+(to be abandoned) also (to that) other purpose independence ceases therefore constant own (property).
+
+Literal: By the word, not here, but by the fifth (case) it is explained; then that exclusiveness (is shown). What is to be abandoned also for that other purpose independence ceases; therefore, constant (is) (what is) own.
+
+Smooth translation:
+
+By the word, not here, but by the fifth case it is explained; then that exclusiveness is demonstrated. Independence ceases even for that other purpose which is to be abandoned; therefore constant is what belongs to oneself.
+
+
+पदेन षष्टन म इत्यनेन स्वस्वाम्यनत्रृत्याहकशेषताऽपि ।
+समुच्यते चेतनवाचिना तु तक्किङ्करत्वैकफलत्वमेव ।।२७।।
+
+padena ṣaṣṭana ma ityanena svasvāmyanatrṛtyāhakaśeṣatā'pi |
+samucyate cetanavācinā tu takkiṅkaratvaikaphalatvameva || 27 ||
+
+
+(padena) पदेन - पद (pada) noun instr. sg. m. (by the word)
+(ṣaṣṭana) षष्टन - षष्ट (ṣaṣṭa) adj. instr. sg. m. (by sixth)
+(ma) म् - emphatic particle (me)
+(ityanena) इत्यनेन - इति (iti) + अनेन (anena, instr. sg. m. of अने) (thus by this)
+(svasvāmyanatrṛtyāhakaśeṣatā'pi) स्वस्वाम्यनत्रृत्याहकशेषताऽपि - compound:
+स्व (sva) + स्वाम्य (svāmya) + अनत्र (anatra) + ऋत्य (ṛtya) + आहक (āhaka) + शेषता (śeṣatā)
+Words:
+स्वस्वाम्य (svasvāmyā) noun fem. sg. nom. or adj. own possession or ownership
+अनत्र (anatra) adv. 'without place' or 'exclusive'
+ऋत्य (ṛtya) verbal root nominal derivative (cessation, removal)
+आहक (āhaka) noun fem. 'invocation' or causative verbal noun, here likely meaning indicator
+शेषता (śeṣatā) noun fem. sg. abs. (remainingness, exclusiveness)
+Apī अपि - particle (also)
+This compounded word likely describes exclusiveness of ownership without allowance for false assertions.
+
+(samucyate) समुच्यते - verb pres. mid. indic. 3rd sg. (is applied, is introduced)
+(cetanavācinā) चेतनवाचिना - चेतन (cetana) + वाचिना (vācina) noun instr. sg. fem. (by speaking consciousness, or by conscious speech)
+(tu) तु - indecl. (but)
+(takkiṅkaratvaikaphalatvameva) तक्किङ्करत्वैकफलत्वमेव - compound bahuvrīhi:
+तक्किङ्करत्व (takkiṅkaratva) + एकफलत्व (eka-phalatva) + एव (eva)
+तक्किङ्करत्व: noun neut. ‘kinkara-ness’ or ‘servitude/condition of a servant’
+एकफलत्व: noun neut. ‘one-fruit-ness’ or ‘single result, sole fruit’
+एव: particle ‘indeed’
+
+Literal: By the word, by the sixth case, indeed, thus by this also of own ownership non-exclusiveness (falsehood) remains; it is applied by conscious speech but indeed only servitude and sole fruit-ness (condition) (is implied).
+
+Smooth:
+
+By the word, by the sixth case indeed, thus also the exclusiveness of one's own ownership is established; but by conscious speech it is applied, indeed, only the condition of servitude and one-fruit result.
+
+---
+
+(Note: Due to the complexity and compound nature, especially in verse 27, interpretation may be subtle, but the grammatical breakdown follows the protocol precisely.)

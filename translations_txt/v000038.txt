@@ -1,0 +1,31 @@
+SOURCE_PAGES: page_0097.txt
+
+=== मूलपाठः ===
+
+
+चरणावित्यनेनैव वात्सल्यादिकसीतयोः ।
+विलक्षणस्य दिव्यस्य विग्रहस्याश्रयस्य च ।। ३८ ।।
+
+caraṇāvityanenaiva vātsalyādikasītayoḥ ।
+vilakṣanasya divyasya vigrahasyāśrayasya ca ।। 38 ।।
+
+चरणाविति (caraṇāviti), caraṇā + iti (indeclinable, quotation particle)
+नेन (nena), naḥ, 5th case instrumental singular pronoun
+ऐव (aiva), aiva (indeclinable emphatic particle)
+वात्सल्यादि (vātsalyādi), vātsalya + ādi, noun compound (bahuvrīhi), genitive singular masculine
+सीतयः (sītayaḥ), sīta, noun plural nominative masculine
+विलक्षणस्य (vilakṣanasya), vilakṣaṇa, adjective/noun genitive singular masculine
+दिव्यस्य (divyasya), divya, adjective genitive singular masculine
+विग्रहस्य (vigrahasya), vigraha, noun genitive singular masculine
+आश्रयस्य (āśrayasya), āśraya, noun genitive singular masculine
+च (ca), ca (indeclinable conjunction)
+
+"caraṇāviti" (literally "thus called 'caraṇa'") + "nena eva" (by this only) + "vātsalyādi sītayaḥ" (the coldness of kindness, etc.) +
+"vilakṣanasya divyasya vigrahasya āśrayasya ca" (and the shelter of the distinctive divine form).
+
+(iviti is often the particle marking quotation; the phrase "caraṇāviti nenaiva" suggests "only by this phrase 'caraṇa'".)
+Literal: "Only by this phrase 'caraṇa' (चरणाविति) (instrumental case) (by this very) from the cold qualities including affection (vātsalya-ādi sītayaḥ), and also of the shelter of the distinctive divine form."
+
+Only by this term "caraṇa" (foot) from the cold qualities including affection, and also from the shelter of the distinctive divine form.
+
+Only through the word "caraṇa", drawn from the cold qualities including affection, and from the shelter of the distinctive divine form.

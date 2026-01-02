@@ -1,0 +1,28 @@
+SOURCE_PAGES: page_0155.txt
+
+=== मूलपाठः ===
+
+
+कृष्णजन्माष्टमी सोक्ता तस्यां कृष्णव्रतोत्सवम् ।
+कुर्वीति विधिसंयुक्तं चतुर्वर्गफलप्रदम् ।।१५।।
+
+kṛṣṇajanma-āṣṭamī soktā tasyāṁ kṛṣṇavrato-tsavam |
+kurvīti vidhisaṁ-yuktaṁ caturvarga-phala-pradam ||15||
+
+कृष्णजन्माष्टमी (kṛṣṇajanma-āṣṭamī), कृष्णजन्माष्टमी, तत्संबंधी समास (tatpuruṣa - Krishna+janma+āṣṭamī)
+सोक्ता (soktā), सूक्त (sūkta), स्त्रीलिङ्ग, एकवचन, कर्तृवाचक तत्पुरुष समास कर्मणि (participle passive, feminine singular, nominative)
+तस्यां (tasyām), तद् (tat), संज्ञा सर्वनाम (demonstrative pronoun), स्त्रीलिङ्ग, एकवचन, सप्तमी (locative case)
+कृष्णव्रतोत्सवम् (kṛṣṇavrato-tsavam), कृष्णव्रत+उत्सवम्, तत्पुरुष समास, पुल्लिङ्ग, एकवचन, कर्तृवाच्य (nominative singular)
+कुर्वीति (kurvīti), कुर्व (kṛ) क्रिया धातु, लृट् लकार, मध्य पद, तीसरा पुरुष, एकवचन (present tense, indicative, middle, 3rd person singular)
+विधिसंयुक्तं (vidhisaṁ-yuktaṁ), विधि+संयुक्त (tatpuruṣa समास), पुल्लिङ्ग, एकवचन, कर्मणि (accusative singular)
+चतुर्वर्गफलप्रदम् (caturvarga-phala-pradam), चतुर्वर्ग+फल+प्रदम्, बहुव्रीहि समास, पुल्लिङ्ग, एकवचन, कर्मणि (accusative singular)
+
+"कृष्णजन्माष्टमी सोक्ता तस्यां कृष्णव्रतोत्सवम्।"
+Krishnajanma-āṣṭamī (Krishna birth-eighth [day], feminine nominative singular) is so-called (participle passive, feminine nominative singular) in that (locative singular) Krishna vow-festival (masculine nominative singular).
+
+"कुर्वीति विधिसंयुक्तं चतुर्वर्गफलप्रदम्।"
+He/she/it does (3rd person singular present indicative) with law combined (accusative singular) the four-class fruit bestower (accusative singular).
+
+Krishnajanma-āṣṭamī is so-called on that [day]; the Krishna vow-festival, performed according to proper ritual, bestows the fruits of all four aims of human life.
+
+The festival of Krishna’s birth on the eighth day (Krishnajanma-āṣṭamī), thus named, is the Krishna vow-festival. When performed with proper ritual, it grants the fruits of the four goals of human life.

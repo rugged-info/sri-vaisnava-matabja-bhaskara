@@ -1,0 +1,34 @@
+SOURCE_PAGES: page_0106.txt
+
+=== मूलपाठः ===
+
+
+इति प्रतिपदमर्थसङ्ग्रहः।  
+अत्रोपायान्तरस्याथी निवृत्तिः प्रतिपाद्यते ।  
+सकृदित्येवकारेण तूपायनिरपेक्षता ।।४६ ।।
+
+iti pratipadamarthasaṅgrahaḥ।  
+atropāyāntarasya athī nivṛttiḥ pratipādyate ।  
+sakṛdityevakāreṇa tūpāyanirapekṣatā ।।46।।
+
+इति (iti), इति, indeclinable, particle  
+प्रतिपदम् (pratipadam), प्रतिपद्, accusative singular neuter  
+अर्थसङ्‌ग्रहः (arthasaṅgrahaḥ), अर्थसङ्‌ग्रह, nominative singular masculine, tatpuruṣa compound (अर्थ + सङ्‌ग्रहः)  
+अत्र (atra), अत्र, indeclinable, adverb  
+उपायान्तरस्य (upāyāntarasya), उपायान्तर, genitive singular masculine, tatpuruṣa compound (उपाय + अन्तर)  
+अथी (athī), अथी, nominative singular masculine/feminine (used here as a noun)  
+निवृत्तिः (nivṛttiḥ), निवृत्ति, nominative singular feminine  
+प्रतिपाद्यते (pratipādyate), प्रतिपाद्यते, verb, present passive indicative, third person singular  
+सकृद् (sakṛd), सकृद्, indeclinable, adverb  
+इति (iti), इति, indeclinable, particle  
+एव (eva), एव, indeclinable, particle  
+कारेण (kāreṇa), कारण, instrumental singular masculine  
+तूपायनिरपेक्षता (tūpāyanirapekṣatā), तूपाय + निरपेक्षता (compound, bahuvrīhi or tatpuruṣa), nominative singular feminine
+
+Thus (इति), of the word (प्रतिपदम्) meaning (अर्थसङ्‌ग्रहः).  
+Here (अत्र), of the different (अन्तर) means (उपायान्तरस्य), this (अथी) cessation (निवृत्तिः) is being expounded (प्रतिपाद्यते).  
+By the cause (कारेण) “once” (सकृद्) and “thus” (इति एव) the absence (निरपेक्षता) of other means (तूपाय) is (हा) . (Note: "हा" here not directly in text, interpreted from context.)
+
+Thus is the summary of the meaning of each word.  
+Here the cessation of other means is explained.  
+The independence from other means by the usage of the word “once thus” is taught.

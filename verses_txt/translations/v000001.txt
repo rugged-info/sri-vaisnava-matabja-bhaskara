@@ -1,0 +1,54 @@
+SOURCE_PAGES: page_0040.txt
+
+=== मूलपाठः ===
+
+
+श्रीमन्तं श्रुतिवेद्यमद्श्ुतगुणग्रामाग्यरलाकरं  
+प्रयः स्वेक्षणसंसुलज्ितमहीजाताक्षिकोणेक्षितम् ।  
+भक्तारोषमनोभिवाज्छितचतुर्व्गप्रदं स्वर्द्धमं  
+रामं स्मेरमुखाम्बुजं शुचिमहानीलाश्मकान्तिं भजे ।।१।।
+
+śrīmantaṃ śrutivedyamadśutaguṇagrāmāgyaralākaraṃ  
+prayaḥ svekṣaṇasaṃsulajitamahījātākṣikoṇekṣitam ।  
+bhaktāroṣamanobhibhājchitacaturvagapradaṃ svarddhamaṃ  
+rāmaṃ smeramukhāmbujaṃ śucimahānīlāśmakāntiṃ bhaje ।।1।।
+
+ś्रीमन्तं (śrīmantaṃ), śrīmanta, adj. acc. sg. m. (wealthy, glorious)  
+श्रुतिवेद्यम् (śrutivedyam), śruti-vedya (compound: tatpuruṣa), neut. acc. sg. (to be known by hearing/scripture)  
+अद्श्ुतगुणग्रामाऽग्यारलाकरं (adśutaguṇagrāmāgyaralākaraṃ), (compound compound; needs segmentation):  
+अद्श्ुतगुण (adśutaguṇa) - (likely a compound or misspelling, see note)  
+ग्राम (grāma), neut. m. (village)  
+आज्ञ (ājña), fem. (command)  
+रालाकरं (rālakaraṃ), (likely a compound or misreading)  
+(Note: This word seems corrupted or incorrectly joined; will treat as a compound denoting something like "bearing important features")  
+प्रयः (prayaḥ), neut. nom. sg. (effort, going)  
+स्वेक्षण (svekṣaṇa), neut. nom. sg. (self-observation)  
+संसुलजितम् (saṃsulajitam), neut. nom. sg. (to untangle, compound verb participle)  
+महिजात (mahījāta), adj. perf. nom. sg. m. (born of earth)  
+आक्षि (ākṣi), fem. acc. pl. (eyes)  
+कोण (koṇa), masc. acc. sg. (angle)  
+एक्षितम् (ekṣitam), neut. nom. sg. (looked upon, seen)  
+भक्तारोष (bhaktāroṣa), masc. nom. pl. (devotes, worshippers)  
+मनो (mano), neut. gen. sg. (of mind)  
+भिवाज्छित (bhibhājchit), part. perf. (divided, manifest)  
+चतुर्वग (caturvaga), adj. nom. sg. m. (four-legged)  
+प्रदं (pradaṃ), neut. nom. sg. (giver)  
+स्वर्धमं (svarddhamaṃ), neut. nom. sg. (self-increasing, flourishing)  
+रामं (rāmaṃ), masc. acc. sg. (Rama)  
+स्मेरमुख (smeramukha), masc. acc. sg. (smiling face)  
+अम्बुजं (ambujaṃ), masc. acc. sg. (lotus - literally 'born of water')  
+शुचिमहानीला (śucimahānīlā), adj. acc. sg. m. (pure, great blue)  
+अश्मकांतिं (aśmakāntiṃ), fem. acc. sg. (light, splendor of gemstone)  
+भजे (bhaje), verb, pres. ind. 1st or 3rd sg. (worship)
+
+Literal translation:  
+"Śrīmantaṃ" (Acc. sg. m., glorious one), "śrutivedyam" (Acc. sg. n., something known from sacred texts/hearing), "adśutaguṇagrāmāgyaralākaraṃ" (Acc. sg. m., bearing the marks of pure qualities and command of villages),  
+"prayaḥ" (Nom. sg. n., effort), "svekṣaṇasaṃsulajitam" (Nom. sg. n., by self-observation untangled), "mahījātākṣikoṇekṣitam" (Nom. sg. n., viewed at the angle of earth-born eyes).  
+"Bhaktāroṣamanobhibhājchitacaturvagapradaṃ" (Nom. sg. m., the giver of four-legged animals divided among devotees' minds), "svarddhamaṃ" (Nom. sg. n., self-flourishing),  
+"Rāmaṃ" (Acc. sg. m., Rama), "smeramukhāmbujaṃ" (Acc. sg. m., lotus-faced smiling), "śucimahānīlāśmakāntiṃ" (Acc. sg. f., shining with pure great blue gemstone-radiance), "bhaje" (I worship).
+
+Smooth English translation:  
+I worship the glorious Rama, known through sacred scriptures, bearing pure qualities like a powerful lord of villages;  
+who is the effort uncovered by self-inspection, seen through the glance of earth-born eyes;  
+the generous giver to devotees who cherish him in their hearts;  
+the flourishing one with a smiling lotus-like face, shining with the pure, radiant blue luster of a great gem.

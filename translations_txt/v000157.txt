@@ -1,0 +1,61 @@
+SOURCE_PAGES: page_0221.txt
+
+=== मूलपाठः ===
+
+
+भागवताः केवलाश्च कादाचित्का अपि द्विधा ।
+तत्र भागवता बोध्या ये तेषु भगवत्पराः ।।१५५।।
+भगवद्धोग्यभूत्यादिसाक्षात्कारसुखाश्रयाः ।
+श्रीराममानसा नित्यं तदनुध्यानतत्पराः ।।१५६।।
+केचिद् गुणानुसन्धानपराः कैडकर्यतत्पराः ।
+इत्थं महर्षिभिः प्रोक्ता द्विविधा भगवत्पराः ।।१५७।।
+
+bhāgavatāḥ kevalāśca kādācitkā api dvidhā ।
+tatra bhāgavatā bodhyā ye teṣu bhagavatparāḥ ॥155॥
+bhagavad-dhogya-bhūty-ādi-sākṣātkāra-sukhāśrayāḥ ।
+śrīrāmamānasa-nityaṁ tadanudhyānatatparāḥ ॥156॥
+kecid guṇānusandhānaparāḥ kaiḍakryatatparāḥ ।
+itthaṁ maharṣibhiḥ proktā dvidhā bhagavatparāḥ ॥157॥
+
+भागवताः (bhāgavatāḥ), भागवत (bhāgavata), nominative plural masculine;
+केवलाः (kevalāḥ), केवल (kevala), nominative plural masculine;
+अच (ca), indeclinable conjunction ‘and’;
+कादाचित्का (kādācitkā), कदाचित् (kādācit), indeclinable adverb ‘sometimes’ + कारक suffix -का used here as an emphatic particle;
+अपि (api), indeclinable particle ‘also’;
+द्विधा (dvidhā), द्वि (dvi) +धा (dhā), nominative feminine singular, adverbial use ‘in two ways’;
+तत्र (tatra), indeclinable adverb ‘there’;
+भागवता (bhāgavatā), भगवतः (bhagavataḥ), instrumental singular masculine ‘by the devoted’;
+बोध्या (bodhyā), बोध्य (bodhya), nominative feminine singular gerundive or verbal adjective ‘to be known’;
+ये (ye), relative pronoun nominative plural masculine ‘who’;
+तेषु (teṣu), तेष (teṣa), locative plural masculine ‘among them’;
+भगवत्पराः (bhagavatparāḥ), भगवतः + पर (para), nominative plural masculine compound tatpuruṣa ‘devoted to the Lord’;
+भगवद्धोग्यभूत्यादि-साक्षात्कार-सुख-आश्रयाः (bhagavad-dhogya-bhūty-ādi-sākṣātkāra-sukhāśrayāḥ), compound tatpuruṣa and bahuvrīhi (long compound), nominative plural masculine, words meaning ‘relating to enjoyment, well-being etc. of the Lord, direct realization, pleasure as refuge’;
+श्रीराममानस-नित्यं (śrīrāmamānasa-nityaṁ), compound word (tatpuruṣa), adverbial accusative singular ‘always in the mind of Lord Śrī Rāma’;
+तद्-अनुध्यान-तत्पराः (tad-anudhyāna-tatparāḥ), compound tatpuruṣa (tad + anudhyāna + tatpara), nominative plural masculine ‘devoted to meditation on that’;
+केचित् (kecit), indefinite pronoun ‘some’;
+गुणानुसन्धानपराः (guṇānusandhānaparāḥ), compound tatpuruṣa, nominative plural masculine ‘devoted to investigation of qualities’;
+कैडकर्यतत्पराः (kaiḍakryatatparāḥ), compound tatpuruṣa, nominative plural masculine, ‘engaged exclusively in devilish deeds’;
+इत्थं (itthaṁ), indeclinable adverb ‘thus’;
+मಹर्षಿಭिः (maharṣibhiḥ), महर्षि (maharṣi), instrumental plural masculine ‘by the great sages’;
+प्रोक्ता (proktā), perfect passive participle nominative plural masculine, ‘declared’;
+द्विविधा (dvidhā), feminine singular nominative adverb ‘twofold’;
+भगवत्पराः (bhagavatparāḥ), nominative plural masculine ‘those devoted to the Lord’.
+
+Lord’s devotees and the merely devoted are also, sometimes, twofold.
+There, the devoted to the Lord (bhāgavatā) are to be known:
+those among them who are devoted to the Lord (bhagavatparāḥ),
+linked with enjoyment, well-being, etc. of the Lord, direct realization and refuge in pleasure;
+those always devoted to meditation on that (the Lord Śrī Rāma) in their mind;
+some are devoted to the investigation of qualities,
+others are devoted exclusively to devilish deeds.
+Thus, the great sages have declared,
+there are two kinds of devotees to the Lord.
+
+Lord’s devotees and the merely devoted are sometimes two kinds.
+Among them, those devoted to the Lord (bhagavatparāḥ) are to be known:
+those whose refuge is the Lord’s enjoyment, well-being, direct realization, and pleasure;
+those who are always devoted to meditation on Lord Śrī Rāma in the mind;
+some devoted to investigating qualities,
+others devoted exclusively to evil deeds.
+Thus, the great sages have declared,
+that the devotees of the Lord are twofold.

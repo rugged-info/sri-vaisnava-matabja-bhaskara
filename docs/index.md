@@ -11,6 +11,24 @@ permalink: /
 
 ---
 
+---
+layout: page
+title: "Śrī Vaiṣṇava Matābja Bhāskara — Table of Contents"
+---
+
+## Table of Contents
+
+1. [First Reply to the Question: Investigation of Reality (1–31)](verse_root_dir/01/)
+2. [Second Reply to the Question: Determination of the Mantra to Be Repeated (32–76)](verse_root_dir/02/)
+3. [Third Reply to the Question: Investigation of Meditation and the Object of Meditation (77–86)](verse_root_dir/03/)
+4. [Fourth Reply to the Question: Investigation of the Means to Liberation (87–154)](verse_root_dir/04/)
+5. [Fifth Reply to the Question: Investigation of the Supreme Dharma (155–171)](verse_root_dir/05/)
+6. [Sixth Reply to the Question: Classification of Vaiṣṇavas (172–189)](verse_root_dir/06/)
+7. [Seventh Reply to the Question: Characteristics of the Vaiṣṇava (190–201)](verse_root_dir/07/)
+8. [Eighth Reply to the Question: Proper Use of Time for a Vaiṣṇava (202–209)](verse_root_dir/08/)
+9. [Ninth Reply to the Question: Investigation of the Attainment (210–225)](verse_root_dir/09/)
+10. [Tenth Reply to the Question: Places Suitable for Vaiṣṇava Residence (226–249)](verse_root_dir/10/)
+
 ## 1. First Reply to the Question: Investigation of Reality (1–31)
 
 - [Hymn in Praise of Śrī Rāma (9)](./svmbb/01/001-hymn-in-praise-of-sri-rama.html)

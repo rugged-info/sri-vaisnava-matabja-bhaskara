@@ -1,0 +1,25 @@
+SOURCE_PAGES: page_0165.txt
+
+=== मूलपाठः ===
+
+
+नित्यं सा पुरुषाकारभ्रूता सीताऽनपायिनी ।
+अनुपायान्तरैर्विज्ञैरुच्यते तदुपायता ।।१०६।।  
+
+nityaṁ sā puruṣākārabhrūtā sītānapāyinī ।  
+anupāyāntarairvijñairucyate tadupāyatā ।।106।।  
+
+नित्यं (nityaṁ), नित्य (adj., acc. sg. neuter)  
+सा (sā), सः (pronoun, nom. sg. fem.)  
+पुरुषाकारभ्रूता (puruṣākārabhrūtā), पुरुषाकारभृता (compound: पुरुषाकार (puruṣākāra, "man-like form") + भृता (bhṛtā, "having" fem. sg. nom.) - tatpuruṣa compound; adj., nom. sg. fem.)  
+सीताऽनपायिनी (sītānapāyinī), सीता (sītā, adj. "white, pure") + अनपायिनी (anapāyinī, adj., fem. sg. nom. "unhurt, uninjured") compound; vocative form with elision (ऽ); adj., nom. sg. fem.  
+अनुपायान्तरैः (anupāyāntaraiḥ), अनुपायान्तर (anupāyāntara, "different from other means"), instr. pl. masc./neut. (compound of अनुपाय (means) + अंतर (difference), tatpuruṣa)  
+विज्ञैः (vijñaiḥ), विज्ञ (adj./noun "learned, expert"), instr. pl. masc.  
+उच्यते (ucyate), √उच् (uc), verb, present passive indicative 3rd sg.  
+तत् (tat), तत् (pronoun, nom./acc. sg. neuter)  
+उपायता (upāyatā), उपाय (means, device) + ता (abstract noun suffix), nom. sg. fem.  
+
+Always (nityaṁ) she (sā), having a shape like a man (puruṣākāra-bhrūtā) and pure/uninjured (sītānapāyinī),  
+by learned ones (vijñaiḥ) she who is different from other means (anupāyāntaraiḥ) is called (ucyate) that means/devise (tad-upāyatā).  
+
+She is always called that means, pure and invulnerable, having a human form, by the experts who distinguish her from other methods.

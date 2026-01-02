@@ -1,0 +1,42 @@
+SOURCE_PAGES: page_0150.txt
+
+=== मूलपाठः ===
+
+
+कृतार्थयितुं जात इति भावः  
+तामष्टमीवेधयुतां विहाय व्रतोत्सवं तत्र करोतु भक्तः ।  
+असङ्ख्यसूर्यग्रहतोऽधिका वे या केवला सा नवमीत्युपोष्या ।।८८।।  
+
+kṛtārthyituṃ jāta iti bhāvaḥ  
+tāmaṣṭamīvedhayutāṃ vihāya vratotsavaṃ tatra karotu bhaktaḥ ।  
+asaṅkhyasūryagrahato'dhikā ve yā kevalā sā navmītyupoṣyā ।।88।।  
+
+कृतार्थयितुम् (kṛtārthyitum), कृतार्थयितु (verbal noun/infinitive), अकर्मक, तत्पुरुष (कृत + अर्थयितुं)  
+जात (jāta), जात (participle), प्रथमा एकवचन पुरुषम्  
+इति (iti), इति (particle), अव्यय  
+भावः (bhāvaḥ), भाव (masculine, nominative singular), सामान्य पुरुष (subject)  
+तामष्टमीवेधयुतां (tāmaṣṭamīvedhayutāṃ), ताम् (accusative singular feminine) + अष्टमी (name of the eighth lunar day) + वेध (sacrificial observation) + युतां (past passive participle, accusative singular feminine), बहुव्रीहि  
+विहाय (vihāya), विहाय (gerund), अव्यय  
+व्रतोत्सवं (vratotsavaṃ), व्रत + उत्सव (masculine, accusative singular), तत्पुरुष  
+तत्र (tatra), तत्र (adverb), अव्यय  
+करोतु (karotu), कृ (verb root), विधिलिङ्, तीसरा पुरुष एकवचन, आदेशवाचक  
+भक्तः (bhaktaḥ), भक्त (masculine nominative singular)  
+असङ्ख्यसूर्यग्रहतोऽधिका (asaṅkhyasūryagrahato'dhikā), असङ्ख्य (indefinite numeral), सूर्यग्रह (sun & planets) + तस्+अधिक (feminine nominative singular), बहुव्रीहि  
+वे (ve), वे (particle, emphasis), अव्यय  
+या (yā), य (feminine nominative singular relative pronoun)  
+केवला (kevalā), केवला (feminine nominative singular adjective)  
+सा (sā), स (feminine nominative singular pronoun)  
+नवमीत्युपोष्या (navamītyupoṣyā), नवमी (ninth lunar day) + तपस्य (gerund or feminine adjective), अव्यय/बहुव्रीहि (compound of ordinal and verbal noun)  
+
+(1) कृतार्थयितुं जात इति भावः  
+(A feeling/perception that) (2) the one born to fulfill (a purpose) (is born) (3) so (is) the state/feeling.  
+
+(4) तामष्टमीवेधयुतां विहाय व्रतोत्सवं तत्र करोतु भक्तः  
+(The devotee) (giving up) (the sacrificial observation connected with the Ashtami) (should perform) (the vow-festival) there.  
+
+(5) असङ्ख्यसूर्यग्रहतोऽधिका वे या केवला सा नवमीत्युपोष्या  
+(Which) (unequalled by the countless sun and planets) (alone that) (female) (is) (the one) (to be fasted on the Navami day).  
+
+The feeling is that the one born for fulfillment (of purpose) is born.  
+The devotee, forsaking the sacrificial observances connected with the eighth lunar day, should perform the vow festival there.  
+That which surpasses the countless sun and planets, she alone is to be observed by fasting on the ninth lunar day.
