@@ -11,7 +11,7 @@ permalink: /
 
 ---
 
-## 1. First Reply to the Question: Investigation of Reality (1–39)
+## 1. First Reply to the Question: Investigation of Reality (1–31)
 
 - [Hymn in Praise of Śrī Rāma (9)](./svmbb/01/001-hymn-in-praise-of-sri-rama.html)
 - [Hymn in Praise of Śrī Sītā (8)](./svmbb/01/002-hymn-in-praise-of-sri-sita.html)
@@ -24,7 +24,7 @@ permalink: /
 
 ---
 
-## 2. Second Reply to the Question: Determination of the Mantra to Be Repeated (22–76)
+## 2. Second Reply to the Question: Determination of the Mantra to Be Repeated (32–76)
 
 - [Explanation of the Repetitional Mantra (32)](./svmbb/02/001-explanation-of-the-repetitional-mantra.html)
 - [Greatness of the King of Mantras (34)](./svmbb/02/002-greatness-of-the-king-of-mantras.html)
