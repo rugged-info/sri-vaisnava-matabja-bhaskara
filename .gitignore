@@ -71,6 +71,9 @@ _site/
 # ==========================
 *.log
 *.tmp
+_missing_verses.txt
+missing_txts
+
 
 # ==========================
 # OS / Editor Noise
@@ -82,3 +85,4 @@ _site/
 *.swp
 *.swo
 *~
+
