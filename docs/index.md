@@ -11,7 +11,7 @@ permalink: /
 
 ---
 
-## 1. First Reply to the Question: Investigation of Reality (1–391)
+## 1. First Reply to the Question: Investigation of Reality (1–39)
 
 - [Hymn in Praise of Śrī Rāma (9)](./svmbb/01/001-hymn-in-praise-of-sri-rama.html)
 - [Hymn in Praise of Śrī Sītā (8)](./svmbb/01/002-hymn-in-praise-of-sri-sita.html)
