@@ -4,18 +4,12 @@ title: "Śrī Vaiṣṇava Matābja Bhāskara — Table of Contents"
 permalink: /
 ---
 
-# Table of Contents
+# Śrī Vaiṣṇava Matābja Bhāskara
 
 > Site structure follows the English TOC. Each subsection links to a (currently placeholder) page.
 > Replace link targets once your verse-pages are generated.
 
 ---
-
----
-layout: page
-title: "Śrī Vaiṣṇava Matābja Bhāskara — Table of Contents"
----
-
 ## Table of Contents
 
 ---
